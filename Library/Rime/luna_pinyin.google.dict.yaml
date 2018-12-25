@@ -1,10 +1,10 @@
 #  luna_pinyin.google.dict.yaml
 ---
-name: luna_pinyin.google    #这就是你自定义的词库的名字:sogou，后面还要用到
-version: "2018.11.30"       #版本时间，最好填当前时间，要版本控制的意识
+name: luna_pinyin.google    # Name
+version: "2018.11.30"       
 sort: by_weight
-use_preset_vocabulary: true
-
+use_preset_vocabulary: true # The three dots followed is necessary
+...
 
 啊	a	162
 阿	a	1
