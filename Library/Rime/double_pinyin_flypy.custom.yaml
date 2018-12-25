@@ -27,4 +27,4 @@
 
 patch:
   # 載入朙月拼音擴充詞庫
-  "translator/dictionary": luna_pinyin.extended
+  "translator/dictionary": double_pinyin.extended
