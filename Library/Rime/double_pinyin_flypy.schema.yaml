@@ -1,4 +1,4 @@
-customization: 1413447690
+customization: 1815814057
 engine:
   filters:
     - simplifier
@@ -51,7 +51,7 @@ schema:
     
   name: "小鶴雙拼"
   schema_id: double_pinyin_flypy
-  version: 0.18.custom.1413447690
+  version: 0.18.custom.1815814057
 speller:
   algebra:
     - "erase/^xx$/"
@@ -97,7 +97,7 @@ switches:
   - name: ascii_punct
     states: ["。，", "．，"]
 translator:
-  dictionary: luna_pinyin.extended
+  dictionary: double_pinyin.extended
   preedit_format:
     - "xform/([bpmfdtnljqx])n/$1iao/"
     - "xform/(\\w)g/$1eng/"
