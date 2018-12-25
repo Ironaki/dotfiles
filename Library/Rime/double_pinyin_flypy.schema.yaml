@@ -1,4 +1,4 @@
-customization: 3143171138
+customization: 1413447690
 engine:
   filters:
     - simplifier
@@ -51,7 +51,7 @@ schema:
     
   name: "小鶴雙拼"
   schema_id: double_pinyin_flypy
-  version: 0.18.custom.3143171138
+  version: 0.18.custom.1413447690
 speller:
   algebra:
     - "erase/^xx$/"
