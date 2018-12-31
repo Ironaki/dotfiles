@@ -1,0 +1,24 @@
+#!/bin/bash
+# convert md hw to pdf with pandoc
+# can clean as well 
+
+pandoc -s working.md -o working.tex
+xelatex working.tex
+open working.pdf
+
+if [ "$1" == "-c" ]; then
+            rm working.[!pmt]*
+            echo "cleaned additional files"
+fi
+
+# while getopts ":c" opt; do
+#     case $opt in
+#         c)
+#             rm working.[!pmt]*
+#             echo "cleaned additional files"
+#             ;;
+#         \?)
+#             echo "Invalid option: -$OPTARG" >&2
+#             ;;
+#     esac
+# done

@@ -1,0 +1,44 @@
+#!/Users/Armstrong/anaconda/bin/python
+
+from sys import argv
+
+
+def alnum_underscore(words):  # have fun with functional programming :)
+    if not words:
+        return invalid()
+
+    res = ("_".join(map(lambda w:
+                        "".join(filter(lambda x:
+                                       x == "_" or x.isalnum(), w.strip(" ").lower().replace(" ", "_"))),
+                        words)))
+    return res
+
+
+def alnum_java(words):
+
+    clean = alnum_underscore(words).split("_")
+    rest = "".join([x.capitalize() for x in clean[2:]])
+    head = "Q"+clean[0]+"_"+clean[1]
+    return head+rest
+
+
+def invalid():
+    print("Invalid input")
+    exit()
+
+
+if __name__ == "__main__":
+
+    if len(argv) < 2:
+        invalid()
+
+    flags = ["-u", "-java"]
+
+    if argv[1] not in flags:  # Default: replace with underscore
+        print(alnum_underscore(argv[1:]))
+
+    if argv[1] == "-u":
+        print(alnum_underscore(argv[2:]))
+
+    if argv[1] == "-java":
+        print(alnum_java(argv[2:]))
