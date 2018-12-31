@@ -32,9 +32,11 @@ _weatherr() {
 }
 alias wee='_weatherr'
 
-
-# For rvm
+# rvm
 source ~/.profile
 
-. /usr/local/etc/profile.d/z.sh
+# z
+. /usr/local/etc/profile.d/z.sh  
 
+# kill all finder windows
+alias kf="osascript -e 'tell application \"Finder\" to close every window'"

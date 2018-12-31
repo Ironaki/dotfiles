@@ -39,5 +39,4 @@ alias tip="cat ~/.useful_bash_commands"
 alias screenfetch="screenfetch -E" # -E to ignore error
 alias we="weather -u si"
 alias zl="z -l"
-alias konfig="git --git-dir=$HOME/.konfig --work-tree=$HOME"
 alias cfg="yadm"
