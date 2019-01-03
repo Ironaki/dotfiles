@@ -2,6 +2,7 @@
 ** 外观设置
 - [[./squirrel.custom.yaml]]
 ** 拼写方案
+- [[./default.custom.yaml]]    保留使用的方案
 - [[./double_pinyin_flypy.schema.yaml]]    小鹤双拼方案
 ** 词库设置
 - [[./double_pinyin_flypy.custom.yaml]]    小鹤双拼
