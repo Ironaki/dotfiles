@@ -40,3 +40,6 @@ alias screenfetch="screenfetch -E" # -E to ignore error
 alias we="weather -u si"
 alias zl="z -l"
 alias cfg="yadm"
+alias timer="utimer -c"
+alias stopwatch="utimer -s"
+alias sw="utimer -s"
