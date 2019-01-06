@@ -1,0 +1,74 @@
+;; 1. Personal Packages
+(prelude-require-packages '(smex
+                            evil
+                            window-numbering
+                            solarized-theme
+                            linum-relative
+                            org-bullets))
+
+
+;; 2. Essential Editing Config
+;; Switch Delete and C-h
+;; Make C-h delete backward, <delete> help
+(define-key key-translation-map (kbd "C-h") (kbd "<deletechar>"))
+(define-key key-translation-map (kbd "<deletechar>") (kbd "C-h"))
+(global-set-key (kbd "<deletechar>") 'delete-backward-char)
+
+;; C-k always kill the current buffer
+(defun iro/kill-this-buffer ()
+  "Kill the current buffer."
+  (interactive)
+  (kill-buffer (current-buffer)))
+
+(global-set-key (kbd "C-x k") 'iro/kill-this-buffer)
+
+;; 3. UI setting
+;; Basic UI
+(set-frame-font "Menlo 18" nil t)
+(scroll-bar-mode -1) ;; no scroll bar
+(setq linum-relative-backend 'display-line-numbers-mode)
+(linum-relative-global-mode 1) ;; relative line number
+(window-numbering-mode 1)
+(setq prelude-whitespace nil) ;; whitespace mode too annoying
+
+
+;; Do not use background color in terminal
+(defun on-after-init ()
+  (unless (display-graphic-p (selected-frame))
+    (set-face-background 'default "unspecified-bg" (selected-frame))))
+(add-hook 'window-setup-hook 'on-after-init)
+
+
+;; dired hide details by default
+(add-hook 'dired-mode-hook 'dired-hide-details-mode)
+
+;; Smex
+(setq-default smex-save-file (expand-file-name ".smex-items" user-emacs-directory))
+;;(global-set-key (kbd "M-x") 'smex)
+;;(global-set-key (kbd "C-x M-x") 'execute-extended-command)
+
+
+;; 4. Utilities
+;; Backup and auto saving setting
+(setq auto-save-file-name-transforms `((".*" , "~/.emacs.temp/" t)))
+(setq backup-directory-alist
+      `((".*" . , "~/.emacs.temp/")))
+(setq delete-old-versions t
+      kept-new-versions 6
+      kept-old-versions 2
+      version-control t)
+(setq backup-by-copying-when-linked t)
+
+;; Python language
+(setq python-shell-interpreter "ipython"
+      python-shell-interpreter-args "-i --simple-prompt")
+(setq python-indent-offset 4)
+
+;; Org
+(defun iro/org-hook ()
+    (org-bullets-mode)
+    (org-indent-mode)
+    (setq org-ellipsis " ~~>")
+    (setq truncate-lines nil)
+    (setq org-image-actual-width (/ (display-pixel-width) 3)))
+(add-hook 'org-mode-hook 'iro/org-hook)
