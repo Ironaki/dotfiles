@@ -1,0 +1,184 @@
+#!/Users/Armstrong/anaconda/bin/python
+# coding: utf-8
+
+import random
+import shutil
+from datetime import datetime
+
+
+def read_file(path, num):
+    """ Read in a file at current level,
+    randomly select num words (all words if num is larger than the available words)
+
+    Args:
+        path: path to the file
+        num: number of vocabs working on
+
+    Returns:
+        non_mem_list: the vocab not working on
+        mem_list: the vocab to work on
+    """
+    with open(path, "r") as file:
+        lines = file.readlines()
+
+    lines = lines[1:]  # The first line is the time stamp
+    line_num = len(lines)
+    if line_num < num:
+        print("There are only {} words".format(line_num))
+        num = line_num
+
+    mem_list = random.sample(lines, num)
+    non_mem_list = []
+
+    for word in lines:
+        if word not in mem_list:
+            non_mem_list.append(word)
+
+    return non_mem_list, mem_list
+
+
+def word_option(word_line):
+    """ Show the word
+
+    Options:
+        d: details if available
+        replace: replace the word
+        delete: delete the word
+        add: add new details for the word
+
+    Return:
+        word_line: word, altered if used alter command
+        bool: whether or not memorized
+    """
+    alt_command = ["delete", "replace", "a"]
+    y_n = ["y", "n"]
+    print("~~~>")
+
+    if "**" not in word_line:  # When there are no details
+        print(word_line.strip(" \n　"))
+        ans = input("y/n: ")
+
+        if ans in alt_command:
+            if ans == "delete":
+                return "", False
+            if ans == "replace":
+                new_word = input("Replace with: ")
+                word_line = new_word+"\n"
+            if ans == "a":
+                extra = input("Enter new details: ")
+                word_line = word_line.replace("\n", " ** "+extra+"\n")
+
+        while ans not in y_n:
+            ans = input("y/n: ")
+
+        if ans == "y":
+            return word_line, True
+        if ans == "n":
+            return word_line, False
+    else:  # When there are details
+        word = word_line.split("**")
+        print(word[0].strip(" 　"))
+        ans = input("y/n/d: ")
+
+        if ans == "d":
+            print(word[1].strip(" 　\n"))
+            ans = input("y/n: ")
+
+        if ans in alt_command:
+            if ans == "delete":
+                return "", False
+            if ans == "replace":
+                new_word = input("Replace with: ")
+                word_line = new_word
+            if ans == "amend":
+                extra = input("Enter new details: ")
+                word_line = word_line.replace("\n", " "+extra+"\n")
+
+        while ans not in y_n:
+            ans = input("y/n: ")
+
+        if ans == "y":
+            return word_line, True
+        if ans == "n":
+            return word_line, False
+
+
+if __name__ == "__main__":
+
+    TOTAL_LEVEL = 5
+    valid_level = [str(x) for x in range(1, TOTAL_LEVEL+1)]
+
+    # Backup file first
+    with open("bak/time", "w") as file:
+        file.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    for txt in valid_level:
+        shutil.copy(txt+".txt", "bak/")
+
+    # User input level information
+    level = "0"
+    while level not in valid_level:
+        level = input("What is the level to review? ")
+        if level not in valid_level:
+            print("A valid level is between 1 and {}.".format(TOTAL_LEVEL))
+    level = int(level)
+
+    # User input vocab number
+    n = 0
+    while n <= 0 or n >= 100:
+        n = input("How many words to work on? ")
+        try:
+            n = int(n)
+        except:
+            print("Please enter a positive number.")
+            n = 0
+            continue
+        if n >= 100:
+            print("{} seems a lot.".format(n))
+            con = input("Do you want to continue? ")
+            if con == "y":
+                break
+
+    print("You want to review {} words at level {}".format(n, level))
+
+    # now read the file
+    non_mem_list, mem_list = read_file(str(level)+".txt", n)
+    stay_list = []
+    prom_list = []
+
+    stay_level = level
+    prom_level = level+1
+    if level == TOTAL_LEVEL:
+        stay_level = 1
+        prom_level = level
+
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~")
+    print("y/n for memorized or not")
+    print("d for details if available")
+    print("a to add details to the word")
+    print("delete to delete the word")
+    print("replace to replace the word")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~")
+
+    for word_line in mem_list:
+        word_line, to_prom = word_option(word_line)
+        if word_line:
+            if to_prom:
+                prom_list.append(word_line)
+            else:
+                stay_list.append(word_line)
+
+    # Overwrite the original file with new timestamp
+    with open(str(stay_level)+".txt", "w") as file:
+        file.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S")+"\n")
+        for line in non_mem_list:
+            file.write(line)
+        for line in stay_list:
+            file.write(line)
+
+    # Append memorized word to the higher level file
+    with open(str(prom_level)+".txt", "a") as file:
+        for line in prom_list:
+            file.write(line)
+
+    print("(^•ω •^) Great, you worked on {} words, and memorized {}"
+          .format(len(mem_list), len(prom_list)))
