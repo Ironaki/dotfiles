@@ -89,8 +89,8 @@ def word_option(word_line):
                 return "", False
             if ans == "replace":
                 new_word = input("Replace with: ")
-                word_line = new_word
-            if ans == "amend":
+                word_line = new_word+"\n"
+            if ans == "a":
                 extra = input("Enter new details: ")
                 word_line = word_line.replace("\n", " "+extra+"\n")
 

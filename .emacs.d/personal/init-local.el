@@ -4,7 +4,8 @@
                             window-numbering
                             solarized-theme
                             linum-relative
-                            org-bullets))
+                            org-bullets
+                            nlinum))
 
 
 ;; 2. Essential Editing Config
