@@ -19,7 +19,7 @@ alias -g gg="| grep  --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn}"
 alias copy="pbcopy"
 alias dus="du -sh"
 
-#c installed tools alias
+#3. installed tools alias
 alias pa="realpath"
 alias x="emacs -nw"
 alias xs="emacs &"
@@ -43,3 +43,8 @@ alias cfg="yadm"
 alias timer="utimer -c"
 alias stopwatch="utimer -s"
 alias sw="utimer -s"
+
+#4. proxy
+alias proxyss="export http_proxy=http://127.0.0.1:1087 https_proxy=http://127.0.0.1:1087"
+alias proxypanda="export http_proxy=http://127.0.0.1:10080 https_proxy=http://127.0.0.1:10080"
+alias unproxy="unset http_proxy https_proxy"
