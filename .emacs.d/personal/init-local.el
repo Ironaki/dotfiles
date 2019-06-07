@@ -48,6 +48,10 @@
 ;;(global-set-key (kbd "M-x") 'smex)
 ;;(global-set-key (kbd "C-x M-x") 'execute-extended-command)
 
+;; Start with org mode
+(setq initial-major-mode 'org-mode)
+(setq initial-scratch-message "")
+
 
 ;; 4. Utilities
 ;; Backup and auto saving setting
