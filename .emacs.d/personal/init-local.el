@@ -5,10 +5,11 @@
                             solarized-theme
                             linum-relative
                             org-bullets
-                            nlinum))
+                            nlinum
+                            ledger-mode))
 
 
-;; 2. Essential Editing Config
+;; . Essential Editing Config
 ;; Switch Delete and C-h
 ;; Make C-h delete backward, <delete> help
 (define-key key-translation-map (kbd "C-h") (kbd "<deletechar>"))
@@ -77,3 +78,9 @@
     (setq truncate-lines nil)
     (setq org-image-actual-width (/ (display-pixel-width) 3)))
 (add-hook 'org-mode-hook 'iro/org-hook)
+
+;; Ledger
+(defun iro/ledger-hook()
+  (setq ledger-default-date-format ledger-iso-date-format))
+
+(add-hook 'ledger-mode-hook 'iro/ledger-hook)
