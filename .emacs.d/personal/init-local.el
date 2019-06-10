@@ -9,7 +9,7 @@
                             ledger-mode))
 
 
-;; . Essential Editing Config
+;; 2. Essential Editing Config
 ;; Switch Delete and C-h
 ;; Make C-h delete backward, <delete> help
 (define-key key-translation-map (kbd "C-h") (kbd "<deletechar>"))
