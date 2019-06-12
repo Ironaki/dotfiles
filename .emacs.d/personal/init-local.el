@@ -84,3 +84,31 @@
   (setq ledger-default-date-format ledger-iso-date-format))
 
 (add-hook 'ledger-mode-hook 'iro/ledger-hook)
+
+;; iBuffer
+(setq ibuffer-saved-filter-groups
+      '(("Main"
+         ("Dired" (mode . dired-mode))
+         ("Org" (name . "^.*org$"))
+         ("Magit" (name . "^magit"))
+         ("Shell" (or (mode . eshell-mode) (mode . shell-mode)))
+         ("Python" (mode . python-mode))
+         ("Emacs" (or (name . "^\\*scratch\\*$")
+                      (name . "^\\*Messages\\*$")))
+         ("Help" (or (name . "\\*Help\\*")
+		     (name . "\\*Apropos\\*")
+		     (name . "\\*info\\*")))
+         ;; ("web" (or (mode . web-mode) (mode . js2-mode)))
+         ;; ("mu4e" (name . "\*mu4e\*"))
+         ;; ("programming" (or
+         ;;                (mode . python-mode)
+         ;;                (mode . c++-mode)))
+         )))
+
+(add-hook 'ibuffer-mode-hook
+          (lambda ()
+            (ibuffer-auto-mode 1)
+            (ibuffer-switch-to-saved-filter-groups "Main")))
+
+(setq ibuffer-show-empty-filter-groups nil)
+(setq ibuffer-expert t)
