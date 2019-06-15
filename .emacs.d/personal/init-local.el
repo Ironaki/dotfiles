@@ -65,10 +65,13 @@
       version-control t)
 (setq backup-by-copying-when-linked t)
 
-;; Python language
+;; Python
 (setq python-shell-interpreter "ipython"
       python-shell-interpreter-args "-i --simple-prompt")
 (setq python-indent-offset 4)
+
+;; elisp
+(add-hook 'elisp-mode (lambda () (smartparens-strict-mode)))
 
 ;; Org
 (defun iro/org-hook ()
@@ -77,6 +80,15 @@
     (setq org-ellipsis " ~~>")
     (setq truncate-lines nil)
     (setq org-image-actual-width (/ (display-pixel-width) 3)))
+
+(setq org-todo-keyword-faces
+      '(("EMERGENCY" . (:foreground "#DC143C" :weight bold))
+        ("TODO" . "#808080")))
+
+(setq org-todo-keywords
+      '((sequence "TODO" "DONE")
+        (sequence "PENDING" "EMERGENCY" "DEFER" "|")))
+
 (add-hook 'org-mode-hook 'iro/org-hook)
 
 ;; Ledger
