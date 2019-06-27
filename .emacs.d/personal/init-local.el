@@ -6,7 +6,8 @@
                             linum-relative
                             org-bullets
                             nlinum
-                            ledger-mode))
+                            ledger-mode
+                            ob-ipython))
 
 
 ;; 2. Essential Editing Config
@@ -90,6 +91,25 @@
         (sequence "PENDING" "EMERGENCY" "DEFER" "|")))
 
 (add-hook 'org-mode-hook 'iro/org-hook)
+
+
+;; Org literate programming
+(org-babel-do-load-languages
+ 'org-babel-load-languages
+ '(
+   (python . t)
+   (ipython . t)
+   ;; (sh . t)
+   (shell . t)
+   (scala . t)
+   ;; Include other languages here...
+   ))
+
+;; Don't prompt before running code in org
+(setq org-confirm-babel-evaluate nil)
+
+;; Fix an incompatibility between the ob-async and ob-ipython packages
+;; (setq ob-async-no-async-languages-alist '("ipython"))
 
 ;; Ledger
 (defun iro/ledger-hook()
