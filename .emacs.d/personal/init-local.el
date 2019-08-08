@@ -7,7 +7,8 @@
                             org-bullets
                             nlinum
                             ledger-mode
-                            ob-ipython))
+                            ob-ipython
+                            org-present))
 
 
 ;; 2. Essential Editing Config
@@ -108,6 +109,20 @@
 ;; Don't prompt before running code in org
 (setq org-confirm-babel-evaluate nil)
 
+(eval-after-load "org-present"
+  '(progn
+     (add-hook 'org-present-mode-hook
+               (lambda ()
+                 (org-present-big)
+                 (org-display-inline-images)
+                 (org-present-hide-cursor)
+                 (org-present-read-only)))
+     (add-hook 'org-present-mode-quit-hook
+               (lambda ()
+                 (org-present-small)
+                 (org-remove-inline-images)
+                 (org-present-show-cursor)
+                 (org-present-read-write)))))
 ;; Fix an incompatibility between the ob-async and ob-ipython packages
 ;; (setq ob-async-no-async-languages-alist '("ipython"))
 
