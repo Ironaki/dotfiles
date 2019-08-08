@@ -1,4 +1,6 @@
-function qtmono {
+# qtmono
+# ffmpeg => For files with only one audio track, copy one audio track to another one
+qtmono() {
         basename=$(basename "$1")
         filename="${basename%.*}"
         extension="${basename##*.}"
@@ -6,7 +8,10 @@ function qtmono {
         ffmpeg -i $1 -codec:v copy -af pan="mono| c0=FR" $filename-mono.$extension
 }
 
-_weatherr() {
+# wee
+# get weather information
+# all the code here is just for fixing color problems in a light theme
+wee() {
     curl -s "wttr.in/$1?m$2" \
         | sed -e 's:021m:017m:g' \
               -e 's:027m:017m:g' \
@@ -30,7 +35,18 @@ _weatherr() {
               -e 's:202m:196m:g' \
         | sed '$d'
 }
-alias wee='_weatherr'
+
+# cattJupyter
+# nbconvert, highlight => Instead of cat out plain json (.ipynb), convert the file to highlighted python
+cattJupyter() {
+    jupyter nbconvert --to python --stdout $1 | catt
+}
+
+# gdiff
+# colordiff => git diff style output
+gdiff() {
+    colordiff -u $@ | less -R
+}
 
 # rvm
 source ~/.profile
