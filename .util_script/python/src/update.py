@@ -1,0 +1,16 @@
+"""
+Copy the file from src folder to the parent folder
+Drop .py extension
+Chmod the new file to 755
+"""
+from shutil import copyfile
+from os import chmod
+
+
+FILES = ["vocab", "lcinit"]
+
+for file in FILES:
+    old_file = file+".py"
+    new_file = "../"+file
+    copyfile(old_file, new_file)
+    chmod(new_file, 0o755)
