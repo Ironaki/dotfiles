@@ -17,31 +17,39 @@ import shutil
 from datetime import datetime
 
 
-def read_file(path, num):
-    """ Read in a file at current level,
-    randomly select words to memerize (all words if num is larger than the available words)
+def read_file(path):
+    """ Read in a file, return list of vocabs (all lines except the first one)
 
     Args:
         path: path of the file
-        num: number of vocabs to work on
 
     Returns:
-        non_mem_list: the vocab not to work on
-        mem_list: the vocab to work on
+        vocab_list: list of vocabs
     """
     with open(path, "r") as file:
         lines = file.readlines()
+            
+    return lines[1:]  # The first line is the time stamp
 
-    lines = lines[1:]  # The first line is the time stamp
-    line_num = len(lines)
-    if line_num < num:
+
+def split_list(vocab_list, num):
+    """ Randomly split vocabs list into vocab list to memorize and not to memorize (all words if num is larger than the available words)
+
+    Args:
+        vocab_list: list of vocabs
+        num: number of vocabs to work on
+
+    Returns:
+        mem_list: the vocab to work on
+        non_mem_list: the vocab not to work on
+    """
+    line_num = len(vocab_list)
+    if line_num < num: # When num of vocabs to work on > num of vocabs available
         print("There are only {} words. Select all".format(line_num))
         num = line_num
-
-    mem_list = random.sample(lines, num)
-    non_mem_list = [word for word in lines if word not in set(mem_list)]
-
-    return non_mem_list, mem_list
+    
+    random.shuffle(vocab_list)
+    return vocab_list[:num], vocab_list[num:]
 
 
 def word_option(word_line):
@@ -142,7 +150,7 @@ if __name__ == "__main__":
             print("Please enter a positive number.")
             n = 0
             continue
-        if n >= 100:
+        if n >= 30:
             print("{} seems a lot.".format(n))
             con = input("Do you want to continue? ")
             if con == "y":
@@ -151,7 +159,8 @@ if __name__ == "__main__":
     print("You want to review {} words at level {}".format(n, level))
 
     # now read the file
-    non_mem_list, mem_list = read_file(str(level)+".txt", n)
+    vocab_list = read_file(str(level)+".txt")
+    mem_list, non_mem_list = split_list(vocab_list, n)
     stay_list = []
     prom_list = []
 
