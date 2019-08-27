@@ -12,11 +12,13 @@
 
 
 ;; 2. Essential Editing Config
-;; Switch Delete and C-h
-;; Make C-h delete backward, <delete> help
-(define-key key-translation-map (kbd "C-h") (kbd "<deletechar>"))
+;; Change Ctrl-h to backspace (Done by karabiner; Commented out)/ Change backspace key to help
+;; <deletechar> is delete forward
+;; <backsapce> is translated automatically to DEL, which is delete backward
+;; (define-key key-translation-map (kbd "C-h") (kbd "<deletechar>"))
+;; (define-key key-translation-map (kbd "<deletechar>") (kbd "C-h"))
+;; press fn+delete for help
 (define-key key-translation-map (kbd "<deletechar>") (kbd "C-h"))
-(global-set-key (kbd "<deletechar>") 'delete-backward-char)
 
 ;; C-k always kill the current buffer
 (defun iro/kill-this-buffer ()
