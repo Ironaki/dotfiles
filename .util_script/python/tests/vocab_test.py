@@ -29,3 +29,12 @@ def test_split_list():
     mem_list_4, non_mem_list_4 = vocab.split_list(vocab_list_c4, 10)
     assert (mem_list_2, non_mem_list_2) != (mem_list_4, non_mem_list_4)
     
+if __name__ == "__main__":
+    # Test choose_level
+    TOTAL_LEVEL = 5
+    VALID_LEVEL = [x for x in range(1, TOTAL_LEVEL+1)]
+    level = vocab.choose_level(VALID_LEVEL, TOTAL_LEVEL)
+    print("SUCCESS! choose_level returns:", level)
+    # Test choose_number_of_words    
+    num = vocab.choose_number_of_words()
+    print("SUCESS! choose_number_of_words:", num)
