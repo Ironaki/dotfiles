@@ -80,7 +80,7 @@ def word_option(word_line):
         print(word_line.strip(" \n　"))
         ans = input("y/n: ")
 
-        if ans in alt_command:
+        if ans in alt_command:  # accept alternative command
             if ans == "delete":
                 return "", False
             if ans == "replace":
@@ -93,16 +93,13 @@ def word_option(word_line):
         while ans not in y_n:
             ans = input("y/n: ")
 
-        if ans == "y":
-            return word_line, True
-        if ans == "n":
-            return word_line, False
+        return word_line, True if ans == "y" else word_line, False
     else:  # When there are details
         word = word_line.split("**")
         print(word[0].strip(" 　"))
         ans = input("y/n/d: ")
 
-        if ans == "d":
+        if ans == "d":  # Show details
             print(word[1].strip(" 　\n"))
             ans = input("y/n: ")
 
@@ -119,10 +116,7 @@ def word_option(word_line):
         while ans not in y_n:
             ans = input("y/n: ")
 
-        if ans == "y":
-            return word_line, True
-        if ans == "n":
-            return word_line, False
+        return word_line, True if ans == "y" else word_line, False
 
 
 def word_run_options(vocab_list):
@@ -224,7 +218,7 @@ def get_stay_prom_level(level, max_level):
 
 def print_instruction():
     """ Print out instruction """
-    INSTRUCTION = """
+    instruction = """
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 y/n for memorized or not
 d for details if available
@@ -233,7 +227,7 @@ delete to delete the word
 replace to replace the word
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 """
-    print(INSTRUCTION)
+    print(instruction)
 
 
 def write_file(non_mem_list, stay_list, prom_list, stay_level, prom_level):

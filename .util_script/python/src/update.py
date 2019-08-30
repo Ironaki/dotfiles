@@ -17,3 +17,4 @@ for file in FILES:
     new_file = "../"+file
     copyfile(old_file, new_file)
     chmod(new_file, 0o755)
+    chmod(old_file, 0o644)
