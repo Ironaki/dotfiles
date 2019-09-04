@@ -52,7 +52,51 @@ gdiff() {
 source ~/.profile
 
 # z
-. /usr/local/etc/profile.d/z.sh  
+. /usr/local/etc/profile.d/z.sh
 
 # kill all finder windows
 alias kf="osascript -e 'tell application \"Finder\" to close every window'"
+
+################################################################################
+#                                     fzf                                      #
+################################################################################
+# use fd as default search engine
+export FZF_DEFAULT_COMMAND="fd -HI --type f"
+# export FZF_DEFAULT_COMMAND="find * -type f"
+
+# integration with z
+# https://github.com/junegunn/fzf/wiki/Examples#z
+j() {
+    [ $# -gt 0 ] && _z "$*" && return
+    cd "$(_z -l 2>&1 | fzf --height 40% --nth 2.. --reverse --inline-info +s --tac --query "${*##-* }" | sed 's/^[0-9,.]* *//')"
+}
+
+# color schema / default opts
+# https://github.com/junegunn/fzf/wiki/Color-schemes
+_gen_fzf_default_opts() {
+    local base03="234"
+    local base02="235"
+    local base01="240"
+    local base00="241"
+    local base0="244"
+    local base1="245"
+    local base2="254"
+    local base3="230"
+    local yellow="136"
+    local orange="166"
+    local red="160"
+    local magenta="125"
+    local violet="61"
+    local blue="33"
+    local cyan="37"
+    local green="64"
+
+    ## Solarized Light color scheme for fzf
+    export FZF_DEFAULT_OPTS="
+     --height 40%
+     --layout=reverse
+     --color fg:-1,bg:-1,hl:$blue,fg+:$base02,bg+:$base2,hl+:$blue
+     --color info:$yellow,prompt:$yellow,pointer:$base03,marker:$base03,spinner:$yellow
+    "
+}
+_gen_fzf_default_opts
