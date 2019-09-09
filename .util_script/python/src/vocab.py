@@ -1,4 +1,4 @@
-#!/Users/Armstrong/anaconda/bin/python
+#!python
 # coding: utf-8
 """
     Plain text vocab learning tools

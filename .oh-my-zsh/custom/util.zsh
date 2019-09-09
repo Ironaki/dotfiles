@@ -51,15 +51,19 @@ gdiff() {
 # rvm
 source ~/.profile
 
+################################################################################
 # z
+
 . /usr/local/etc/profile.d/z.sh
 
+################################################################################
 # kill all finder windows
+
 alias kf="osascript -e 'tell application \"Finder\" to close every window'"
 
 ################################################################################
-#                                     fzf                                      #
-################################################################################
+# fzf
+
 # use fd as default search engine
 export FZF_DEFAULT_COMMAND="fd -HI --type f"
 # export FZF_DEFAULT_COMMAND="find * -type f"

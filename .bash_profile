@@ -92,7 +92,7 @@ function qtmono {
 alias tip="cat ~/.useful_bash_commands"
 
 # Recommended way to activate conda?
-. /Users/Armstrong/anaconda/etc/profile.d/conda.sh
+# . /Users/Armstrong/anaconda/etc/profile.d/conda.sh  # commented out by conda initialize
 # Deprecated ?
 export PATH="/Users/Armstrong/anaconda/bin:$PATH" 
 
@@ -105,3 +105,19 @@ export PATH="/Users/Armstrong/anaconda/bin:$PATH"
 # 5 alias for shell utilities and commands
 #alias mvtor="~/.util_script/mvtor.sh"
 #alias xsbak="~/.util_script/xsbak.sh"
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/Users/Armstrong/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/Users/Armstrong/anaconda3/etc/profile.d/conda.sh" ]; then
+        . "/Users/Armstrong/anaconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/Users/Armstrong/anaconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+

@@ -1,4 +1,4 @@
-#!/Users/Armstrong/anaconda/bin/python
+#!python
 
 from sys import argv
 import os
