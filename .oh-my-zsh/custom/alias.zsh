@@ -9,8 +9,10 @@ alias org="cd ~/Dropbox/Org"
 alias guitar="cd ~/Dropbox/Guitar/Guitar-Video"
 
 #2. Builtin Tools
-alias ll="ls -alhFG"
-alias la="ls -aG"
+alias ll="ls -alhFG" # G: color, F: '/' for directory
+alias la="ls -aGF"
+alias lsr="ls -FRG"
+alias lar="ls -aFRG"
 alias ff="open ."
 alias tt="type"
 alias rm="rm -i"

@@ -1,6 +1,5 @@
-# added by Anaconda3 4.2.0 installer
-export PATH="/Users/Armstrong/anaconda/envs/ipykernel_py2/bin:$PATH"
-eval $(/usr/libexec/path_helper -s)
+# Use zsh as default bash
+# Here is a barely usable version of .bash_profile
 source $HOME/.bashrc
 export PYSPARK_DRIVER_PYTHON=jupyter
 export PYSPARK_DRIVER_PYTHON_OPTS=notebook
@@ -57,10 +56,6 @@ alias vs="vim -g"
 
 # 2c. alias for anaconda python. Suggest use activatezwei if you want to use python 2 enviroment.
 alias py="/Users/Armstrong/anaconda/bin/python"
-alias py2="/Users/Armstrong/anaconda/envs/ipykernel_py2/bin/python"
-alias pip2="/Users/Armstrong/anaconda/envs/ipykernel_py2/bin/pip"
-alias activatezwei="source activate ipykernel_py2"
-alias activatedrei="source activate base"
 
 # 2.4 others
 alias sbt="TERM=xterm-color sbt"
@@ -74,37 +69,6 @@ NORMAL="\[$(tput sgr0)\]"
 
 PS1="\n${BOLD}${BLUE}(^•ω •^)${NORMAL} \W ==> "
 
-# For rvm
-source ~/.profile
-
-# Alias to convert a stereo recording to mono
-#
-# $1 - The input filename
-
-function qtmono {
-        basename=$(basename "$1")
-        filename="${basename%.*}"
-        extension="${basename##*.}"
-
-        ffmpeg -i $1 -codec:v copy -af pan="mono| c0=FR" $filename-mono.$extension
-}
-
-alias tip="cat ~/.useful_bash_commands"
-
-# Recommended way to activate conda?
-# . /Users/Armstrong/anaconda/etc/profile.d/conda.sh  # commented out by conda initialize
-# Deprecated ?
-export PATH="/Users/Armstrong/anaconda/bin:$PATH" 
-
-########################################DEPRECATED################################################################################
-
-# 3a. Google Cloud Platform
-# alias gcp="ssh klijia@35.196.105.176"
-# alias aws="ssh -i \"/Users/Armstrong/Dropbox/Programming/Columbia_Computer_Systems/hw1-data-lab/aws-option/hw3.pem\" ubuntu@ec2-18-219-43-52.us-east-2.compute.amazonaws.com"
-
-# 5 alias for shell utilities and commands
-#alias mvtor="~/.util_script/mvtor.sh"
-#alias xsbak="~/.util_script/xsbak.sh"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -120,4 +84,15 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+
+########################################DEPRECATED################################################################################
+
+# 3a. Google Cloud Platform
+# alias gcp="ssh klijia@35.196.105.176"
+# alias aws="ssh -i \"/Users/Armstrong/Dropbox/Programming/Columbia_Computer_Systems/hw1-data-lab/aws-option/hw3.pem\" ubuntu@ec2-18-219-43-52.us-east-2.compute.amazonaws.com"
+
+# 5 alias for shell utilities and commands
+#alias mvtor="~/.util_script/mvtor.sh"
+#alias xsbak="~/.util_script/xsbak.sh"
+
 
