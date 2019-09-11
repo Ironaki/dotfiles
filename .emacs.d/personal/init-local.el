@@ -161,3 +161,15 @@
 
 (setq ibuffer-show-empty-filter-groups nil)
 (setq ibuffer-expert t)
+
+(setq ibuffer-formats 
+      '((mark modified read-only " "
+              (name 40 40 :left :elide) ; change: 30s were originally 18s
+              " " ;; between columns
+              ;; (size 9 -1 :right)
+              ;; " "
+              (mode 16 16 :left :elide)
+              " " filename-and-process)
+        (mark " "
+              (name 60 60 :left :elide)
+              " " filename)))
