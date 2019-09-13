@@ -77,7 +77,7 @@ def python_output(question_name, stdout):
         else:
             with open(file_name, "w") as target_file:
                 target_file.write(init_template)
-            print("Created new python file!")
+            print("Created new Python file!")
 
 
 def java_output(question_name, stdout):
@@ -111,7 +111,7 @@ def java_output(question_name, stdout):
         else:
             with open(file_name, "w") as target_file:
                 target_file.write(init_template)
-            print("Created new file")
+            print("Created new Java file!")
 
 
 def arg_parser():
@@ -123,11 +123,20 @@ def arg_parser():
                         nargs="+",
                         metavar="STRING",
                         type=str)
-    # File extension, required, support [python, java]
-    parser.add_argument("-e", "--extension",
-                        choices=["py", "java"],
-                        required=True,
-                        help="extension of the file to be generated")
+    # # Old Version Control Flow
+    # # File extension, required, support [python, java]
+    # parser.add_argument("-e", "--extension",
+    #                     choices=["py", "java"],
+    #                     required=True,
+    #                     help="extension of the file to be generated")
+    parser.add_argument("-p", "--python",
+                        action="store_true",
+                        default=False,
+                        help="generate python file")
+    parser.add_argument("-j", "--java",
+                        action="store_true",
+                        default=False,
+                        help="generate java file")
     # Flag. Whether print to stdout or write to a file
     parser.add_argument("-o", "--stdout",
                         action="store_true",
@@ -140,14 +149,33 @@ def arg_parser():
 def main_run():
     args = arg_parser()
 
-    if args.extension == "py":  # e for extension
-        # raw_string: input from command line
+    # if args.extension == "py":  # e for extension
+    #     # raw_string: input from command line
+    #     question_name = alnum_python(args.raw_string)
+    #     # stdout: boolean. True => to stdout; False => to file
+    #     python_output(question_name, args.stdout)
+    # if args.extension == "java":
+    #     question_name = alnum_java(args.raw_string)
+    #     java_output(question_name, args.stdout)
+
+    # Flag for each language. Can generate files for multiple language
+    def print_sep_line():
+        sep_str_ls = ["",
+                      "~~~~~~~~~~",
+                      ""]
+        print("\n".join(sep_str_ls))
+
+    if args.python:
         question_name = alnum_python(args.raw_string)
         # stdout: boolean. True => to stdout; False => to file
         python_output(question_name, args.stdout)
-    if args.extension == "java":
+        print_sep_line()
+    if args.java:
         question_name = alnum_java(args.raw_string)
         java_output(question_name, args.stdout)
+        print_sep_line()
+    if not (args.java or args.python):
+        print("No file is generated. Please add language flag, e.g. [-p], [-j]")
 
 
 if __name__ == "__main__":
