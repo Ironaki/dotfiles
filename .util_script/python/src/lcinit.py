@@ -4,7 +4,7 @@ import argparse
 import os
 
 
-LC_DIR = os.environ["HOME"]+"/.armstrong/Dropbox/Programming/LeetCode/"
+LC_DIR = os.environ["DROPBOX"]+"/Programming/LeetCode/"
 
 
 def alnum(word_list):

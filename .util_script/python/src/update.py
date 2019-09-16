@@ -10,7 +10,7 @@ from shutil import copyfile
 from os import chmod
 
 # Change this variable, if you add or delete files
-FILES = ["vocab", "lcinit"]
+FILES = ["vocab", "lcinit", "csv2ledger_preprocess"]
 
 for file in FILES:
     old_file = file+".py"
