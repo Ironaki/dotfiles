@@ -1,4 +1,4 @@
-#!python
+#!/usr/bin/env python3
 # coding: utf-8
 """
     Plain text vocab learning tools
