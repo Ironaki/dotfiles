@@ -60,7 +60,7 @@ def python_output(question_name, stdout):
         question_name: processed question name
         stdout: Whether to print out
     """
-    init_template = ["from .lib import *",
+    init_template = ["from Python.lib import *",
                      "",
                      "",
                      "class Solution:",
