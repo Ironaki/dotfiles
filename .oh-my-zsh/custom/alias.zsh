@@ -26,6 +26,7 @@ alias -g ggg="| grep  --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn}"
 alias -g gg="| rg"
 alias copy="pbcopy"
 alias dus="du -sh"
+alias cl="clear"
 
 #3. installed tools alias
 alias pa="realpath"
@@ -36,7 +37,6 @@ alias purcellemacs="HOME=~/.purcellemacs /Applications/Emacs.app/Contents/MacOS/
 alias preludeemacs="HOME=~/.preludeemacs /Applications/Emacs.app/Contents/MacOS/Emacs"
 alias v="mvim -v"
 alias vs="mvim"
-alias catt="highlight -O ansi --force"
 alias sbt="TERM=xterm-color sbt"
 alias tip="cat ~/.useful_bash_commands"
 alias screenfetch="screenfetch -E" # -E to ignore error
