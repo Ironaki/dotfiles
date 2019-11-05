@@ -38,7 +38,7 @@ wee() {
 
 # cattJupyter
 # nbconvert, highlight => Instead of cat out plain json (.ipynb), convert the file to highlighted python
-catJupyter() {
+cattJupyter() {
     jupyter nbconvert --to python --stdout $1 | bat
 }
 
@@ -113,6 +113,5 @@ csv2ledger() {
     icsv2ledger -a $1  --incremental --confirm-dupes --ledger-file $3 $2 $3
 }
 
-alias cat="bat"
 export BAT_THEME="Solarized (light)"
 export MANPAGER="sh -c 'col -bx | bat -l man -p'"
