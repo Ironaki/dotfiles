@@ -8,8 +8,11 @@
                             nlinum
                             ledger-mode
                             ob-ipython
-                            org-present))
+                            org-present
+                            whitespace-cleanup-mode
+                            htmlize))
 
+(exec-path-from-shell-copy-envs '("LC_ALL"))
 
 ;; 2. Essential Editing Config
 ;; Change Ctrl-h to backspace (Done by karabiner; Commented out)/ Change backspace key to help
@@ -36,6 +39,8 @@
 (linum-relative-global-mode 1) ;; relative line number
 (window-numbering-mode 1)
 (setq prelude-whitespace nil) ;; whitespace mode too annoying
+(global-visual-line-mode 1)
+(global-whitespace-cleanup-mode 1)
 
 
 ;; Do not use background color in terminal
@@ -82,7 +87,8 @@
     (org-bullets-mode)
     (org-indent-mode)
     (setq org-ellipsis " ~~>")
-    (setq truncate-lines nil)
+    (visual-line-mode)
+    ;;(setq truncate-lines nil)
     (setq org-image-actual-width (/ (display-pixel-width) 3)))
 
 (setq org-todo-keyword-faces
@@ -157,12 +163,14 @@
 (add-hook 'ibuffer-mode-hook
           (lambda ()
             (ibuffer-auto-mode 1)
+            (visual-line-mode -1)
+            (setq truncate-lines t)
             (ibuffer-switch-to-saved-filter-groups "Main")))
 
 (setq ibuffer-show-empty-filter-groups nil)
 (setq ibuffer-expert t)
 
-(setq ibuffer-formats 
+(setq ibuffer-formats
       '((mark modified read-only " "
               (name 40 40 :left :elide) ; change: 30s were originally 18s
               " " ;; between columns
@@ -173,3 +181,11 @@
         (mark " "
               (name 60 60 :left :elide)
               " " filename)))
+
+(setq markdown-command "pandoc -f gfm \
+                               -t html5 \
+                               --mathjax \
+                               --quiet \
+                               --standalone \
+                               --highlight-style tango \
+                               --css ~/.pandoc/github-pandoc.css")
