@@ -3,8 +3,10 @@
 import argparse
 import os
 
-
-LC_DIR = os.environ["DROPBOX"]+"/Programming/LeetCode/"
+try:
+    LC_DIR = os.environ["LEETCODE"]+"/"
+except:
+    LC_DIR = os.environ["DROPBOX"]+"/Programming/LeetCode/"
 
 
 def alnum(word_list):
@@ -61,6 +63,9 @@ def python_output(question_name, stdout):
         stdout: Whether to print out
     """
     init_template = ["from Python.lib import *",
+                     "from typing import *",
+                     "from collections import *",
+                     "from heapq import *",
                      "",
                      "",
                      "class Solution:",
@@ -179,5 +184,4 @@ def main_run():
 
 
 if __name__ == "__main__":
-
     main_run()
