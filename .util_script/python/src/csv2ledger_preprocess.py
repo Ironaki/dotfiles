@@ -89,6 +89,8 @@ def wechat_process(file_path):
     text_list = read_file(file_path)
     text_list = text_list[16:]
     text_list = [line.replace("¥", "") for line in text_list]  # Take out ¥ sign
+    # Edge Cases for wechat, What's wrong with Tencent engineers...
+    text_list = [line.replace("TSURUHA CO.,LTD", "TSURUHA CO.LTD") for line in text_list]
     for i, line in enumerate(text_list):
         # Make income negative compare to expense
         text_list[i] = line.replace("收入,", "收入,-")

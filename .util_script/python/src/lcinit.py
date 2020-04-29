@@ -96,13 +96,10 @@ def java_output(question_name, stdout):
         question_name: processed question name
         stdout: Whether to print out
     """
-    init_template = ["package Java;",
-                     "",
-                     "import org.junit.jupiter.api.Test;",
-                     "",
+    init_template = ["import org.junit.jupiter.api.Test;",
                      "import static org.junit.jupiter.api.Assertions.*;",
-                     "",
                      "import java.util.*;",
+                     "",
                      "",
                      "public class " + question_name + " {",
                      "}",
