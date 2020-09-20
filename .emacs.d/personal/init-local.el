@@ -5,12 +5,13 @@
                             solarized-theme
                             linum-relative
                             org-bullets
-                            nlinum
+                            nlinum                            
                             ledger-mode
                             ob-ipython
                             org-present
                             whitespace-cleanup-mode
-                            htmlize))
+                            htmlize
+                            multiple-cursors))
 
 (exec-path-from-shell-copy-envs '("LC_ALL"))
 
@@ -144,12 +145,12 @@
 (setq ibuffer-saved-filter-groups
       '(("Main"
          ("Dired" (mode . dired-mode))
-         ("Org" (name . "^.*org$"))
-         ("Magit" (name . "^magit"))
-         ("Shell" (or (mode . eshell-mode) (mode . shell-mode)))
          ("Python" (mode . python-mode))
+         ("Org" (name . "^.*org$"))
+         ("Shell" (or (mode . eshell-mode) (mode . shell-mode)))
          ("Emacs" (or (name . "^\\*scratch\\*$")
                       (name . "^\\*Messages\\*$")))
+         ("Magit" (name . "^magit"))         
          ("Help" (or (name . "\\*Help\\*")
 		     (name . "\\*Apropos\\*")
 		     (name . "\\*info\\*")))
@@ -189,3 +190,10 @@
                                --standalone \
                                --highlight-style tango \
                                --css ~/.pandoc/github-pandoc.css")
+
+
+;; Multiple cursors
+(global-set-key (kbd "C-S-c C-S-c") 'mc/edit-lines)
+(global-set-key (kbd "C->") 'mc/mark-next-like-this)
+(global-set-key (kbd "C-<") 'mc/mark-previous-like-this)
+(global-set-key (kbd "C-c C-<") 'mc/mark-all-like-this)

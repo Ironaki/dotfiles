@@ -44,9 +44,13 @@ alias screenfetch="screenfetch -E" # -E to ignore error
 alias we="weather -u si"
 alias zl="z -l"
 alias cfg="yadm"
-alias timer="utimer -c"
 alias stopwatch="utimer -s"
 alias sw="utimer -s"
+timer() {
+    # play music after timer finishes
+    utimer -c $1 && afplay "$ASSETS/music/alarm.flac"
+}
+
 
 #4. proxy
 alias proxyss="export http_proxy=http://127.0.0.1:1087 https_proxy=http://127.0.0.1:1087"

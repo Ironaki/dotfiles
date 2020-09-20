@@ -46,7 +46,7 @@ def amazon_process(file_path):
 
 def rakutencard_process(file_path):
     """ Preprocess RakutenCard csv, overwrite the file """
-    text_list = read_file(file_path, "shift-jis")
+    text_list = read_file(file_path)
     write_file(file_path, text_list)
 
 
