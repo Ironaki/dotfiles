@@ -40,3 +40,5 @@
 	alias = !git config --list | grep 'alias\\.' | sed 's/alias\\.\\([^=]*\\)=\\(.*\\)/\\1\\\t => \\2/' | sort
 
 	
+[core]
+	excludesfile = /Users/Armstrong/.gitignore_global
