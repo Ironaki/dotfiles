@@ -43,7 +43,6 @@ alias tip="cat ~/.useful_bash_commands"
 alias screenfetch="screenfetch -E" # -E to ignore error
 alias we="weather -u si"
 alias zl="z -l"
-alias cfg="yadm"
 alias stopwatch="utimer -s"
 alias sw="utimer -s"
 timer() {

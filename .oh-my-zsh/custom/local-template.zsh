@@ -1,1 +1,2 @@
-# export DROPBOX="PATH/TO/DROPBOX"
+# export DROPBOX="~/dropbox"
+# export ASSETS="~/.assets"
