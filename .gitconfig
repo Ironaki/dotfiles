@@ -1,6 +1,5 @@
-[user]
-	email = armstrong0220@gmail.com
-	name = Zixuan Li
+[include]
+	path = ~/.gitconfig_local
 [gui]
 	
 [filter "lfs"]
@@ -8,7 +7,6 @@
 	process = git-lfs filter-process
 	required = true
 	clean = git-lfs clean -- %f
-
 [alias]
         #one-letter command
         s = status
@@ -25,7 +23,7 @@
         pushom = push origin master
         pullom = pull origin master
         
-#	a = !git add . && git status
+        # a = !git add . && git status
 	au = !git add -u . && git status
 	aa = !git add . && git add -u . && git status
 	ca = commit --amend # careful
@@ -38,7 +36,5 @@
 	spull = svn rebase
 	spush = svn dcommit
 	alias = !git config --list | grep 'alias\\.' | sed 's/alias\\.\\([^=]*\\)=\\(.*\\)/\\1\\\t => \\2/' | sort
-
-	
 [core]
-	excludesfile = /Users/Armstrong/.gitignore_global
+	excludesfile = ~/.gitignore_global
