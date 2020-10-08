@@ -41,8 +41,10 @@
 (global-nlinum-mode 0)
 (window-numbering-mode 1)
 (setq prelude-whitespace nil) ;; whitespace mode too annoying
+(global-nlinum-mode 0)
 (global-visual-line-mode 1)
 (global-whitespace-cleanup-mode 1)
+
 
 
 ;; Do not use background color in terminal
