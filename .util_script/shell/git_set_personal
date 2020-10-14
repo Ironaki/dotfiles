@@ -1,0 +1,4 @@
+#!/bin/bash
+
+git config --local user.name "$GIVEN_NAME $SURNAME"
+git config --local user.email "$EMAIL_MAIN"
