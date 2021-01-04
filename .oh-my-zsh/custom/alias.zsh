@@ -32,9 +32,6 @@ alias cl="clear"
 alias pa="realpath"
 alias x="emacs -nw"
 alias xs="emacs &"
-alias spacemacs="HOME=~/.spacemacs /Applications/Emacs.app/Contents/MacOS/Emacs"
-alias purcellemacs="HOME=~/.purcellemacs /Applications/Emacs.app/Contents/MacOS/Emacs"
-alias preludeemacs="HOME=~/.preludeemacs /Applications/Emacs.app/Contents/MacOS/Emacs"
 alias catt="bat"
 alias v="mvim -v"
 alias vs="mvim"
@@ -47,7 +44,7 @@ alias stopwatch="utimer -s"
 alias sw="utimer -s"
 timer() {
     # play music after timer finishes
-    utimer -c $1 && afplay "$ASSETS/music/alarm.flac"
+    utimer -c $1 && afplay -v 0.1 "$ASSETS/music/alarm.flac"
 }
 
 
