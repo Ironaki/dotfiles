@@ -1,4 +1,0 @@
-#!/bin/bash
-# -a means recursive, and preserve some attributes
-cp -a ~/.emacs.d/ ~/Dropbox/emacs-config
-date >  ~/Dropbox/emacs-config/version.txt
