@@ -4,7 +4,7 @@
                             window-numbering
                             solarized-theme
                             linum-relative
-                            org-bullets
+                            org-superstar
                             nlinum                            
                             ledger-mode
                             ob-ipython
@@ -88,7 +88,7 @@
 
 ;; Org
 (defun iro/org-hook ()
-    (org-bullets-mode)
+    (org-superstar-mode)
     (org-indent-mode)
     (setq org-ellipsis " ~~>")
     (visual-line-mode)
@@ -111,7 +111,7 @@
  'org-babel-load-languages
  '(
    (python . t)
-   (ipython . t)
+   ;; (ipython . t)
    ;; (sh . t)
    (shell . t)
    ;; (scala . t)
