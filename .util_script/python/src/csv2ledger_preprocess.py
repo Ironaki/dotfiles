@@ -60,16 +60,16 @@ def mitsui_process(file_path):
     """ Process Mitsui csv, overwrite the file """
     text_list = read_file(file_path, "shift-jis")
     # Sample line start :R01.08.01
-    line_start = re.compile("^R(\d\d)")
-    for i, line in enumerate(text_list[1:-1]):
-        # Workaround for group in sub doesn't work
-        year = line_start.match(line).group(1)
-        # replace Japanese year to western year
-        new_line = re.sub(line_start,
-                          reiwa_to_western(year),
-                          line)
-        text_list[i+1] = new_line
-    write_file(file_path, text_list[:-1])
+    # line_start = re.compile("^R(\d\d)")
+    # for i, line in enumerate(text_list[1:-1]):
+    #     # Workaround for group in sub doesn't work
+    #     year = line_start.match(line).group(1)
+    #     # replace Japanese year to western year
+    #     new_line = re.sub(line_start,
+    #                       reiwa_to_western(year),
+    #                       line)
+    #     text_list[i+1] = new_line
+    write_file(file_path, text_list)
 
 
 def rakutenbank_process(file_path):
@@ -97,13 +97,13 @@ def wechat_process(file_path):
     write_file(file_path, text_list)
 
 
-def reiwa_to_western(year, input_type=str):
-    """ Change reiwa year to western year """
-    if input_type == str:
-        return str(2018+int(year))
-    if input_type == int:
-        return 2018+year
-    raise TypeError("Input type is not supported")
+# def reiwa_to_western(year, input_type=str):
+#     """ Change reiwa year to western year """
+#     if input_type == str:
+#         return str(2018+int(year))
+#     if input_type == int:
+#         return 2018+year
+#     raise TypeError("Input type is not supported")
 
 
 def arg_parser():
