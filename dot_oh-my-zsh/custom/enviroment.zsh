@@ -1,0 +1,5 @@
+export PATH="$PATH:/usr/local/smlnj/bin"
+export PATH="$PATH:$HOME/.util_script/shell"
+export PATH="$PATH:$HOME/.util_script/python"
+export PATH="$PATH:$HOME/.doom-emacs/bin"
+export EDITOR="emacs --with-profile doom -nw"

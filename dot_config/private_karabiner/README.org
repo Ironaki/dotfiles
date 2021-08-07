@@ -1,0 +1,15 @@
+* [[https://pqrs.org/osx/karabiner/json.html][Karabiner]]
+** [[./karabiner.json]]
+- Main configuration file
+- Karabiner-Elements watches =~/.config/karabiner/karabiner.json= and reloads it if updated.
+- *Sync between devices are possible, but make sure the vendor_id and product_id are correct*
+E.g.
+| Device Name                          | vendor_id | product_id |
+|--------------------------------------+-----------+------------|
+| Macbook Pro 13' without touchbar kbd |      1452 |        630 |
+| Macbook Pro 15' with touchbar kbd    |      1452 |        632 |
+To make the configuration file work for both of the keyboard above.
+Two separated configurations are needed in the json file, even if the only difference between these two is the product_id 
+** [[./assets/complex_modifications/punctuation_customization_with_fn.json]]
+- Punctuation with fn configuration file for complex modification
+- Does not include device info

@@ -1,0 +1,25 @@
+* Manual
+Utility tools
+** Python
++ Update
+#+BEGIN_SRC shell
+# To add a new file, edit the FILES variable in python/src/update.py
+cd python/src # Run in this folder
+python update.py
+#+END_SRC
+
++ Test
+#+BEGIN_SRC shell
+cd python/test # Run in this folder
+pytest
+#+END_SRC
+
+*** lcinit
+Initiate LeetCode files
+#+BEGIN_SRC shell
+lcinit -p 1. Two Sum # for python file
+lcinit -j 1. Two Sum # for java file
+#+END_SRC
+*** vocab
+** Shell
+*** mvtor

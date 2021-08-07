@@ -1,0 +1,623 @@
+{
+    "title": "Punctuation Customizations with fn",
+    "rules": [
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+f to _",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "f",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "hyphen",
+                            "modifiers": [
+                                "shift"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+i to `",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "i",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "grave_accent_and_tilde"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+u to !",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "u",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "1",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+g to &",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "g",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "7",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+b to |",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "b",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "backslash",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+n to +",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "n",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "keypad_plus"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+h to *",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "h",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "keypad_asterisk"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+j to =",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "j",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "equal_sign"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+m to -",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "m",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "hyphen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+y to /",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "y",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "slash"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+r to %",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "r",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "5",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+v to ~",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "v",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "grave_accent_and_tilde",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },        
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+s to (",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "s",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "9",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+d to )",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "d",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "0",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+[ to {",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "open_bracket",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "open_bracket",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+] to }",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "close_bracket",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "close_bracket",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+x to [",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "x",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "open_bracket"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+c to ]",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "c",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "close_bracket"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+k to <",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "k",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "comma",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+l to >",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "l",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "period",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+t to \\",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "t",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "backslash"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+e to $",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "e",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "4",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+w to #",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "w",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "3",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+a to @",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "a",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "2",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+z to ^",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "z",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "6",
+                            "modifiers": "shift"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

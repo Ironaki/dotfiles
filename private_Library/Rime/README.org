@@ -1,0 +1,22 @@
+* File Descriptions
+** 外观设置
+- [[./squirrel.custom.yaml]]
+** 拼写方案
+- [[./default.custom.yaml]]    保留使用的方案
+- [[./double_pinyin_flypy.schema.yaml]]    小鹤双拼方案
+** 词库设置
+- [[./double_pinyin_flypy.custom.yaml]]    小鹤双拼
+- [[./luna_pinyin_simp.custom.yaml]]    明月简体
+- [[./luna_pinyin.custom.yaml]]    明月拼音
+** 词库文件
+- [[./luna_pinyin.extended.dict.yaml]]    全拼词库主文件
+- [[./double_pinyin.extended.dict.yaml]]    双拼词库主文件
+- [[./luna_pinyin.cn_en.dict.yaml]]
+- [[./luna_pinyin.hanyu.dict.yaml]]
+- [[./luna_pinyin.poetry.dict.yaml]]
+- [[./luna_pinyin.google.dict.yaml]]
+* Reference
+- [[https://www.jianshu.com/p/cffc0ea094a7][配置参考]]
+- [[https://github.com/rime-aca/dictionaries][词库]]
+- [[https://code.google.com/archive/p/imewlconverter/downloads][词库转换工具]]
+

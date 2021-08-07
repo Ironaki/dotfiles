@@ -1,0 +1,42 @@
+[include]
+	path = ~/.gitconfig_local
+[gui]
+	
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[alias]
+        #one-letter command
+        s = status
+        a = add
+        c = commit
+        l = log --graph --all --pretty=format:'%C(bold red)%h%C(bold green)%d%Creset %s %C(blue)- <%an> %C(cyan) (%ar)%Creset'
+        d = diff
+        b = branch -v
+
+        #high frequency
+        cm = commit -m
+	co = checkout
+	af = add -f
+        pushom = push origin master
+        pullom = pull origin master
+        
+        # a = !git add . && git status
+	au = !git add -u . && git status
+	aa = !git add . && git add -u . && git status
+	ca = commit --amend # careful
+	ac = !git add . && git commit
+	acm = !git add . && git commit -m
+	ll = log --stat --abbrev-commit
+	lg = log --color --graph --pretty=format:'%C(bold white)%h%Creset -%C(bold green)%d%Creset %s %C(bold green)(%cr)%Creset %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	llg = log --color --graph --pretty=format:'%C(bold white)%H %d%Creset%n%s%n%+b%C(bold blue)%an <%ae>%Creset %C(bold green)%cr (%ci)' --abbrev-commit
+	master = checkout master
+	spull = svn rebase
+	spush = svn dcommit
+	alias = !git config --list | grep 'alias\\.' | sed 's/alias\\.\\([^=]*\\)=\\(.*\\)/\\1\\\t => \\2/' | sort
+[core]
+	excludesfile = ~/.gitignore_global
+[pull]
+	rebase = false

@@ -1,0 +1,11083 @@
+#  luna_pinyin.google.dict.yaml
+---
+name: luna_pinyin.google    # Name
+version: "2018.11.30"       
+sort: by_weight
+use_preset_vocabulary: true # The three dots followed is necessary
+...
+
+啊	a	162
+阿	a	1
+啊啊	a a	1
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊	a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a	1
+我也知道啊	wo ye zhi dao a	1
+查字典啊	cha zi dian a	1
+对啊	dui a	12
+目标哈啊	mu biao ha a	1
+好啊	hao a	19
+它来啊	ta lai a	1
+好累啊	hao lei a	1
+贪恋啊	tan lian a	1
+没啊	mei a	1
+你妹啊	ni mei a	1
+俄米啊	e mi a	1
+期末啊	qi mo a	1
+转到哦啊	zhuan dao o a	1
+比较少哦啊	bi jiao shao o a	1
+钱啊	qian a	1
+上啊	shang a	1
+介绍啊	jie shao a	1
+是啊	shi a	3
+不是啊	bu shi a	1
+别送啊	bie song a	1
+玩啊	wan a	1
+学习啊	xue xi a	4
+不行啊	bu xing a	2
+凶啊	xiong a	1
+这样啊	zhe yang a	3
+可以啊	ke yi a	1
+用啊	yong a	1
+没有啊	mei you a	1
+日语啊	ri yu a	1
+在啊	zai a	1
+好准啊	hao zhun a	1
+好准    hao zhun        1
+唉	ai	8
+爱	ai	5
+艾	ai	2
+痴人的爱	chi ren de ai	1
+看爱	kan ai	1
+可爱	ke ai	1
+好可爱	hao ke ai	1
+挺可爱	ting ke ai	1
+恋爱	lian ai	2
+谈恋爱	tan lian ai	5
+令爱	ling ai	1
+热爱	re ai	1
+无碍	wu ai	1
+喜爱	xi ai	1
+硬挨	ying ai	7
+福原爱	fu yuan ai	1
+按	an	6
+暗暗	an an	1
+按按	an an	1
+不安	bu an	1
+草案	cao an	2
+答案	da an	6
+法案	fa an	1
+西海岸	xi hai an	1
+当热按	dang re an	1
+图案	tu an	1
+晚安	wan an	1
+昂	ang	1
+激昂	ji ang	1
+奥	ao	4
+陆奥	lu ao	1
+吧	ba	312
+把	ba	42
+拔	ba	1
+一般般吧	yi ban ban ba	1
+吃吧	chi ba	1
+初八	chu ba	1
+好处吧	hao chu ba	2
+歌单吧	ge dan ba	1
+晚点吧	wan dian ba	1
+他也不懂吧	ta ye bu dong ba	1
+对吧	dui ba	2
+多吧	duo ba	3
+差不多吧	cha bu duo ba	1
+不高吧	bu gao ba	1
+博格巴	bo ge ba	2
+打工吧	da gong ba	6
+好吧	hao ba	43
+还好吧	hai hao ba	4
+换吧	huan ba	1
+不会吧	bu hui ba	1
+估计吧	gu ji ba	1
+见解吧	jian jie ba	1
+就把	jiu ba	3
+酒吧	jiu ba	2
+看看吧	kan kan ba	1
+课吧	ke ba	1
+看情况吧	kan qing kuang ba	1
+来吧	lai ba	4
+就来吧	jiu lai ba	1
+先记下来吧	xian ji xia lai ba	1
+老爸	lao ba	7
+和老爸	he lao ba	1
+乐吧	le ba	1
+了吧	le ba	1
+开了吧	kai le ba	1
+留下来了吧	liu xia lai le ba	1
+不用了吧	bu yong le ba	1
+难录吧	nan lu ba	1
+去其他路吧	qu qi ta lu ba	1
+慢吧	man ba	1
+忙吧	mang ba	1
+可能吧	ke neng ba	1
+你吧	ni ba	2
+钱吧	qian ba	1
+出肉吧	chu rou ba	1
+三八	san ba	1
+十八	shi ba	2
+是吧	shi ba	2
+不是吧	bu shi ba	1
+说吧	shuo ba	2
+说罢	shuo ba	1
+难说吧	nan shuo ba	1
+再说吧	zai shuo ba	10
+贴吧	tie ba	1
+团吧	tuan ba	1
+拖把	tuo ba	1
+我把	wo ba	6
+我爸	wo ba	1
+上午八	shang wu ba	1
+在考虑一下吧	zai kao lv yi xia ba	1
+先把	xian ba	2
+会心吧	hui xin ba	1
+行吧	xing ba	2
+星吧	xing ba	1
+还行吧	hai xing ba	4
+也行吧	ye xing ba	1
+也许吧	ye xu ba	1
+选拔	xuan ba	1
+学霸	xue ba	5
+就这样吧	jiu zhe yang ba	1
+要把	yao ba	1
+也罢	ye ba	1
+一把	yi ba	1
+也不便宜吧	ye bu pian yi ba	1
+不用吧	bu yong ba	2
+有吧	you ba	2
+又把	you ba	1
+都有吧	dou you ba	2
+加油吧	jia you ba	1
+没有把	mei you ba	2
+木有吧	mu you ba	1
+我又把	wo you ba	1
+左右吧	zuo you ba	1
+但愿吧	dan yuan ba	1
+工作吧	gong zuo ba	1
+找工作吧	zhao gong zuo ba	1
+白	bai	11
+百	bai	3
+纯白	chun bai	1
+打败	da bai	1
+黑白	hei bai	1
+红白	hong bai	9
+科白	ke bai	1
+空白	kong bai	1
+林白	lin bai	1
+平白	ping bai	1
+伊丽莎白	yi li sha bai	1
+失败	shi bai	1
+说白	shuo bai	1
+一拜	yi bai	1
+半	ban	8
+版	ban	6
+班	ban	3
+办	ban	3
+般	ban	2
+搬	ban	1
+一般般	yi ban ban	2
+补办	bu ban	1
+剧场版	ju chang ban	4
+垫板	dian ban	2
+两点半	liang dian ban	1
+五点半	wu dian ban	1
+豆瓣	dou ban	3
+交改版	jiao gai ban	1
+韩版	han ban	1
+其他韩版	qi ta han ban	1
+航班	hang ban	4
+羁绊	ji ban	4
+甲板	jia ban	1
+文库版	wen ku ban	1
+凉拌	liang ban	2
+两班	liang ban	1
+美版	mei ban	1
+触摸板	chu mo ban	7
+不能办	bu neng ban	1
+排版	pai ban	1
+平板	ping ban	7
+第三版	di san ban	1
+上班	shang ban	2
+就上班	jiu shang ban	1
+手办	shou ban	9
+埋首版	mai shou ban	1
+买手办	mai shou ban	1
+竖版	shu ban	3
+无锁版	wu suo ban	1
+屠版	tu ban	1
+扫图版	sao tu ban	2
+数位板	shu wei ban	2
+接线板	jie xian ban	1
+拖线板	tuo xian ban	3
+样板	yang ban	1
+专业版	zhuan ye ban	1
+一般	yi ban	23
+一半	yi ban	5
+比一般	bi yi ban	1
+原版	yuan ban	3
+值班	zhi ban	2
+电子版	dian zi ban	1
+帮	bang	17
+棒	bang	2
+磅	bang	1
+特别棒	te bie bang	1
+不帮	bu bang	1
+德邦	de bang	2
+好棒	hao bang	1
+捆绑	kun bang	1
+来帮	lai bang	1
+太帮	tai bang	1
+太棒	tai bang	1
+肖邦	xiao bang	5
+要帮	yao bang	2
+包	bao	7
+报	bao	6
+抱	bao	3
+宝	bao	2
+宝宝	bao bao	1
+茶包	cha bao	2
+城堡	cheng bao	1
+一承包	yi cheng bao	1
+出包	chu bao	3
+低保	di bao	2
+电报	dian bao	1
+词典包	ci dian bao	2
+风暴	feng bao	1
+支付宝	zhi fu bao	43
+很薄	hen bao	1
+回报	hui bao	3
+汇报	hui bao	1
+捷豹	jie bao	1
+举报	ju bao	3
+已举报	yi ju bao	1
+考爆	kao bao	1
+安娜堡	an na bao	1
+去报	qu bao	1
+确保	que bao	1
+日报	ri bao	1
+知乎日报	zhi hu ri bao	1
+社保	she bao	1
+射爆	she bao	1
+书包	shu bao	1
+淘宝	tao bao	8
+是淘宝	shi tao bao	1
+符腾堡	fu teng bao	1
+完爆	wan bao	1
+喂饱	wei bao	1
+安装包	an zhuang bao	1
+呗	bei	17
+被	bei	10
+背	bei	3
+杯	bei	1
+倍	bei	1
+悲	bei	1
+安倍	an bei	2
+数码宝贝	shu ma bao bei	1
+爱杀宝贝	ai sha bao bei	2
+考前必备	kao qian bi bei	1
+东北	dong bei	1
+都被	dou bei	1
+解放碑	jie fang bei	1
+还被	hai bei	1
+好被	hao bei	1
+好呗	hao bei	1
+华北	hua bei	1
+会被	hui bei	1
+飞机杯	fei ji bei	5
+沪江杯	hu jiang bei	1
+买呗	mai bei	1
+你被	ni bei	1
+三倍	san bei	1
+设备	she bei	2
+双倍	shuang bei	1
+我被	wo bei	1
+你先被	ni xian bei	1
+相背	xiang bei	1
+早被	zao bei	1
+贮备	zhu bei	1
+装备	zhuang bei	5
+准备	zhun bei	39
+不准备	bu zhun bei	1
+我准备	wo zhun bei	11
+也准备	ye zhun bei	1
+本	ben	12
+版本	ban ben	3
+坂本	ban ben	1
+副本	fu ben	1
+方格本	fang ge ben	1
+根本	gen ben	11
+宫本	gong ben	4
+基本	ji ben	20
+笔记本	bi ji ben	15
+深得笔记本	shen de bi ji ben	1
+大船基本	da chuan ji ben	1
+帮你基本	bang ni ji ben	1
+日记本	ri ji ben	1
+在日记本	zai ri ji ben	1
+是基本	shi ji ben	1
+我基本	wo ji ben	2
+脚本	jiao ben	11
+户口本	hu kou ben	1
+文库本	wen ku ben	5
+亏本	kui ben	1
+两本	liang ben	8
+一两本	yi liang ben	1
+鲁本	lu ben	1
+陆本	lu ben	1
+每本	mei ben	1
+美本	mei ben	1
+那本	na ben	2
+日本	ri ben	53
+三本	san ben	2
+山本	shan ben	1
+记事本	ji shi ben	3
+神的记事本	shen de ji shi ben	2
+文本	wen ben	7
+五本	wu ben	1
+单行本	dan xing ben	1
+作业本	zuo ye ben	1
+一本	yi ben	11
+译本	yi ben	1
+第一本	di yi ben	1
+这本	zhe ben	4
+资本	zi ben	1
+崩	beng	2
+成崩	cheng beng	1
+机泵	ji beng	1
+笔记泵	bi ji beng	1
+比	bi	42
+笔	bi	20
+毕	bi	1
+波比	bo bi	2
+不必	bu bi	1
+德比	de bi	1
+都比	dou bi	1
+关闭	guan bi	4
+货币	huo bi	3
+家具币	jia ju bi	1
+蜡笔	la bi	1
+加勒比	jia le bi	1
+人民币	ren min bi	1
+和人民币	he ren min bi	1
+人名币	ren ming bi	1
+不能比	bu neng bi	1
+哦比	o bi	1
+拼比	pin bi	1
+屏蔽	ping bi	2
+比如屏蔽	bi ru ping bi	1
+电容笔	dian rong bi	2
+傻逼	sha bi	4
+是笔	shi bi	1
+手臂	shou bi	1
+退避	tui bi	3
+文笔	wen bi	1
+一笔	yi bi	1
+硬币	ying bi	1
+抛硬币	pao ying bi	1
+投硬币	tou ying bi	1
+纸笔	zhi bi	2
+变	bian	2
+边	bian	1
+遍	bian	1
+便	bian	1
+阿扁	a bian	1
+随随便便	sui sui bian bian	1
+不变	bu bian	1
+渡边	du bian	1
+方便	fang bian	10
+不方便	bu fang bian	1
+改变	gai bian	3
+改编	gai bian	1
+去改变	qu gai bian	1
+在改变	zai gai bian	1
+好几遍	hao ji bian	1
+两边	liang bian	2
+没变	mei bian	1
+那边	na bian	4
+身边	shen bian	1
+右手边	you shou bian	1
+顺便	shun bian	4
+随便	sui bian	29
+我随便	wo sui bian	2
+一边	yi bian	5
+一遍	yi bian	4
+第一遍	di yi bian	1
+过一遍	guo yi bian	1
+看一遍	kan yi bian	2
+由一边	you yi bian	1
+右边	you bian	3
+这边	zhe bian	11
+周边	zhou bian	1
+最左边	zui zuo bian	1
+表	biao	5
+标	biao	2
+婊	biao	1
+不表	bu biao	1
+课程表	ke cheng biao	2
+词表	ci biao	1
+并不代表	bing bu dai biao	1
+的表	de biao	1
+课表	ke biao	1
+列表	lie biao	2
+林彪	lin biao	1
+目标	mu biao	6
+鼠标	shu biao	2
+这表	zhe biao	1
+极坐标	ji zuo biao	1
+别	bie	5
+憋	bie	2
+差别	cha bie	1
+离别	li bie	1
+区别	qu bie	1
+有区别	you qu bie	1
+识别	shi bie	1
+特别	te bie	15
+提别	ti bie	1
+贴别	tie bie	1
+性别	xing bie	1
+哈尔滨	ha er bin	3
+斯克里亚宾	si ke li ya bin	1
+冰	bing	3
+并	bing	2
+兵	bing	1
+丙	bing	1
+中二病	zhong er bing	1
+没病	mei bing	1
+生病	sheng bing	1
+手柄	shou bing	1
+小冰	xiao bing	11
+有病	you bing	1
+语病	yu bing	1
+阅兵	yue bing	1
+月饼	yue bing	1
+波	bo	4
+泊	bo	2
+博	bo	2
+伯	bo	1
+播	bo	1
+帛	bo	1
+农民伯伯	nong min bo bo	1
+赌博	du bo	2
+读博	du bo	1
+反驳	fan bo	1
+广播	guang bo	2
+横波	heng bo	1
+周立波	zhou li bo	1
+凌波	ling bo	1
+脉搏	mai bo	1
+水波	shui bo	1
+微博	wei bo	3
+王小波	wang xiao bo	1
+一波	yi bo	1
+苑博	yuan bo	3
+曾博	zeng bo	1
+这波	zhe bo	1
+直博	zhi bo	9
+直播	zhi bo	5
+开直播	kai zhi bo	1
+主播	zhu bo	1
+不	bu	22
+补	bu	3
+部	bu	2
+補	bu	1
+步	bu	1
+布	bu	1
+上半部	shang ban bu	1
+不不不	bu bu bu	3
+不不不不	bu bu bu bu	1
+地步	di bu	1
+都不	dou bu	1
+正态分布	zheng tai fen bu	1
+服部	fu bu	1
+以后不	yi hou bu	1
+进步	jin bu	3
+有进步	you jin bu	1
+好恐怖	hao kong bu	1
+很恐怖	hen kong bu	1
+俱乐部	ju le bu	4
+司令部	si ling bu	1
+卢布	lu bu	1
+弥补	mi bu	1
+内部	nei bu	1
+身内部	shen nei bu	1
+跑跑步	pao pao bu	1
+全部	quan bu	2
+散散步	san san bu	1
+是不	shi bu	1
+美术部	mei shu bu	7
+同步	tong bu	1
+腿部	tui bu	1
+退步	tui bu	1
+我不	wo bu	1
+相簿	xiang bu	5
+想补	xiang bu	1
+白色相簿	bai se xiang bu	2
+要不	yao bu	3
+一步	yi bu	1
+第一步	di yi bu	1
+根是一部	gen shi yi bu	1
+再补	zai bu	1
+我在补	wo zai bu	1
+这部	zhe bu	1
+地址簿	di zhi bu	1
+擦	ca	2
+才	cai	11
+菜	cai	2
+干菜	gan cai	1
+刚才	gang cai	10
+很精彩	hen jing cai	1
+韭菜	jiu cai	1
+巨菜	ju cai	1
+迷彩	mi cai	1
+尼采	ni cai	2
+七彩	qi cai	1
+奇才	qi cai	1
+芹菜	qin cai	1
+人才	ren cai	1
+素材	su cai	1
+我才	wo cai	2
+花泽香菜	hua ze xiang cai	1
+雪菜	xue cai	21
+野菜	ye cai	1
+总裁	zong cai	1
+惨	can	1
+蚕	can	1
+挺悲惨	ting bei can	1
+收藏	shou cang	5
+草	cao	5
+操	cao	1
+曹操曹操	cao cao cao cao	2
+猜猜猜曹操曹操	cai cai cai cao cao cao cao	1
+稻草	dao cao	1
+节操	jie cao	3
+茅草	mao cao	1
+体操	ti cao	2
+天草	tian cao	1
+卧槽	wo cao	2
+薰衣草	xun yi cao	1
+观测	guan ce	1
+预测	yu ce	2
+政策	zheng ce	1
+注册	zhu ce	3
+曾	ceng	1
+层	ceng	1
+楼层	lou ceng	1
+差	cha	6
+查	cha	3
+茶	cha	2
+被查	bei cha	1
+不差	bu cha	1
+查查	cha cha	1
+刀叉	dao cha	1
+等差	deng cha	1
+方差	fang cha	1
+刚查	gang cha	1
+更差	geng cha	1
+还差	hai cha	1
+好差	hao cha	1
+很差	hen cha	2
+都很差	dou hen cha	1
+红茶	hong cha	2
+红叉	hong cha	1
+我检查	wo jian cha	1
+绿茶	lv cha	1
+奶茶	nai cha	4
+奶猹	nai cha	1
+扶她奶茶	fu ta nai cha	58
+会去查	hui qu cha	1
+时差	shi cha	2
+太差	tai cha	1
+息差	xi cha	1
+喜茶	xi cha	1
+犬夜叉	quan ye cha	4
+标准差	biao zhun cha	1
+最差	zui cha	2
+拆	chai	1
+可以拆	ke yi chai	1
+纏	chan	1
+泛地产	fan di chan	1
+房地产	fang di chan	2
+共产	gong chan	3
+寒蝉	han chan	3
+资产	zi chan	1
+常	chang	3
+唱	chang	2
+长	chang	2
+场	chang	2
+常常	chang chang	1
+词场	ci chang	1
+开心磁场	kai xin ci chang	1
+开心词场	kai xin ci chang	1
+大肠	da chang	2
+当场	dang chang	1
+登场	deng chang	1
+翻唱	fan chang	1
+非常	fei chang	2
+合唱	he chang	1
+机场	ji chang	8
+几场	ji chang	1
+出机场	chu ji chang	1
+到机场	dao ji chang	1
+浦东机场	pu dong ji chang	1
+换机场	huan ji chang	1
+竞技场	jing ji chang	1
+去机场	qu ji chang	1
+在机场	zai ji chang	1
+进场	jin chang	1
+经常	jing chang	6
+剧场	ju chang	4
+开场	kai chang	1
+考场	kao chang	3
+漫长	man chang	1
+比平常	bi ping chang	1
+跟我一起唱	gen wo yi qi chang	1
+足球场	zu qiu chang	1
+日常	ri chang	11
+时长	shi chang	1
+音乐市场	yin yue shi chang	1
+太长	tai chang	1
+弹唱	tan chang	1
+武昌	wu chang	1
+信长	xin chang	1
+尋常	xun chang	1
+一场	yi chang	5
+月常	yue chang	3
+水打月常	shui da yue chang	1
+空母机动队月常	kong mu ji dong dui yue chang	1
+战场	zhan chang	1
+正常	zheng chang	3
+周常	zhou chang	1
+专场	zhuan chang	1
+超	chao	4
+赶超	gan chao	1
+皇朝	huang chao	1
+天朝	tian chao	3
+新潮	xin chao	3
+英超	ying chao	4
+车	che	3
+扯	che	2
+扯扯	che che	1
+乘车	cheng che	1
+当车	dang che	1
+胡扯	hu che	3
+回车	hui che	2
+火车	huo che	1
+坐火车	zuo huo che	1
+公交车	gong jiao che	2
+街车	jie che	2
+卡车	ka che	2
+开车	kai che	1
+马车	ma che	1
+没车	mei che	2
+每车	mei che	1
+战车	zhan che	1
+少女与战车	shao nv yu zhan che	1
+坐车	zuo che	1
+陈	chen	4
+沉	chen	1
+晨	chen	1
+丁拱辰	ding gong chen	1
+凌晨	ling chen	4
+消沉	xiao chen	1
+手可摘星辰	shou ke zhai xing chen	1
+成	cheng	5
+城	cheng	3
+乘	cheng	2
+撑	cheng	1
+承	cheng	1
+安城	an cheng	1
+北城	bei cheng	1
+编程	bian cheng	9
+变成	bian cheng	1
+高级编程	gao ji bian cheng	1
+别称	bie cheng	1
+赤城	chi cheng	4
+搭乘	da cheng	1
+当成	dang cheng	3
+发成	fa cheng	2
+方程	fang cheng	2
+费城	fei cheng	1
+改成	gai cheng	2
+也改成	ye gai cheng	1
+甘城	gan cheng	4
+工程	gong cheng	2
+过程	guo cheng	1
+换成	huan cheng	3
+强化教程	qiang hua jiao cheng	2
+结城	jie cheng	1
+进程	jin cheng	1
+川端康成	chuan duan kang cheng	2
+课程	ke cheng	18
+学校课程	xue xiao ke cheng	2
+凌成	ling cheng	2
+曼城	man cheng	1
+忙成	mang cheng	1
+平成	ping cheng	1
+骑乘	qi cheng	1
+日程	ri cheng	1
+山城	shan cheng	3
+生成	sheng cheng	1
+完成	wan cheng	2
+先完成	xian wan cheng	1
+协助完成	xie zhu wan cheng	1
+围城	wei cheng	4
+下成	xia cheng	1
+地下城	di xia cheng	1
+携程	xie cheng	10
+凯旋城	kai xuan cheng	8
+造成	zao cheng	1
+自称	zi cheng	2
+做成	zuo cheng	1
+吃	chi	8
+尺	chi	4
+保持	bao chi	2
+不吃	bu chi	1
+电池	dian chi	9
+软电池	ruan dian chi	1
+都吃	dou chi	1
+早饭吃	zao fan chi	1
+扶持	fu chi	1
+钢尺	gang chi	1
+不好吃	bu hao chi	1
+鸡翅	ji chi	1
+劫持	jie chi	1
+没吃	mei chi	1
+握持	wo chi	1
+小吃	xiao chi	1
+我要吃	wo yao chi	1
+再吃	zai chi	1
+直尺	zhi chi	3
+支持	zhi chi	1
+最迟	zui chi	1
+充	chong	17
+别冲	bie chong	1
+补充	bu chong	1
+代充	dai chong	2
+抽	chou	3
+丑	chou	1
+多愁	duo chou	1
+粘稠	nian chou	1
+小丑	xiao chou	1
+出	chu	9
+初	chu	5
+楚	chu	3
+触	chu	2
+厨	chu	2
+除	chu	1
+储	chu	1
+别处	bie chu	1
+憋出	bie chu	1
+不出	bu chu	3
+说不出	shuo bu chu	1
+听不出	ting bu chu	1
+做不出	zuo bu chu	1
+猜出	cai chu	1
+才出	cai chu	1
+超出	chao chu	1
+吃出	chi chu	1
+存储	cun chu	5
+大触	da chu	1
+独处	du chu	1
+发出	fa chu	1
+鬼畜	gui chu	2
+很鬼畜	hen gui chu	1
+好处	hao chu	1
+坏处	huai chu	1
+基础	ji chu	8
+寄出	ji chu	1
+接触	jie chu	3
+也接触	ye jie chu	1
+看出	kan chu	1
+肯出	ken chu	1
+露出	lu chu	1
+冒出	mao chu	1
+没出	mei chu	2
+还没出	hai mei chu	4
+排除	pai chu	1
+清楚	qing chu	17
+不清楚	bu qing chu	8
+都不清楚	dou bu qing chu	1
+我不清楚	wo bu qing chu	3
+很清楚	hen qing chu	1
+也没说清楚	ye mei shuo qing chu	1
+不太清楚	bu tai qing chu	1
+删除	shan chu	3
+输出	shu chu	1
+弹出	tan chu	1
+提出	ti chu	3
+难以听出	nan yi ting chu	1
+推出	tui chu	1
+我出	wo chu	1
+写出	xie chu	1
+炸出	zha chu	1
+住处	zhu chu	1
+做出	zuo chu	1
+船	chuan	2
+穿	chuan	1
+冰川	bing chuan	1
+都不穿	dou bu chuan	1
+大船	da chuan	2
+赌船	du chuan	1
+法穿	fa chuan	1
+贯穿	guan chuan	1
+硬过船	ying guo chuan	1
+快传	kuai chuan	1
+捞船	lao chuan	1
+仁川	ren chuan	7
+烤肉串	kao rou chuan	2
+上传	shang chuan	2
+上船	shang chuan	1
+石川	shi chuan	1
+四川	si chuan	1
+赌一艘船	du yi sou chuan	1
+新川	xin chuan	1
+床	chuang	2
+转床	zhuan chuang	1
+吹	chui	4
+京吹	jing chui	1
+没有京吹	mei you jing chui	1
+小锤	xiao chui	1
+春	chun	2
+高淳	gao chun	4
+秦春	qin chun	1
+青春	qing chun	9
+不青春	bu qing chun	1
+换我青春	huan wo qing chun	1
+小春	xiao chun	1
+新春	xin chun	1
+次	ci	7
+词	ci	5
+此	ci	1
+单词	dan ci	2
+背单词	bei dan ci	1
+动词	dong ci	1
+可分动词	ke fen dong ci	1
+考那么多次	kao na me duo ci	1
+二次	er ci	1
+第二次	di er ci	1
+一元二次	yi yuan er ci	1
+分词	fen ci	1
+日文分词	ri wen fen ci	1
+副词	fu ci	1
+歌词	ge ci	1
+几个词	ji ge ci	1
+没有歌词	mei you ge ci	1
+青花瓷	qing hua ci	2
+几次	ji ci	1
+好几次	hao ji ci	1
+仅此	jin ci	2
+卡茨	ka ci	1
+两次	liang ci	6
+包两次	bao liang ci	1
+再考两次	zai kao liang ci	1
+行了两次	xing le liang ci	1
+一两次	yi liang ci	1
+每次	mei ci	6
+我每次	wo mei ci	1
+灭磁	mie ci	1
+那次	na ci	1
+七次	qi ci	2
+其次	qi ci	2
+如此	ru ci	1
+上次	shang ci	6
+他上次	ta shang ci	1
+拟声词	ni sheng ci	3
+四次	si ci	1
+特此	te ci	1
+五次	wu ci	1
+下次	xia ci	8
+先贤祠	xian xian ci	1
+一次	yi ci	13
+依次	yi ci	2
+第一次	di yi ci	10
+赌一次	du yi ci	1
+反义词	fan yi ci	1
+考一次	kao yi ci	5
+每一次	mei yi ci	1
+去一次	qu yi ci	1
+上一次	shang yi ci	1
+少一次	shao yi ci	1
+下一次	xia yi ci	5
+有一次	you yi ci	1
+这一次	zhe yi ci	1
+由此	you ci	1
+在此	zai ci	1
+其再次	qi zai ci	1
+这次	zhe ci	22
+主次	zhu ci	1
+从	cong	27
+従	cong	1
+我不从	wo bu cong	1
+刚从	gang cong	1
+题哦从	ti o cong	1
+是从	shi cong	1
+而且是从	er qie shi cong	1
+他从	ta cong	1
+我从	wo cong	1
+再从	zai cong	1
+粗	cu	1
+我不清很粗	wo bu qing hen cu	1
+脆	cui	1
+催	cui	1
+干脆	gan cui	1
+存	cun	6
+村	cun	5
+寸	cun	3
+保存	bao cun	3
+不存	bu cun	2
+存不存	cun bu cun	1
+茶厂村	cha chang cun	1
+储存	chu cun	4
+清缓存	qing huan cun	1
+寄存	ji cun	3
+康村	kang cun	1
+农村	nong cun	1
+闪存	shan cun	2
+田村	tian cun	1
+我存	wo cun	1
+中村	zhong cun	1
+错	cuo	3
+不错	bu cuo	8
+都不错	dou bu cuo	2
+还不错	hai bu cuo	5
+很不错	hen bu cuo	4
+也不错	ye bu cuo	6
+发错	fa cuo	1
+翻搓	fan cuo	1
+寄错	ji cuo	2
+会寄错	hui ji cuo	1
+弄错	nong cuo	1
+男怕入错	nan pa ru cuo	1
+我算错	wo suan cuo	1
+一错	yi cuo	1
+再错	zai cuo	1
+打	da	23
+大	da	21
+搭	da	1
+达	da	1
+北大	bei da	1
+表达	biao da	1
+宾大	bin da	2
+不大	bu da	2
+大不大	da bu da	1
+超大	chao da	2
+传达	chuan da	1
+大大	da da	1
+能打打	neng da da	1
+东大	dong da	9
+多大	duo da	1
+塞尔达	sai er da	2
+放大	fang da	4
+芬达	fen da	1
+高达	gao da	2
+哥大	ge da	14
+各大	ge da	1
+过大	guo da	1
+好大	hao da	2
+好好打	hao hao da	1
+很大	hen da	7
+有很大	you hen da	1
+在很大	zai hen da	1
+回答	hui da	1
+交大	jiao da	1
+中科大	zhong ke da	1
+兰大	lan da	2
+亚特兰大	ya te lan da	12
+弗罗里达	fu luo li da	1
+压力大	ya li da	1
+没大	mei da	2
+没打	mei da	2
+萌萌哒	meng meng da	1
+加拿大	jia na da	10
+能打	neng da	2
+殴打	ou da	2
+膨大	peng da	1
+屁大	pi da	1
+叶钦达	ye qin da	1
+南师大	nan shi da	1
+水打	shui da	2
+四大	si da	4
+太大	tai da	5
+挺大	ting da	1
+都挺大	dou ting da	1
+万达	wan da	1
+你要打	ni yao da	1
+越大	yue da	1
+之大	zhi da	1
+自大	zi da	1
+最大	zui da	2
+带	dai	9
+待	dai	6
+呆	dai	2
+代	dai	2
+笔袋	bi dai	1
+不带	bu dai	5
+多待	duo dai	2
+多带	duo dai	1
+二代	er dai	1
+富二代	fu er dai	3
+发带	fa dai	1
+附带	fu dai	2
+福袋	fu dai	1
+狗带	gou dai	1
+美国带	mei guo dai	1
+口袋	kou dai	2
+宽带	kuan dai	3
+略带	lue dai	2
+收纳袋	shou na dai	1
+能带	neng dai	1
+皮带	pi dai	1
+期待	qi dai	2
+时代	shi dai	3
+白丝带	bai si dai	2
+太呆	tai dai	1
+无可替代	wu ke ti dai	1
+我带	wo dai	1
+下午带	xia wu dai	1
+线代	xian dai	1
+现代	xian dai	1
+携带	xie dai	1
+以待	yi dai	1
+一待	yi dai	1
+可以带	ke yi dai	1
+智代	zhi dai	5
+只带	zhi dai	1
+不知带	bu zhi dai	1
+自带	zi dai	1
+但	dan	9
+淡	dan	3
+单	dan	3
+耽	dan	1
+蛋	dan	1
+弹	dan	1
+笨蛋	ben dan	5
+崩但	beng dan	1
+菜单	cai dan	2
+传单	chuan dan	1
+订单	ding dan	2
+复旦	fu dan	1
+歌单	ge dan	9
+太孤单	tai gu dan	1
+闪光弹	shan guang dan	2
+鸡蛋	ji dan	3
+成绩单	cheng ji dan	2
+肆无忌惮	si wu ji dan	1
+撤甲弹	che jia dan	1
+简单	jian dan	14
+很简单	hen jian dan	5
+也很简单	ye hen jian dan	1
+挺简单	ting jian dan	1
+闹到也简单	nao dao ye jian dan	1
+催泪弹	cui lei dan	1
+名单	ming dan	1
+清单	qing dan	3
+上单	shang dan	4
+圣诞	sheng dan	4
+完蛋	wan dan	1
+运单	yun dan	1
+账单	zhang dan	1
+赵丹	zhao dan	1
+这单	zhe dan	1
+中单	zhong dan	8
+种但	zhong dan	1
+最淡	zui dan	1
+党	dang	7
+当	dang	5
+补档	bu dang	1
+雪菜党	xue cai dang	1
+共产党	gong chan dang	1
+存档	cun dang	2
+开档	kai dang	1
+什么党	shen me dang	1
+恰当	qia dang	1
+妥当	tuo dang	1
+文档	wen dang	4
+老满文档	lao man wen dang	1
+相当	xiang dang	3
+就相当	jiu xiang dang	1
+刀	dao	83
+到	dao	79
+道	dao	5
+倒	dao	1
+熬到	ao dao	1
+半岛	ban dao	1
+报道	bao dao	2
+新人报道	xin ren bao dao	1
+背到	bei dao	1
+我被盗	wo bei dao	1
+不到	bu dao	10
+补到	bu dao	1
+补刀	bu dao	1
+才不到	cai bu dao	1
+猜不到	cai bu dao	1
+点不到	dian bu dao	1
+还不到	hai bu dao	1
+看不到	kan bu dao	2
+拉不到	la bu dao	2
+拿不到	na bu dao	2
+申不到	shen bu dao	2
+想不到	xiang bu dao	1
+意想不到	yi xiang bu dao	1
+选不到	xuan bu dao	2
+我选不到	wo xuan bu dao	1
+学不到	xue bu dao	2
+找不到	zhao bu dao	11
+才到	cai dao	2
+菜刀	cai dao	1
+车道	che dao	1
+迟到	chi dao	1
+吃到	chi dao	1
+待到	dai dao	1
+弹道	dan dao	2
+得到	de dao	3
+捞得到	lao de dao	1
+找得到	zhao de dao	1
+等到	deng dao	8
+发到	fa dao	2
+放到	fang dao	3
+感到	gan dao	1
+刚到	gang dao	2
+我刚到	wo gang dao	1
+签个到	qian ge dao	1
+古道	gu dao	1
+滑倒	hua dao	1
+换到	huan dao	2
+环岛	huan dao	1
+回到	hui dao	3
+赶回到	gan hui dao	1
+刚回到	gang hui dao	1
+见到	jian dao	1
+减到	jian dao	1
+讲到	jiang dao	3
+打交道	da jiao dao	1
+就到	jiu dao	1
+看到	kan dao	15
+番看到	fan kan dao	1
+没看到	mei kan dao	2
+能看到	neng kan dao	1
+你看到	ni kan dao	2
+考到	kao dao	2
+浪到	lang dao	1
+唠叨	lao dao	1
+捞到	lao dao	1
+巴厘岛	ba li dao	1
+连到	lian dao	1
+穷困潦倒	qiong kun liao dao	2
+领导	ling dao	1
+留到	liu dao	1
+买到	mai dao	1
+忙到	mang dao	3
+这周一直忙到	zhe zhou yi zhi mang dao	1
+还没到	hai mei dao	1
+拿到	na dao	5
+那道	na dao	3
+那到	na dao	1
+那倒	na dao	1
+难道	nan dao	1
+男刀	nan dao	1
+能到	neng dao	1
+才能到	cai neng dao	1
+没跑到	mei pao dao	1
+配到	pei dao	1
+陪到	pei dao	1
+碰到	peng dao	1
+频道	pin dao	1
+对齐到	dui qi dao	1
+签到	qian dao	1
+来签到	lai qian dao	3
+又来签到	you lai qian dao	1
+青岛	qing dao	1
+求导	qiu dao	1
+扔到	reng dao	1
+三岛	san dao	1
+桑岛	sang dao	1
+上到	shang dao	1
+申到	shen dao	1
+收到	shou dao	2
+受到	shou dao	1
+睡到	shui dao	1
+说道	shuo dao	1
+送到	song dao	3
+你就算到	ni jiu suan dao	1
+提到	ti dao	1
+铁道	tie dao	2
+迎合铁道	ying he tie dao	1
+听到	ting dao	3
+推导	tui dao	2
+玩到	wan dao	2
+味道	wei dao	2
+我倒	wo dao	4
+雾岛	wu dao	2
+舞蹈	wu dao	1
+联系到	lian xi dao	1
+先到	xian dao	1
+想到	xiang dao	3
+没想到	mei xiang dao	1
+一想到	yi xiang dao	1
+写到	xie dao	2
+邪道	xie dao	1
+剃须刀	ti xu dao	2
+选到	xuan dao	7
+学到	xue dao	3
+黄岩岛	huang yan dao	1
+要到	yao dao	4
+库页岛	ku ye dao	1
+一道	yi dao	1
+有一道	you yi dao	2
+周一到	zhou yi dao	1
+初音岛	chu yin dao	2
+泳道	yong dao	2
+炸到	zha dao	2
+找到	zhao dao	6
+以后找到	yi hou zhao dao	1
+能找到	neng zhao dao	1
+你找到	ni zhao dao	1
+只找到	zhi zhao dao	1
+这倒	zhe dao	1
+知道	zhi dao	18
+不知道	bu zhi dao	61
+还不知道	hai bu zhi dao	3
+我不知道	wo bu zhi dao	7
+我也不知道	wo ye bu zhi dao	2
+知不知道	zhi bu zhi dao	2
+才知道	cai zhi dao	2
+我都知道	wo dou zhi dao	1
+你就知道	ni jiu zhi dao	1
+他知道	ta zhi dao	1
+我知道	wo zhi dao	5
+也知道	ye zhi dao	1
+我也知道	wo ye zhi dao	1
+只知道	zhi zhi dao	1
+我只知道	wo zhi zhi dao	2
+主导	zhu dao	1
+住到	zhu dao	1
+租到	zu dao	1
+做到	zuo dao	5
+的	de	1702
+得	de	17
+德	de	9
+地	de	6
+倍的	bei de	1
+变得	bian de	2
+也挺方便的	ye ting fang bian de	1
+改变的	gai bian de	1
+我随便的	wo sui bian de	1
+也变得	ye bian de	1
+一边的	yi bian de	1
+你表的	ni biao de	1
+弥补的	mi bu de	1
+菜的	cai de	2
+查的	cha de	2
+车的	che de	1
+炼成的	lian cheng de	1
+完成的	wan cheng de	1
+吃的	chi de	5
+吃得	chi de	1
+外面吃的	wai mian chi de	1
+用处的	yong chu de	1
+看床的	kan chuang de	1
+第二次的	di er ci de	1
+没有歌词的	mei you ge ci de	2
+主次的	zhu ci de	1
+寄存的	ji cun de	1
+错的	cuo de	1
+还不错的	hai bu cuo de	1
+没算错的	mei suan cuo de	1
+打的	da de	1
+搭的	da de	1
+带大的	dai da de	1
+多大的	duo da de	1
+很大的	hen da de	1
+差距很大的	cha ju hen da de	1
+要带的	yao dai de	1
+淡淡的	dan dan de	1
+道德	dao de	3
+找不到的	zhao bu dao de	1
+看到的	kan dao de	1
+知道的	zhi dao de	6
+就知道的	jiu zhi dao de	1
+保底的	bao di de	1
+挺没底的	ting mei di de	1
+酒店的	jiu dian de	1
+拿掉的	na diao de	1
+没拿掉的	mei na diao de	1
+去掉的	qu diao de	1
+懂得	dong de	1
+读的	du de	1
+限度的	xian du de	1
+段的	duan de	1
+会有判断的	hui you pan duan de	1
+对的	dui de	1
+多的	duo de	2
+很多的	hen duo de	1
+蛮多的	man duo de	1
+挺多的	ting duo de	5
+还挺多的	hai ting duo de	2
+古尔德	gu er de	1
+发的	fa de	2
+这里发的	zhe li fa de	1
+挺麻烦的	ting ma fan de	1
+夫的	fu de	1
+很舒服的	hen shu fu de	1
+改的	gai de	3
+是可以改的	shi ke yi gai de	1
+干的	gan de	2
+搞得	gao de	2
+草稿的	cao gao de	1
+都很高的	dou hen gao de	1
+给的	gei de	1
+怪怪的	guai guai de	4
+馆的	guan de	1
+悲观的	bei guan de	1
+挺贵的	ting gui de	1
+有贵的	you gui de	1
+过得	guo de	7
+都过得	dou guo de	1
+回国的	hui guo de	1
+美国的	mei guo de	1
+他过得	ta guo de	1
+还得	hai de	1
+论文害得	lun wen hai de	1
+好的	hao de	20
+不好的	bu hao de	1
+考不好的	kao bu hao de	1
+跟好的	gen hao de	1
+更好的	geng hao de	2
+很好的	hen hao de	1
+挺美好的	ting mei hao de	1
+说好的	shuo hao de	1
+挺好的	ting hao de	4
+还挺好的	hai ting hao de	2
+也挺好的	ye ting hao de	2
+红的	hong de	1
+以后的	yi hou de	1
+花的	hua de	4
+化的	hua de	1
+我花的	wo hua de	2
+换的	huan de	1
+喜欢的	xi huan de	2
+会的	hui de	3
+慧德	hui de	3
+不会的	bu hui de	1
+词汇的	ci hui de	1
+后悔的	hou hui de	1
+活得	huo de	1
+记得	ji de	5
+寄的	ji de	1
+不记得	bu ji de	1
+估计的	gu ji de	1
+还记得	hai ji de	1
+随机的	sui ji de	1
+我记得	wo ji de	2
+自己的	zi ji de	1
+到家的	dao jia de	1
+卫生间的	wei sheng jian de	1
+时间的	shi jian de	2
+讲的	jiang de	3
+讲得	jiang de	2
+交的	jiao de	3
+教的	jiao de	1
+叫的	jiao de	1
+进的	jin de	2
+金的	jin de	1
+紧的	jin de	1
+就得	jiu de	2
+局的	ju de	2
+全聚德	quan ju de	3
+我局的	wo ju de	1
+觉得	jue de	67
+我也不觉得	wo ye bu jue de	1
+我都觉得	wo dou jue de	1
+向哦那个觉得	xiang o na ge jue de	1
+还觉得	hai jue de	1
+会觉得	hui jue de	1
+解决的	jie jue de	1
+就觉得	jiu jue de	1
+你觉得	ni jue de	2
+那你觉得	na ni jue de	1
+只是觉得	zhi shi jue de	1
+他觉得	ta jue de	2
+我觉得	wo jue de	129
+但我觉得	dan wo jue de	1
+我也觉得	wo ye jue de	2
+又觉得	you jue de	4
+越觉得	yue jue de	1
+在觉得	zai jue de	1
+一直觉得	yi zhi jue de	1
+总觉得	zong jue de	7
+卡的	ka de	1
+离开的	li kai de	1
+看得	kan de	7
+看的	kan de	2
+会看看的	hui kan kan de	1
+想看的	xiang kan de	1
+考的	kao de	2
+考得	kao de	1
+去考的	qu kao de	2
+没课的	mei ke de	1
+上课的	shang ke de	1
+有课的	you ke de	1
+几千块的	ji qian kuai de	1
+来的	lai de	8
+来得	lai de	1
+出来的	chu lai de	2
+写不出来的	xie bu chu lai de	1
+说出来的	shuo chu lai de	1
+做出来的	zuo chu lai de	1
+回来的	hui lai de	1
+将来的	jiang lai de	1
+分开来的	fen kai lai de	1
+还想来的	hai xiang lai de	1
+你要来的	ni yao lai de	1
+我原来的	wo yuan lai de	1
+懒得	lan de	3
+老的	lao de	1
+我老的	wo lao de	1
+下好了的	xia hao le de	1
+很累的	hen lei de	1
+迅雷的	xun lei de	1
+之类的	zhi lei de	25
+活动之类的	huo dong zhi lei de	1
+折扣之类的	zhe kou zhi lei de	1
+里的	li de	2
+会努力的	hui nu li de	1
+这里的	zhe li de	1
+不了的	bu liao de	1
+她聊得	ta liao de	1
+无聊的	wu liao de	1
+挺无聊的	ting wu liao de	1
+路的	lu de	1
+效率的	xiao lv de	1
+他妈的	ta ma de	1
+买的	mai de	12
+刚买的	gang mai de	1
+可买的	ke mai de	1
+我买的	wo mai de	1
+现学现卖的	xian xue xian mai de	1
+想买的	xiang mai de	1
+比较慢的	bi jiao man de	1
+欧美的	ou mei de	1
+里面的	li mian de	1
+他喵的	ta miao de	1
+项目的	xiang mu de	1
+拿的	na de	2
+男的	nan de	1
+很难的	hen nan de	1
+还挺难的	hai ting nan de	1
+电脑的	dian nao de	1
+苦恼的	ku nao de	1
+校内的	xiao nei de	1
+可能的	ke neng de	1
+你的	ni de	23
+是你的	shi ni de	1
+告诉你的	gao su ni de	1
+为你的	wei ni de	1
+用你的	yong ni de	1
+半年的	ban nian de	1
+拍的	pai de	2
+安排的	an pai de	1
+我排得	wo pai de	2
+百度网盘的	bai du wang pan de	1
+起得	qi de	1
+一起的	yi qi de	1
+运气的	yun qi de	1
+会申请的	hui shen qing de	1
+去的	qu de	3
+过去的	guo qu de	3
+回去的	hui qu de	1
+挺感兴趣的	ting gan xing qu de	1
+很有趣的	hen you qu de	1
+不安全的	bu an quan de	1
+不少别人的	bu shao bie ren de	1
+单人的	dan ren de	1
+美国人的	mei guo ren de	1
+双人的	shuang ren de	1
+内容的	nei rong de	1
+曼瑞德	man rui de	1
+上的	shang de	2
+上得	shang de	1
+去上的	qu shang de	1
+我上的	wo shang de	1
+要上的	yao shang de	1
+拆血少的	chai xue shao de	1
+宿舍的	su she de	1
+谁的	shei de	1
+深得	shen de	2
+神的	shen de	1
+一公升的	yi gong sheng de	1
+是的	shi de	6
+使得	shi de	5
+应该是的	ying gai shi de	1
+鬼故事的	gui gu shi de	1
+历史的	li shi de	1
+学历史的	xue li shi de	1
+临时的	lin shi de	1
+认识的	ren shi de	1
+显示的	xian shi de	1
+小时的	xiao shi de	1
+暂时的	zan shi de	1
+谁的	shui de	1
+睡的	shui de	1
+睡得	shui de	1
+水的	shui de	1
+交税的	jiao shui de	1
+说的	shuo de	5
+说得	shuo de	2
+我说的	wo shuo de	2
+撕得	si de	1
+钉死的	ding si de	1
+送的	song de	2
+他送的	ta song de	1
+算得	suan de	2
+他的	ta de	7
+她的	ta de	2
+帮他的	bang ta de	1
+其他的	qi ta de	4
+小食堂的	xiao shi tang de	1
+没问题的	mei wen ti de	2
+有问题的	you wen ti de	1
+普通的	pu tong de	1
+冲突的	chong tu de	1
+国外的	guo wai de	1
+玩的	wan de	5
+晚的	wan de	1
+挺好玩的	ting hao wan de	1
+玩玩的	wan wan de	1
+写完的	xie wan de	1
+忘得	wang de	1
+论文的	lun wen de	1
+去问的	qu wen de	1
+英文的	ying wen de	1
+中文的	zhong wen de	1
+我的	wo de	109
+我得	wo de	1
+别把我的	bie ba wo de	1
+打不过我的	da bu guo wo de	1
+凭我的	ping wo de	1
+错误的	cuo wu de	1
+服务的	fu wu de	2
+下午的	xia wu de	1
+东西的	dong xi de	1
+复习的	fu xi de	1
+下的	xia de	2
+我下的	wo xia de	2
+显得	xian de	2
+闲的	xian de	1
+先得	xian de	1
+想的	xiang de	5
+想得	xiang de	1
+内向的	nei xiang de	1
+小的	xiao de	3
+学校的	xue xiao de	1
+写的	xie de	14
+写得	xie de	4
+好写的	hao xie de	1
+这么写的	zhe me xie de	1
+人写的	ren xie de	1
+要写的	yao xie de	1
+新的	xin de	3
+性的	xing de	3
+不幸的	bu xing de	1
+理性的	li xing de	1
+能行的	neng xing de	1
+不允许的	bu yun xu de	1
+玄德	xuan de	2
+选的	xuan de	1
+选得	xuan de	1
+可以玄德	ke yi xuan de	1
+学的	xue de	6
+才学的	cai xue de	1
+统计学的	tong ji xue de	1
+科学的	ke xue de	1
+自学的	zi xue de	1
+亚马逊的	ya ma xun de	1
+这样的	zhe yang de	5
+要的	yao de	2
+必要的	bi yao de	1
+次要的	ci yao de	1
+都要的	dou yao de	1
+你要的	ni yao de	1
+需要的	xu yao de	1
+毕业的	bi ye de	1
+可以的	ke yi de	2
+也可以的	ye ke yi de	2
+最便宜的	zui pian yi de	2
+上衣的	shang yi de	1
+唯一的	wei yi de	1
+意义的	yi yi de	1
+是愿意的	shi yuan yi de	1
+哟的	yo de	1
+用的	yong de	9
+所以就用的	suo yi jiu yong de	1
+通用的	tong yong de	1
+无用的	wu yong de	1
+有用的	you yong de	1
+有的	you de	34
+才有的	cai you de	1
+要有的	yao you de	1
+左右的	zuo you de	1
+日语的	ri yu de	1
+地球是圆的	di qiu shi yuan de	1
+月的	yue de	4
+个月的	ge yue de	1
+合约的	he yue de	1
+文章的	wen zhang de	1
+招的	zhao de	6
+微笑着的	wei xiao zhe de	1
+真的	zhen de	16
+贞德	zhen de	3
+圣女贞德	sheng nv zhen de	1
+正的	zheng de	4
+保证的	bao zheng de	1
+完整的	wan zheng de	1
+值得	zhi de	1
+皆知的	jie zhi de	1
+我很理智的	wo hen li zhi de	1
+我指的	wo zhi de	1
+中德	zhong de	3
+住的	zhu de	3
+一个人住的	yi ge ren zhu de	2
+赚得	zhuan de	2
+装的	zhuang de	1
+准的	zhun de	1
+租房子的	zu fang zi de	1
+妹子的	mei zi de	1
+我字的	wo zi de	1
+样子的	yang zi de	1
+走得	zou de	1
+租的	zu de	3
+做的	zuo de	17
+做得	zuo de	3
+写作的	xie zuo de	1
+得	dei	1
+就得	jiu dei	2
+总得	zong dei	1
+扥	den	2
+孤儿扥	gu er den	1
+等	deng	9
+灯	deng	5
+不等	bu deng	2
+就等	jiu deng	1
+路灯	lu deng	1
+能登	neng deng	2
+平等	ping deng	1
+第	di	7
+地	di	2
+低	di	1
+保底	bao di	7
+传递	chuan di	1
+打的	da di	6
+当地	dang di	1
+到底	dao di	6
+你到底	ni dao di	1
+签发地	qian fa di	1
+很低	hen di	2
+基地	ji di	1
+见底	jian di	1
+绝地	jue di	1
+落地	luo di	1
+落第	luo di	1
+美帝	mei di	3
+都没底	dou mei di	1
+女帝	nv di	1
+懂球帝	dong qiu di	3
+懂球地	dong qiu di	1
+扫地	sao di	1
+克里斯蒂	ke li si di	1
+泰迪	tai di	1
+霜打洼地	shuang da wa di	1
+兄弟	xiong di	3
+阴蒂	yin di	1
+所在地	suo zai di	1
+最低	zui di	1
+话嗲	hua dia	1
+点	dian	57
+店	dian	3
+电	dian	3
+八点	ba dian	1
+半点	ban dian	1
+本店	ben dian	1
+方便点	fang bian dian	1
+鼠标垫	shu biao dian	5
+冰点	bing dian	1
+差点	cha dian	2
+充电	chong dian	5
+出点	chu dian	1
+床垫	chuang dian	3
+词典	ci dian	3
+电子词典	dian zi ci dian	1
+一点点	yi dian dian	1
+丢点	diu dian	1
+赌点	du dian	1
+多点	duo dian	1
+我十二点	wo shi er dian	1
+发电	fa dian	1
+你发电	ni fa dian	1
+饭店	fan dian	2
+舒服点	shu fu dian	1
+干点	gan dian	2
+各点	ge dian	1
+个点	ge dian	1
+古典	gu dian	8
+好点	hao dian	1
+画点	hua dian	2
+换点	huan dian	1
+几点	ji dian	1
+旅游景点	lv you jing dian	1
+酒店	jiu dian	2
+住酒店	zhu jiu dian	1
+考点	kao dian	1
+靠垫	kao dian	1
+快点	kuai dian	1
+来点	lai dian	6
+要来点	yao lai dian	1
+买了点	mai le dian	1
+雷电	lei dian	1
+一两点	yi liang dian	1
+露点	lu dian	1
+买点	mai dian	1
+你们店	ni men dian	1
+缅甸	mian dian	1
+起点	qi dian	2
+我起点	wo qi dian	1
+三点	san dian	1
+上点	shang dian	3
+多上点	duo shang dian	2
+手电	shou dian	1
+书店	shu dian	8
+四点	si dian	1
+轻松点	qing song dian	1
+新宿点	xin su dian	1
+特典	te dian	1
+晚点	wan dian	6
+玩点	wan dian	1
+都晚点	dou wan dian	1
+我晚点	wo wan dian	2
+稳点	wen dian	3
+我点	wo dian	1
+给我点	gei wo dian	1
+五点	wu dian	1
+写点	xie dian	1
+选点	xuan dian	1
+学点	xue dian	1
+一点	yi dian	43
+才一点	cai yi dian	1
+差一点	cha yi dian	4
+大一点	da yi dian	4
+低一点	di yi dian	1
+偶尔丢一点	ou er diu yi dian	1
+短一点	duan yi dian	1
+多一点	duo yi dian	2
+烦一点	fan yi dian	1
+舒服一点	shu fu yi dian	1
+高一点	gao yi dian	2
+贵一点	gui yi dian	1
+贵就贵一点	gui jiu gui yi dian	1
+好一点	hao yi dian	10
+跟好一点	gen hao yi dian	1
+更好一点	geng hao yi dian	1
+好讲一点	hao jiang yi dian	1
+了解一点	liao jie yi dian	1
+近一点	jin yi dian	1
+强一点	qiang yi dian	2
+怂一点	song yi dian	1
+稳一点	wen yi dian	1
+我稳一点	wo wen yi dian	1
+小一点	xiao yi dian	2
+学一点	xue yi dian	1
+科学一点	ke xue yi dian	1
+便宜一点	pian yi yi dian	1
+有一点	you yi dian	1
+这一点	zhe yi dian	1
+有点	you dian	56
+优点	you dian	1
+邮电	you dian	1
+都有点	dou you dian	2
+还有点	hai you dian	6
+书还有点	shu hai you dian	1
+我还有点	wo hai you dian	1
+会有点	hui you dian	1
+就有点	jiu you dian	3
+略有点	lue you dian	1
+人有点	ren you dian	1
+我有点	wo you dian	6
+先有点	xian you dian	1
+也有点	ye you dian	2
+只有点	zhi you dian	1
+远点	yuan dian	1
+原点	yuan dian	1
+早点	zao dian	7
+重点	zhong dian	4
+字典	zi dian	6
+查字典	cha zi dian	1
+汉语字典	han yu zi dian	1
+做点	zuo dian	6
+掉	diao	7
+也用不掉	ye yong bu diao	1
+大调	da diao	1
+卖的掉	mai de diao	1
+低调	di diao	2
+换掉	huan diao	2
+毁掉	hui diao	1
+剪掉	jian diao	1
+降调	jiang diao	1
+交掉	jiao diao	4
+戒掉	jie diao	3
+口调	kou diao	1
+亏掉	kui diao	1
+处理掉	chu li diao	1
+卖掉	mai diao	3
+拿掉	na diao	2
+翘掉	qiao diao	1
+去掉	qu diao	7
+扔掉	reng diao	1
+删掉	shan diao	2
+上吊	shang diao	1
+一箭双雕	yi jian shuang diao	1
+退掉	tui diao	1
+取消掉	qu xiao diao	3
+又掉	you diao	1
+碟	die	1
+蝴蝶	hu die	3
+肯跌	ken die	1
+坑爹	keng die	1
+连跌	lian die	1
+定	ding	6
+订	ding	3
+顶	ding	2
+补丁	bu ding	7
+丁丁	ding ding	1
+搞定	gao ding	1
+固定	gu ding	2
+规定	gui ding	1
+假定	jia ding	1
+坚定	jian ding	2
+还没聚顶	hai mei ju ding	1
+决定	jue ding	11
+来决定	lai jue ding	1
+还没决定	hai mei jue ding	2
+我决定	wo jue ding	1
+肯定	ken ding	25
+我肯定	wo ken ding	1
+坑定	keng ding	11
+我坑定	wo keng ding	1
+没定	mei ding	1
+钦定	qin ding	1
+确定	que ding	2
+还不确定	hai bu que ding	1
+还会不太确定	hai hui bu tai que ding	1
+设定	she ding	1
+限定	xian ding	2
+先定	xian ding	1
+一定	yi ding	8
+比一定	bi yi ding	2
+不一定	bu yi ding	15
+也没有定	ye mei you ding	1
+预订	yu ding	1
+约定	yue ding	1
+暂定	zan ding	3
+懂	dong	5
+冬	dong	3
+洞	dong	1
+动	dong	1
+被动	bei dong	1
+不懂	bu dong	1
+不动	bu dong	1
+陈栋	chen dong	1
+活动	huo dong	43
+社交活动	she jiao huo dong	1
+她活动	ta huo dong	1
+些活动	xie huo dong	1
+江东	jiang dong	1
+没动	mei dong	1
+都没动	dou mei dong	2
+你没懂	ni mei dong	1
+好难懂	hao nan dong	1
+你懂	ni dong	1
+暖冬	nuan dong	1
+浦东	pu dong	6
+启动	qi dong	3
+驱动	qu dong	1
+山东	shan dong	1
+洪崖洞	hong ya dong	1
+移动	yi dong	10
+运动	yun dong	1
+自动	zi dong	6
+渣滓洞	zha zi dong	1
+都	dou	75
+斗	dou	1
+抖	dou	1
+每次都	mei ci dou	1
+憨豆	han dou	1
+很都	hen dou	1
+大家都	da jia dou	1
+金豆	jin dou	1
+蝌蚪	ke dou	1
+乱斗	luan dou	1
+大乱斗	da luan dou	2
+妹抖	mei dou	1
+谁都	shei dou	1
+豌豆	wan dou	1
+我都	wo dou	3
+也都	ye dou	3
+伊豆	yi dou	3
+战斗	zhan dou	2
+读	du	21
+赌	du	4
+度	du	4
+杜	du	1
+都	du	1
+百度	bai du	21
+不读	bu du	1
+程度	cheng du	5
+成都	cheng du	1
+单独	dan du	3
+小二度	xiao er du	1
+孤独	gu du	4
+轻之国度	qing zhi guo du	4
+十几度	shi ji du	1
+角度	jiao du	1
+进度	jin du	5
+攻略进度	gong lue jin du	1
+京都	jing du	4
+朗读	lang du	1
+没练度	mei lian du	1
+亮度	liang du	1
+怎么读	zen me du	1
+灵敏度	ling min du	3
+难度	nan du	10
+中难度	zhong nan du	1
+低强度	di qiang du	1
+高强度	gao qiang du	1
+轻度	qing du	2
+就去读	jiu qu du	1
+深度	shen du	1
+速度	su du	3
+这速度	zhe su du	1
+他读	ta du	1
+态度	tai du	1
+提督	ti du	2
+跳读	tiao du	2
+温度	wen du	1
+吸毒	xi du	1
+不想读	bu xiang du	1
+胸度	xiong du	1
+训读	xun du	1
+都可以读	dou ke yi du	1
+音读	yin du	1
+有毒	you du	3
+友毒	you du	2
+香水有毒	xiang shui you du	1
+阅读	yue du	13
+和阅读	he yue du	1
+再读	zai du	2
+中毒	zhong du	3
+短	duan	2
+不断	bu duan	1
+也不断	ye bu duan	1
+川端	chuan duan	1
+好短	hao duan	2
+很短	hen duan	2
+信客户端	xin ke hu duan	1
+开始阶段	kai shi jie duan	1
+一刀两段	yi dao liang duan	1
+那段	na duan	1
+南端	nan duan	1
+太短	tai duan	1
+一段	yi duan	4
+第一段	di yi duan	1
+隔一段	ge yi duan	1
+最短	zui duan	1
+对	dui	31
+队	dui	8
+堆	dui	1
+不对	bu dui	4
+部队	bu dui	1
+机动队	ji dong dui	1
+空母机动队	kong mu ji dong dui	1
+二队	er dui	1
+国家队	guo jia dui	1
+舰队	jian dui	99
+友军舰队	you jun jian dui	1
+校对	jiao dui	2
+绝对	jue dui	8
+军队	jun dui	1
+你对	ni dui	1
+排队	pai dui	1
+也不完全对	ye bu wan quan dui	1
+我对	wo dui	6
+一堆	yi dui	3
+已对	yi dui	1
+一队	yi dui	1
+站队	zhan dui	1
+我只对	wo zhi dui	1
+迟钝	chi dun	1
+莱顿	lai dun	1
+克林顿	ke lin dun	1
+伦敦	lun dun	2
+第三顿	di san dun	1
+华盛顿	hua sheng dun	7
+波士顿	bo shi dun	6
+普林斯顿	pu lin si dun	1
+休斯顿	xiu si dun	1
+一顿	yi dun	1
+打一顿	da yi dun	1
+打他一顿	da ta yi dun	1
+多	duo	28
+躲	duo	1
+波多	bo duo	2
+不多	bu duo	8
+差不多	cha bu duo	32
+都差不多	dou cha bu duo	4
+也差不多	ye cha bu duo	2
+这次也差不多	zhe ci ye cha bu duo	1
+不多不多	bu duo bu duo	1
+也不多	ye bu duo	3
+大多	da duo	2
+八点多	ba dian duo	1
+书有点多	shu you dian duo	1
+耳朵	er duo	1
+跟多	gen duo	1
+写跟多	xie gen duo	1
+更多	geng duo	1
+赚更多	zhuan geng duo	1
+好多	hao duo	8
+差好多	cha hao duo	1
+看了好多	kan le hao duo	1
+很多	hen duo	41
+多很多	duo hen duo	1
+很多很多	hen duo hen duo	1
+好很多	hao hen duo	1
+听很多	ting hen duo	1
+我很多	wo hen duo	1
+也很多	ye hen duo	1
+作业很多	zuo ye hen duo	2
+有很多	you hen duo	1
+比较多	bi jiao duo	6
+还比较多	hai bi jiao duo	1
+也比较多	ye bi jiao duo	1
+懒惰	lan duo	1
+奥兰多	ao lan duo	1
+多伦多	duo lun duo	10
+那么多	na me duo	1
+花那么多	hua na me duo	1
+这么多	zhe me duo	2
+梅朵	mei duo	1
+蒙多	meng duo	2
+颇多	po duo	1
+抢夺	qiang duo	2
+输多	shu duo	1
+不算多	bu suan duo	1
+太多	tai duo	10
+人太多	ren tai duo	1
+玩太多	wan tai duo	1
+挺多	ting duo	2
+东西多	dong xi duo	1
+嫌多	xian duo	1
+许多	xu duo	1
+作业多	zuo ye duo	1
+有多	you duo	1
+越多	yue duo	2
+最多	zui duo	6
+可也最多	ke ye zui duo	1
+哦	e	8
+恶	e	2
+额	e	1
+不饿	bu e	2
+无不饿	wu bu e	1
+份额	fen e	1
+不随波逐流哦	bu sui bo zhu liu e	1
+抹额	mo e	1
+深恶	shen e	1
+万恶	wan e	7
+余额	yu e	1
+罪恶	zui e	10
+诶	ei	4
+我诶	wo ei	1
+嗯	en	348
+恩	en	21
+肯恩	ken en	3
+我肯恩	wo ken en	1
+瑞恩	rui en	1
+若风哦鞥	ruo feng e eng	1
+二	er	16
+儿	er	4
+而	er	2
+耳	er	1
+尔	er	1
+大二	da er	7
+达尔	da er	1
+赛达尔	sai da er	1
+第二	di er	1
+反而	fan er	3
+改二	gai er	6
+紫电改二	zi dian gai er	1
+休息会儿	xiu xi hui er	1
+一会儿	yi hui er	5
+等一会儿	deng yi hui er	1
+过一会儿	guo yi hui er	1
+睡一会儿	shui yi hui er	1
+躺一会儿	tang yi hui er	1
+我一会儿	wo yi hui er	1
+默克尔	mo ke er	1
+萌二	meng er	2
+纳尔	na er	1
+哪儿	na er	1
+那儿	na er	1
+看奈尔	kan nai er	1
+康奈尔	kang nai er	7
+男儿	nan er	1
+尼尔	ni er	1
+牛耳	niu er	1
+女儿	nv er	1
+偶尔	ou er	7
+星期二	xing qi er	1
+然而	ran er	13
+入耳	ru er	1
+十二	shi er	1
+首尔	shou er	2
+王二	wang er	1
+希薇儿	xi wei er	1
+希尔	xi er	2
+这玩意儿	zhe wan yi er	1
+三分之二	san fen zhi er	1
+中二	zhong er	3
+周二	zhou er	9
+下周二	xia zhou er	1
+发	fa	31
+法	fa	3
+办法	ban fa	6
+没办法	mei ban fa	4
+我没办法	wo mei ban fa	1
+有办法	you ban fa	1
+没有办法	mei you ban fa	1
+也没有办法	ye mei you ban fa	1
+安保法	an bao fa	1
+长发	chang fa	1
+吃发	chi fa	1
+出发	chu fa	2
+短除法	duan chu fa	1
+大法	da fa	5
+斗法	dou fa	1
+发发	fa fa	1
+方法	fang fa	7
+学习方法	xue xi fang fa	1
+数学方法	shu xue fang fa	1
+就发	jiu fa	1
+开发	kai fa	2
+疗法	liao fa	2
+很吗发	hen ma fa	1
+没法	mei fa	7
+也没法	ye mei fa	1
+但又没法	dan you mei fa	1
+魔法	mo fa	26
+哦发	o fa	2
+群发	qun fa	1
+输入法	shu ru fa	4
+沙发	sha fa	1
+说法	shuo fa	3
+脱发	tuo fa	1
+文法	wen fa	5
+无法	wu fa	5
+想法	xiang fa	8
+这个想法	zhe ge xiang fa	1
+小法	xiao fa	1
+一发	yi fa	1
+语法	yu fa	6
+再发	zai fa	1
+反	fan	9
+番	fan	6
+烦	fan	3
+饭	fan	3
+翻	fan	2
+繁	fan	1
+凡	fan	1
+不烦	bu fan	1
+补番	bu fan	1
+吃饭	chi fan	7
+吃顿饭	chi dun fan	1
+反反	fan fan	1
+翻翻	fan fan	1
+梁非凡	liang fei fan	1
+民工饭	min gong fan	1
+好烦	hao fan	2
+很烦	hen fan	4
+比较烦	bi jiao fan	1
+盖浇饭	gai jiao fan	1
+砍翻	kan fan	1
+看番	kan fan	1
+也看番	ye kan fan	1
+烂番	lan fan	1
+里番	li fan	1
+麻烦	ma fan	2
+很麻烦	hen ma fan	1
+挺麻烦	ting ma fan	3
+嫌麻烦	xian ma fan	2
+鸡肉饭	ji rou fan	1
+不少番	bu shao fan	1
+水反	shui fan	2
+太烦	tai fan	6
+晚饭	wan fan	3
+吃完饭	chi wan fan	2
+不嫌烦	bu xian fan	1
+我嫌烦	wo xian fan	1
+新番	xin fan	4
+早饭	zao fan	1
+正反	zheng fan	1
+去吃中饭	qu chi zhong fan	1
+放	fang	11
+访	fang	1
+方	fang	1
+拜访	bai fang	1
+北方	bei fang	1
+比方	bi fang	1
+苍之彼方	cang zhi bi fang	1
+播放	bo fang	3
+厨房	chu fang	3
+带厨房	dai chu fang	1
+地方	di fang	18
+那鬼地方	na gui di fang	1
+占地方	zhan di fang	1
+太占地方	tai zhan di fang	1
+钟点房	zhong dian fang	1
+东方	dong fang	9
+新东方	xin dong fang	1
+不购房	bu gou fang	1
+开放	kai fang	1
+改革开放	gai ge kai fang	1
+客房	ke fang	2
+麻纺	ma fang	1
+模仿	mo fang	4
+平方	ping fang	1
+乳房	ru fang	2
+健身房	jian shen fang	2
+拖放	tuo fang	1
+另一方	ling yi fang	1
+民族鱼舫	min zu yu fang	1
+在这方	zai zhe fang	1
+非	fei	6
+费	fei	5
+扉	fei	1
+吠	fei	1
+肥	fei	1
+绯	fei	1
+除非	chu fei	3
+付费	fu fei	2
+很费	hen fei	2
+候非	hou fei	1
+花费	hua fei	1
+咖啡	ka fei	2
+浪费	lang fei	8
+没心没肺	mei xin mei fei	1
+孟非	meng fei	1
+免费	mian fei	1
+莫非	mo fei	1
+收费	shou fei	2
+爽飞	shuang fei	1
+袁腾飞	yuan teng fei	1
+王菲	wang fei	1
+王妃	wang fei	1
+学费	xue fei	2
+运费	yun fei	9
+直飞	zhi fei	2
+分	fen	40
+份	fen	4
+百分	bai fen	1
+备份	bei fen	3
+部分	bu fen	8
+大部分	da bu fen	16
+一步分	yi bu fen	1
+到分	dao fen	1
+贝多芬	bei duo fen	2
+中二分	zhong er fen	1
+估分	gu fen	2
+积分	ji fen	2
+记分	ji fen	1
+微积分	wei ji fen	1
+平均分	ping jun fen	3
+麦克分	mai ke fen	1
+来分	lai fen	1
+两份	liang fen	1
+满分	man fen	3
+每份	mei fen	1
+评分	ping fen	3
+三分	san fen	1
+两三分	liang san fen	1
+四分	si fen	1
+算分	suan fen	1
+微分	wei fen	3
+细分	xi fen	2
+太兴奋	tai xing fen	1
+学分	xue fen	7
+一份	yi fen	3
+一分	yi fen	1
+交一份	jiao yi fen	1
+有一份	you yi fen	1
+这一份	zhe yi fen	1
+月份	yue fen	4
+六月份	liu yue fen	1
+三月份	san yue fen	1
+十月份	shi yue fen	1
+一月份	yi yue fen	1
+找份	zhao fen	1
+风	feng	9
+封	feng	3
+凤	feng	3
+丰	feng	1
+疯	feng	1
+被封	bei feng	1
+大布冯	da bu feng	6
+这部风	zhe bu feng	1
+岛风	dao feng	24
+登封	deng feng	1
+冬风	dong feng	1
+发疯	fa feng	1
+中国风	zhong guo feng	1
+疾风	ji feng	9
+江风	jiang feng	4
+麦克风	mai ke feng	1
+来风	lai feng	1
+烈风	lie feng	1
+浦凤	pu feng	1
+秋风	qiu feng	2
+若风	ruo feng	18
+微风	wei feng	1
+旋风	xuan feng	2
+雪风	xue feng	3
+雪峰	xue feng	1
+一封	yi feng	1
+岳峰	yue feng	1
+哈佛	ha fo	20
+陀佛	tuo fo	1
+萌否	meng fou	1
+不哟能否	bu yo neng fou	1
+福	fu	5
+服	fu	2
+父	fu	1
+负	fu	1
+付	fu	1
+副	fu	1
+俯	fu	1
+阿福	a fu	1
+不服	bu fu	1
+车夫	che fu	1
+重复	chong fu	1
+李大福	li da fu	7
+李大夫	li da fu	1
+郁达夫	yu da fu	3
+德福	de fu	2
+寡妇	gua fu	1
+鬼夫	gui fu	1
+鬼父	gui fu	1
+甲府	jia fu	1
+康复	kang fu	1
+客服	ke fu	1
+柴可夫	chai ke fu	1
+美服	mei fu	1
+佩服	pei fu	1
+令人佩服	ling ren pei fu	1
+皮肤	pi fu	7
+有什么皮肤	you shen me pi fu	1
+轻浮	qing fu	1
+屈服	qu fu	2
+日服	ri fu	22
+羽绒服	yu rong fu	2
+舒服	shu fu	3
+束缚	shu fu	1
+不舒服	bu shu fu	1
+很舒服	hen shu fu	1
+斯坦福	si tan fu	21
+天赋	tian fu	5
+托福	tuo fu	3
+比托福	bi tuo fu	1
+西服	xi fu	3
+相符	xiang fu	1
+幸福	xing fu	2
+修复	xiu fu	1
+切比雪夫	qie bi xue fu	1
+衣服	yi fu	6
+一副	yi fu	2
+洗衣服	xi yi fu	2
+政府	zheng fu	1
+支付	zhi fu	5
+制服	zhi fu	2
+献上祝福	xian shang zhu fu	1
+旮	ga	1
+噶	ga	1
+尴尬	gan ga	2
+那旮	na ga	9
+说噶	shuo ga	1
+改	gai	17
+该	gai	2
+概	gai	1
+不该	bu gai	1
+大概	da gai	58
+平时大概	ping shi da gai	1
+我大概	wo da gai	1
+这大概	zhe da gai	1
+带盖	dai gai	3
+还得改	hai dei gai	1
+改改	gai gai	2
+会改改	hui gai gai	1
+更改	geng gai	1
+教改	jiao gai	1
+改了改	gai le gai	1
+还没改	hai mei gai	1
+魔改	mo gai	3
+莫该	mo gai	1
+膝盖	xi gai	1
+修改	xiu gai	1
+还要改	hai yao gai	1
+一概	yi gai	1
+改一改	gai yi gai	1
+因该	yin gai	2
+应该	ying gai	58
+不应该	bu ying gai	2
+书应该	shu ying gai	1
+我应该	wo ying gai	2
+再改	zai gai	2
+甘	gan	12
+干	gan	1
+肝	gan	1
+笔杆	bi gan	1
+都不敢	dou bu gan	1
+也不敢	ye bu gan	1
+李尔干	li er gan	1
+反感	fan gan	1
+干干	gan gan	6
+烘干	hong gan	2
+在烘干	zai hong gan	1
+美感	mei gan	1
+没干	mei gan	1
+能干	neng gan	1
+善感	shan gan	1
+多愁善感	duo chou shan gan	1
+少干	shao gan	1
+既视感	ji shi gan	1
+没事干	mei shi gan	3
+同感	tong gan	1
+都不想干	dou bu xiang gan	1
+方向感	fang xiang gan	1
+遥感	yao gan	1
+要干	yao gan	1
+钢	gang	4
+冈	gang	3
+刚	gang	2
+刚刚	gang gang	1
+我刚刚	wo gang gang	1
+金刚	jin gang	2
+偷钢	tou gang	1
+我刚	wo gang	1
+香港	xiang gang	3
+不锈钢	bu xiu gang	4
+金鱼缸	jin yu gang	1
+高	gao	8
+搞	gao	2
+报告	bao gao	2
+开发报告	kai fa bao gao	1
+不高	bu gao	1
+又不高	you bu gao	1
+草稿	cao gao	3
+层高	ceng gao	1
+初稿	chu gao	1
+唇膏	chun gao	1
+大搞	da gao	1
+天有多高	tian you duo gao	1
+也肯恶搞	ye ken e gao	1
+搞搞	gao gao	1
+好高	hao gao	2
+很高	hen gao	2
+都很高	dou hen gao	1
+会很高	hui hen gao	1
+排名很高	pai ming hen gao	1
+都比较高	dou bi jiao gao	1
+排名高	pai ming gao	1
+智商高	zhi shang gao	1
+提高	ti gao	2
+慢慢提高	man man ti gao	1
+不调高	bu tiao gao	1
+投稿	tou gao	1
+我高	wo gao	1
+比其他行业高	bi qi ta hang ye gao	1
+音高	yin gao	5
+测音高	ce yin gao	1
+预告	yu gao	3
+糟糕	zao gao	2
+最高	zui gao	1
+个	ge	90
+歌	ge	10
+葛	ge	1
+哥	ge	1
+昂格	ang ge	1
+半个	ban ge	4
+表格	biao ge	2
+唱歌	chang ge	4
+长歌	chang ge	2
+吃个	chi ge	1
+出个	chu ge	1
+春哥	chun ge	1
+大哥	da ge	1
+打个	da ge	1
+卧底个	wo di ge	1
+董哥	dong ge	2
+读个	du ge	2
+多个	duo ge	2
+第二个	di er ge	4
+发个	fa ge	1
+风格	feng ge	1
+里那个个	li na ge ge	1
+别一个个	bie yi ge ge	1
+给个	gei ge	1
+谷歌	gu ge	7
+黑桐谷歌	hei tong gu ge	1
+国歌	guo ge	1
+海哥	hai ge	1
+合格	he ge	1
+侯哥	hou ge	1
+换个	huan ge	3
+几个	ji ge	8
+好几个	hao ji ge	2
+有好几个	you hao ji ge	1
+有几个	you ji ge	2
+这几个	zhe ji ge	1
+价格	jia ge	12
+笔芯的价格	bi xin de jia ge	1
+芝加哥	zhi jia ge	7
+犯了个	fan le ge	1
+看了个	kan le ge	1
+来了个	lai le ge	1
+买了个	mai le ge	1
+波多黎各	bo duo li ge	1
+连个	lian ge	4
+两个	liang ge	60
+读两个	du liang ge	2
+那两个	na liang ge	2
+选两个	xuan liang ge	2
+一两个	yi liang ge	3
+有两个	you liang ge	2
+这两个	zhe liang ge	1
+六个	liu ge	2
+咯疙	lo ge	1
+想买个	xiang mai ge	2
+每个	mei ge	8
+那个	na ge	39
+哪个	na ge	4
+帮那个	bang na ge	1
+香港那个	xiang gang na ge	1
+你那个	ni na ge	2
+内热哦那个	nei re o na ge	1
+去那个	qu na ge	1
+早上那个	zao shang na ge	1
+是那个	shi na ge	1
+一样那个	yi yang na ge	1
+文章那个	wen zhang na ge	1
+反正那个	fan zheng na ge	1
+租那个	zu na ge	1
+能不呢个	neng bu ne ge	2
+不知道还能不呢个	bu zhi dao hai neng bu ne ge	1
+坑内个	keng nei ge	1
+你个	ni ge	3
+肯弟你个	ken di ni ge	1
+娶个	qu ge	3
+去个	qu ge	1
+华润个	hua run ge	2
+三个	san ge	13
+第三个	di san ge	1
+两三个	liang san ge	3
+上个	shang ge	10
+你上个	ni shang ge	1
+我上个	wo shang ge	1
+是个	shi ge	3
+海是个	hai shi ge	1
+还是个	hai shi ge	1
+人间失格	ren jian shi ge	1
+你也是个	ni ye shi ge	1
+爽哥	shuang ge	3
+送个	song ge	1
+听听歌	ting ting ge	1
+投个	tou ge	1
+一万个	yi wan ge	1
+网格	wang ge	1
+三五个	san wu ge	1
+下个	xia ge	12
+我下个	wo xia ge	2
+歇个	xie ge	4
+写个	xie ge	1
+性格	xing ge	11
+选个	xuan ge	1
+严格	yan ge	1
+演歌	yan ge	1
+一个	yi ge	147
+带一个	dai yi ge	1
+估计带一个	gu ji dai yi ge	1
+第一个	di yi ge	3
+我第一个	wo di yi ge	1
+多一个	duo yi ge	1
+放一个	fang yi ge	1
+换一个	huan yi ge	1
+开一个	kai yi ge	1
+想开一个	xiang kai yi ge	1
+我也来一个	wo ye lai yi ge	1
+上了一个	shang le yi ge	1
+另一个	ling yi ge	1
+留一个	liu yi ge	1
+想买一个	xiang mai yi ge	1
+每一个	mei yi ge	1
+哪一个	na yi ge	1
+前一个	qian yi ge	2
+上一个	shang yi ge	1
+少一个	shao yi ge	1
+是一个	shi yi ge	3
+算一个	suan yi ge	1
+填一个	tian yi ge	1
+同一个	tong yi ge	2
+另外一个	ling wai yi ge	1
+我一个	wo yi ge	2
+像一个	xiang yi ge	1
+选一个	xuan yi ge	1
+要一个	yao yi ge	1
+有一个	you yi ge	11
+在一个	zai yi ge	1
+赞一个	zan yi ge	1
+找一个	zhao yi ge	1
+着一个	zhe yi ge	2
+做一个	zuo yi ge	1
+有个	you ge	4
+各游各	ge you ge	1
+还有个	hai you ge	1
+要有个	yao you ge	1
+曾哥	zeng ge	1
+找个	zhao ge	4
+这个	zhe ge	117
+把这个	ba zhe ge	1
+要比这个	yao bi zhe ge	1
+都这个	dou zhe ge	1
+就这个	jiu zhe ge	1
+那这个	na zhe ge	1
+我这个	wo zhe ge	4
+有这个	you zhe ge	1
+真个	zhen ge	1
+整个	zheng ge	2
+我整个	wo zheng ge	1
+之歌	zhi ge	1
+七子之歌	qi zi zhi ge	1
+做个	zuo ge	1
+给	gei	16
+給	gei	1
+别给	bie gei	2
+不给	bu gei	2
+都不给	dou bu gei	1
+给不给	gei bu gei	1
+我打给	wo da gei	1
+发给	fa gei	8
+还给	hai gei	1
+交给	jiao gei	2
+你给	ni gei	1
+送给	song gei	2
+他给	ta gei	1
+我给	wo gei	2
+要给	yao gei	1
+跟	gen	6
+都跟	dou gen	1
+利根	li gen	1
+两根	liang gen	1
+你跟	ni gen	1
+欧根	ou gen	1
+密歇根	mi xie gen	2
+有根	you gen	1
+更	geng	8
+梗	geng	1
+华罗庚	hua luo geng	2
+玩梗	wan geng	1
+米写更	mi xie geng	1
+公	gong	2
+宫	gong	1
+共	gong	1
+貢	gong	1
+唱功	chang gong	1
+大成功	da cheng gong	1
+打工	da gong	5
+大公	da gong	3
+教授打工	jiao shou da gong	1
+钉宫	ding gong	1
+后宫	hou gong	4
+鞠躬	ju gong	3
+老公	lao gong	2
+理工	li gong	2
+帝国理工	di guo li gong	1
+凉宫	liang gong	2
+美工	mei gong	1
+人工	ren gong	1
+提供	ti gong	4
+完工	wan gong	1
+卫宫	wei gong	1
+行宫	xing gong	1
+一共	yi gong	10
+义工	yi gong	5
+月宫	yue gong	1
+招工	zhao gong	1
+中共	zhong gong	1
+总共	zong gong	1
+狗	gou	3
+够	gou	3
+不够	bu gou	1
+够不够	gou bu gou	2
+我不够	wo bu gou	1
+代购	dai gou	8
+书记代购	shu ji dai gou	1
+数据结构	shu ju jie gou	1
+就够	jiu gou	1
+文科狗	wen ke gou	1
+酷狗	ku gou	1
+打乱狗	da luan gou	1
+母狗	mu gou	1
+应能够	ying neng gou	1
+乳沟	ru gou	1
+教授狗	jiao shou gou	1
+划水狗	hua shui gou	1
+团购	tuan gou	3
+网购	wang gou	1
+小狗	xiao gou	1
+也够	ye gou	1
+捞月狗	lao yue gou	1
+优越够	you yue gou	1
+纪念碑谷	ji nian bei gu	1
+控股	kong gu	1
+咪咕	mi gu	1
+屁股	pi gu	1
+上古	shang gu	4
+涉谷	she gu	1
+太鼓	tai gu	2
+桐谷	tong gu	2
+硒鼓	xi gu	1
+峡谷	xia gu	1
+揽收香菇	lan shou xiang gu	1
+金针菇	jin zhen gu	2
+桎梏	zhi gu	1
+自古	zi gu	2
+挂	gua	3
+外挂	wai gua	18
+西瓜	xi gua	1
+怪	guai	1
+好怪	hao guai	1
+很怪	hen guai	1
+难怪	nan guai	1
+奇怪	qi guai	1
+好奇怪	hao qi guai	1
+很奇怪	hen qi guai	2
+妖怪	yao guai	1
+馆	guan	3
+管	guan	3
+官	guan	1
+关	guan	1
+闭关	bi guan	1
+比宾馆	bi bin guan	1
+不管	bu guan	2
+看不惯	kan bu guan	2
+珍藏馆	zhen cang guan	1
+插管	cha guan	1
+吃惯	chi guan	1
+顶管	ding guan	1
+宏观	hong guan	2
+开关	kai guan	1
+银丝面馆	yin si mian guan	1
+人生观	ren sheng guan	1
+大使馆	da shi guan	1
+第十关	di shi guan	1
+藏书馆	cang shu guan	1
+图书馆	tu shu guan	4
+我到图书馆	wo dao tu shu guan	1
+损管	sun guan	4
+外观	wai guan	1
+王冠	wang guan	5
+罪恶王冠	zui e wang guan	1
+胃管	wei guan	1
+习惯	xi guan	2
+相关	xiang guan	10
+不相关	bu xiang guan	1
+还有一罐	hai you yi guan	1
+光	guang	3
+广	guang	1
+打光	da guang	1
+放光	fang guang	1
+很广	hen guang	2
+蓝光	lan guang	5
+目光	mu guang	1
+强光	qiang guang	1
+抢光	qiang guang	1
+闪光	shan guang	2
+时光	shi guang	4
+祥光	xiang guang	1
+选光	xuan guang	1
+耀光	yao guang	1
+月光	yue guang	2
+贵	gui	9
+鬼	gui	4
+龟	gui	2
+也不贵	ye bu gui	1
+法律法规	fa lv fa gui	1
+运费贵	yun fei gui	1
+好贵	hao gui	3
+很贵	hen gui	2
+回归	hui gui	3
+巨贵	ju gui	1
+连跪	lian gui	1
+龙龟	long gui	2
+玫瑰	mei gui	1
+魔鬼	mo gui	1
+日晷	ri gui	2
+食尸鬼	shi shi gui	1
+绿水贵	lv shui gui	1
+太贵	tai gui	2
+吸血鬼	xi xue gui	1
+音轨	yin gui	5
+副音轨	fu yin gui	1
+双音轨	shuang yin gui	1
+总归	zong gui	6
+最贵	zui gui	1
+做鬼	zuo gui	1
+丨	gun	1
+棍	gun	1
+老滚	lao gun	1
+过	guo	21
+国	guo	3
+果	guo	1
+熬过	ao guo	2
+冰果	bing guo	8
+不过	bu guo	172
+比不过	bi bu guo	1
+撑不过	cheng bu guo	1
+打不过	da bu guo	4
+锅不过	guo bu guo	1
+考不过	kao bu guo	1
+拼不过	pin bu guo	1
+才过	cai guo	1
+在机场过	zai ji chang guo	1
+超过	chao guo	6
+不超过	bu chao guo	2
+出国	chu guo	1
+没出过	mei chu guo	1
+打过	da guo	1
+带过	dai guo	2
+德国	de guo	12
+帝国	di guo	3
+只有拼帝国	zhi you pin di guo	1
+平底锅	ping di guo	1
+俄罗斯帝国	e luo si di guo	1
+都过	dou guo	1
+度过	du guo	2
+对过	dui guo	1
+十二国	shi er guo	1
+法国	fa guo	3
+各国	ge guo	3
+给过	gei guo	1
+韩国	han guo	2
+好过	hao guo	1
+后果	hou guo	1
+回国	hui guo	15
+火锅	huo guo	2
+吃火锅	chi huo guo	5
+参加过	can jia guo	1
+没见过	mei jian guo	1
+结果	jie guo	3
+出结果	chu jie guo	3
+还没出结果	hai mei chu jie guo	1
+早出结果	zao chu jie guo	1
+这个结果	zhe ge jie guo	1
+没了解过	mei liao jie guo	1
+看过	kan guo	4
+都看过	dou kan guo	1
+我看过	wo kan guo	1
+也看过	ye kan guo	1
+路过	lu guo	1
+掠过	lue guo	1
+讨论过	tao lun guo	1
+买过	mai guo	3
+美国	mei guo	82
+来美国	lai mei guo	1
+在美国	zai mei guo	2
+小南国	xiao nan guo	2
+也能过	ye neng guo	1
+苹果	ping guo	10
+轻国	qing guo	8
+申请过	shen qing guo	1
+去过	qu guo	3
+如果	ru guo	75
+我如果	wo ru guo	1
+三国	san guo	1
+说过	shuo guo	1
+没说过	mei shuo guo	1
+算过	suan guo	1
+糖果	tang guo	1
+听过	ting guo	1
+通过	tong guo	1
+吐过	tu guo	2
+没玩过	mei wan guo	1
+只玩过	zhi wan guo	1
+问过	wen guo	1
+联系过	lian xi guo	1
+想过	xiang guo	1
+写过	xie guo	1
+我没写过	wo mei xie guo	1
+选过	xuan guo	2
+雪国	xue guo	7
+英国	ying guo	5
+用过	yong guo	1
+没有锅	mei you guo	1
+彩云国	cai yun guo	1
+再过	zai guo	3
+战果	zhan guo	5
+找过	zhao guo	2
+中国	zhong guo	30
+诸国	zhu guo	1
+住过	zhu guo	1
+关注过	guan zhu guo	1
+没做过	mei zuo guo	1
+哈	ha	6
+蛤	ha	1
+哈哈	ha ha	19
+哈哈哈	ha ha ha	8
+哈哈哈哈	ha ha ha ha	2
+哈哈哈哈哈哈	ha ha ha ha ha ha	1
+啊哈哈哈哈哈哈哈	a ha ha ha ha ha ha ha	1
+哈哈哈哈哈哈哈哈哈哈哈哈	ha ha ha ha ha ha ha ha ha ha ha ha	1
+哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈	ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha	1
+玛尔扎哈	ma er zha ha	2
+还	hai	7
+海	hai	1
+辞海	ci hai	2
+厉害	li hai	10
+不厉害	bu li hai	1
+厉害厉害	li hai li hai	1
+好厉害	hao li hai	3
+很厉害	hen li hai	4
+挺厉害	ting li hai	2
+鸟海	niao hai	1
+山海	shan hai	5
+上海	shang hai	15
+伤害	shang hai	1
+从上海	cong shang hai	1
+我还	wo hai	1
+这还	zhe hai	1
+汉	han	1
+寒	han	1
+不含	bu han	1
+含不含	han bu han	1
+大韩	da han	11
+德汉	de han	4
+看韩	kan han	3
+抗韩	kang han	18
+鹿晗	lu han	1
+约翰	yue han	1
+行	hang	1
+东航	dong hang	1
+渡航	du hang	1
+法航	fa hang	2
+陆航	lu hang	1
+民航	min hang	1
+南航	nan hang	1
+银行	yin hang	3
+宇航	yu hang	1
+招行	zhao hang	5
+好	hao	108
+号	hao	72
+豪	hao	1
+壕	hao	1
+爱好	ai hao	4
+社保号	she bao hao	1
+基本好	ji ben hao	1
+编号	bian hao	1
+少女编号	shao nv bian hao	2
+不好	bu hao	12
+考不好	kao bu hao	1
+水平不好	shui ping bu hao	1
+睡不好	shui bu hao	2
+都睡不好	dou shui bu hao	1
+也说不好	ye shuo bu hao	1
+学不好	xue bu hao	1
+又不好	you bu hao	1
+做不好	zuo bu hao	2
+没打好	mei da hao	1
+我大号	wo da hao	1
+说得好	shuo de hao	1
+做得好	zuo de hao	1
+大法好	da fa hao	1
+索尼大法好	suo ni da fa hao	2
+封号	feng hao	2
+悠风号	you feng hao	2
+符号	fu hao	1
+还没改好	hai mei gai hao	1
+买一个好	mai yi ge hao	1
+跟好	gen hao	1
+更好	geng hao	3
+不够好	bu gou hao	1
+还好	hai hao	5
+好好	hao hao	16
+好好好	hao hao hao	1
+很好	hen hao	13
+做得很好	zuo de hen hao	1
+是很好	shi hen hao	1
+也很好	ye hen hao	1
+黄浩	huang hao	1
+大家好	da jia hao	1
+剑豪	jian hao	1
+比较好	bi jiao hao	7
+就好	jiu hao	1
+括号	kuo hao	2
+那么好	na me hao	1
+怎么好	zen me hao	1
+这么好	zhe me hao	1
+美好	mei hao	3
+你好	ni hao	1
+比你好	bi ni hao	1
+运气好	yun qi hao	1
+删号	shan hao	3
+晚上好	wan shang hao	1
+早上好	zao shang hao	1
+初始号	chu shi hao	2
+二十号	er shi hao	1
+守好	shou hao	1
+没睡好	mei shui hao	1
+说好	shuo hao	1
+不太好	bu tai hao	3
+挺好	ting hao	5
+也挺好	ye ting hao	1
+土豪	tu hao	6
+比以往好	bi yi wang hao	1
+我好	wo hao	1
+十五号	shi wu hao	1
+喜好	xi hao	1
+想好	xiang hao	2
+没想好	mei xiang hao	2
+小号	xiao hao	2
+写好	xie hao	3
+都写好	dou xie hao	1
+型号	xing hao	1
+选好	xuan hao	1
+也好	ye hao	7
+低音好	di yin hao	1
+站好	zhan hao	1
+账号	zhang hao	5
+真好	zhen hao	4
+正好	zheng hao	7
+只好	zhi hao	1
+季子豪	ji zi hao	1
+走好	zou hao	2
+租好	zu hao	2
+最好	zui hao	3
+做好	zuo hao	2
+把工作做好	ba gong zuo zuo hao	1
+和	he	193
+喝	he	1
+合	he	1
+赫	he	1
+巴赫	ba he	6
+百合	bai he	3
+摇曳百合	yao ye bai he	3
+陈赫	chen he	1
+吃喝	chi he	1
+大河	da he	2
+大和	da he	1
+机顶盒	ji ding he	1
+符合	fu he	3
+最符合	zui fu he	1
+阿部高和	a bu gao he	1
+古河	gu he	1
+过河	guo he	1
+呵呵	he he	34
+呵呵呵	he he he	5
+呵呵呵呵	he he he he	1
+加贺	jia he	4
+就和	jiu he	1
+聚合	ju he	1
+联合	lian he	4
+能喝	neng he	1
+你和	ni he	2
+配合	pei he	1
+机票和	ji piao he	1
+任何	ren he	2
+如何	ru he	1
+适合	shi he	3
+不适合	bu shi he	1
+他和	ta he	3
+法塔赫	fa ta he	1
+我和	wo he	4
+西荷	xi he	1
+吆喝	yao he	1
+银河	yin he	2
+硬核	ying he	1
+昭和	zhao he	1
+折合	zhe he	1
+纸盒	zhi he	1
+组合	zu he	1
+工作和	gong zuo he	1
+黑	hei	6
+被黑	bei hei	1
+极黑	ji hei	1
+很	hen	15
+痕	hen	1
+恨	hen	1
+卡得很	ka de hen	1
+爽得很	shuang de hen	1
+好用得很	hao yong de hen	1
+圣痕	sheng hen	1
+还是很	hai shi hen	1
+痛恨	tong hen	1
+怨恨	yuan hen	1
+横	heng	1
+宏	hong	3
+红	hong	2
+轟	hong	2
+纮	hong	1
+彩虹	cai hong	2
+翻红	fan hong	1
+韩红	han hong	1
+霓虹	ni hong	1
+去霓虹	qu ni hong	1
+后	hou	11
+侯	hou	3
+厚	hou	1
+改后	gai hou	1
+过后	guo hou	1
+热情过后	re qing guo hou	1
+今后	jin hou	3
+幕后	mu hou	1
+两年后	liang nian hou	1
+前后	qian hou	1
+然后	ran hou	11
+生后	sheng hou	1
+时候	shi hou	72
+到时候	dao shi hou	8
+你到时候	ni dao shi hou	1
+到的时候	dao de shi hou	1
+举的时候	ju de shi hou	1
+很多时候	hen duo shi hou	1
+任何时候	ren he shi hou	1
+什么时候	shen me shi hou	1
+售后	shou hou	1
+问候	wen hou	3
+以后	yi hou	25
+不知道以后	bu zhi dao yi hou	1
+我以后	wo yi hou	1
+之后	zhi hou	43
+不玩之后	bu wan zhi hou	1
+打完之后	da wan zhi hou	1
+毕业之后	bi ye zhi hou	1
+最后	zui hou	20
+把最后	ba zui hou	1
+到最后	dao zui hou	3
+放最后	fang zui hou	1
+你最后	ni zui hou	1
+我最后	wo zui hou	1
+左后	zuo hou	1
+户	hu	3
+虎	hu	2
+狐	hu	1
+保护	bao hu	1
+称呼	cheng hu	1
+窗户	chuang hu	1
+几乎	ji hu	10
+濑户	lai hu	1
+纸老虎	zhi lao hu	1
+伊良湖	yi liang hu	1
+守护	shou hu	1
+电热水壶	dian re shui hu	1
+似乎	si hu	6
+都似乎	dou si hu	1
+全似乎	quan si hu	1
+搜狐	sou hu	1
+苏沪	su hu	1
+维护	wei hu	1
+谢谢胡	xie xie hu	1
+用户	yong hu	4
+一个用户	yi ge yong hu	1
+龙与虎	long yu hu	1
+不在乎	bu zai hu	1
+还不在乎	hai bu zai hu	1
+我不在乎	wo bu zai hu	1
+我在乎	wo zai hu	1
+我只在乎	wo zhi zai hu	1
+知乎	zhi hu	6
+逛知乎	guang zhi hu	1
+美之壶	mei zhi hu	1
+话	hua	138
+花	hua	10
+化	hua	5
+华	hua	3
+画	hua	3
+滑	hua	1
+叔本华	shu ben hua	1
+变化	bian hua	1
+不花	bu hua	1
+高淳话	gao chun hua	1
+最大化	zui da hua	2
+近代化	jin dai hua	2
+的话	de hua	11
+美国的话	mei guo de hua	1
+玩的话	wan de hua	1
+可以的话	ke yi de hua	1
+我要租的话	wo yao zu de hua	1
+要做的话	yao zuo de hua	1
+电话	dian hua	8
+打电话	da dian hua	3
+没电话	mei dian hua	1
+动画	dong hua	8
+再看动画	zai kan dong hua	1
+都花	dou hua	1
+那段话	na duan hua	1
+一段话	yi duan hua	1
+对话	dui hua	1
+合法化	he fa hua	1
+钙化	gai hua	1
+规格化	gui ge hua	1
+温哥华	wen ge hua	4
+规划	gui hua	5
+汉化	han hua	2
+黑化	hei hua	2
+很话	hen hua	1
+计划	ji hua	2
+净化	jing hua	2
+那句话	na ju hua	1
+一句话	yi ju hua	1
+这句话	zhe ju hua	3
+杜鹃花	du juan hua	1
+空话	kong hua	1
+漫画	man hua	9
+不漫画	bu man hua	1
+梅花	mei hua	1
+美化	mei hua	1
+谋划	mou hua	1
+能化	neng hua	1
+带年华	dai nian hua	1
+清华	qing hua	3
+融化	rong hua	1
+冰融化	bing rong hua	1
+生化	sheng hua	2
+可视化	ke shi hua	2
+说话	shuo hua	6
+不说话	bu shuo hua	2
+桃花	tao hua	1
+文化	wen hua	8
+细化	xi hua	1
+都细化	dou xi hua	1
+最细化	zui xi hua	1
+我下滑	wo xia hua	1
+要花	yao hua	3
+野花	ye hua	2
+樱花	ying hua	7
+原画	yuan hua	1
+这话	zhe hua	1
+你这话	ni zhe hua	1
+只花	zhi hua	1
+坏	huai	1
+崩坏	beng huai	1
+毁坏	hui huai	1
+情怀	qing huai	1
+正中下怀	zheng zhong xia huai	1
+换	huan	10
+还	huan	1
+刚换	gang huan	1
+跟换	gen huan	1
+交换	jiao huan	1
+能换	neng huan	1
+切换	qie huan	5
+舒缓	shu huan	1
+替换	ti huan	7
+喜欢	xi huan	15
+不喜欢	bu xi huan	3
+而不喜欢	er bu xi huan	1
+喜不喜欢	xi bu xi huan	2
+有点喜欢	you dian xi huan	1
+跟喜欢	gen xi huan	1
+也和喜欢	ye he xi huan	1
+很喜欢	hen xi huan	1
+都很喜欢	dou hen xi huan	1
+我就喜欢	wo jiu xi huan	1
+不太喜欢	bu tai xi huan	1
+挺喜欢	ting xi huan	1
+还挺喜欢	hai ting xi huan	1
+我挺喜欢	wo ting xi huan	1
+我喜欢	wo xi huan	3
+也喜欢	ye xi huan	1
+有喜欢	you xi huan	1
+只喜欢	zhi xi huan	1
+最喜欢	zui xi huan	4
+想换	xiang huan	1
+循环	xun huan	4
+召唤	zhao huan	1
+大饥荒	da ji huang	1
+会	hui	69
+回	hui	8
+辉	hui	1
+惠	hui	1
+悔	hui	1
+绘	hui	1
+灰	hui	1
+板绘	ban hui	1
+世博会	shi bo hui	1
+不会	bu hui	61
+不回	bu hui	1
+才不会	cai bu hui	1
+都不会	dou bu hui	3
+发布会	fa bu hui	1
+会不会	hui bu hui	3
+你不会	ni bu hui	1
+我不会	wo bu hui	4
+也不会	ye bu hui	13
+再也不会	zai ye bu hui	1
+才会	cai hui	1
+所以才会	suo yi cai hui	1
+词汇	ci hui	20
+被词汇	bei ci hui	1
+德语词汇	de yu ci hui	1
+文字词汇	wen zi ci hui	2
+李登辉	li deng hui	2
+兄弟会	xiong di hui	1
+电汇	dian hui	2
+都会	dou hui	8
+发挥	fa hui	1
+翻回	fan hui	2
+应该会	ying gai hui	1
+歌会	ge hui	1
+光辉	guang hui	1
+还会	hai hui	4
+他还会	ta hai hui	1
+后悔	hou hui	15
+少后悔	shao hou hui	1
+机会	ji hui	10
+有机会	you ji hui	1
+还有机会	hai you ji hui	1
+也有机会	ye you ji hui	1
+将会	jiang hui	1
+就会	jiu hui	4
+来回	lai hui	3
+立绘	li hui	3
+还没回	hai mei hui	3
+你会	ni hui	1
+清灰	qing hui	5
+瑞洄	rui hui	1
+商会	shang hui	1
+社会	she hui	4
+学生会	xue sheng hui	10
+妄想学生会	wang xiang xue sheng hui	1
+是会	shi hui	1
+四会	si hui	1
+体会	ti hui	1
+我会	wo hui	8
+学会	xue hui	1
+同学会	tong xue hui	1
+也会	ye hui	8
+他也会	ta ye hui	1
+我也会	wo ye hui	1
+一会	yi hui	3
+干一会	gan yi hui	1
+过一会	guo yi hui	1
+运动了一会	yun dong le yi hui	1
+聊一会	liao yi hui	1
+我趴一会	wo pa yi hui	1
+上一会	shang yi hui	1
+歇一会	xie yi hui	1
+学一会	xue yi hui	1
+会有优惠	hui you you hui	1
+委员会	wei yuan hui	1
+约会	yue hui	3
+大杂烩	da za hui	1
+想大杂烩	xiang da za hui	1
+再回	zai hui	1
+找回	zhao hui	1
+只会	zhi hui	6
+也只会	ye zhi hui	2
+周回	zhou hui	1
+转会	zhuan hui	1
+魂	hun	1
+渾	hun	1
+订婚	ding hun	1
+黄昏	huang hun	2
+灵魂	ling hun	1
+银魂	yin hun	8
+活	huo	11
+或	huo	4
+火	huo	2
+惑	huo	1
+吃货	chi huo	2
+干点活	gan dian huo	1
+冬活	dong huo	2
+发货	fa huo	2
+等复活	deng fu huo	1
+干活	gan huo	9
+在干活	zai gan huo	1
+户惑	hu huo	1
+激活	ji huo	1
+家伙	jia huo	1
+灵活	ling huo	1
+没货	mei huo	1
+拼活	pin huo	1
+燃火	ran huo	1
+日货	ri huo	1
+比如或	bi ru huo	1
+生活	sheng huo	21
+大学生活	da xue sheng huo	1
+送货	song huo	1
+退货	tui huo	1
+夏活	xia huo	3
+养活	yang huo	1
+萤火	ying huo	3
+冰与火	bing yu huo	1
+杂货	za huo	1
+及	ji	10
+机	ji	10
+级	ji	10
+寄	ji	3
+几	ji	2
+积	ji	1
+即	ji	1
+己	ji	1
+集	ji	1
+急	ji	1
+基	ji	1
+季	ji	1
+姬	ji	1
+班级	ban ji	2
+烤面包机	kao mian bao ji	1
+北极	bei ji	1
+本机	ben ji	1
+笔记	bi ji	7
+死亡笔记	si wang bi ji	1
+编辑	bian ji	1
+标记	biao ji	1
+不急	bu ji	4
+来不及	lai bu ji	2
+而无不及	er wu bu ji	1
+成绩	cheng ji	25
+查成绩	cha cheng ji	1
+出成绩	chu cheng ji	1
+吃鸡	chi ji	3
+冲击	chong ji	1
+出击	chu ji	3
+初级	chu ji	3
+德语初级	de yu chu ji	1
+春季	chun ji	2
+打击	da ji	1
+妲己	da ji	1
+鸡年大吉	ji nian da ji	1
+单击	dan ji	1
+肯德基	ken de ji	1
+来得及	lai de ji	2
+也来得及	ye lai de ji	1
+耳机	er ji	9
+二级	er ji	2
+带耳机	dai er ji	1
+第二季	di er ji	7
+高尔基	gao er ji	1
+飞机	fei ji	21
+赌飞机	du fei ji	1
+坐飞机	zuo fei ji	2
+腹肌	fu ji	1
+烘干机	hong gan ji	1
+高级	gao ji	2
+中高级	zhong gao ji	1
+最高级	zui gao ji	1
+估计	gu ji	103
+我估计	wo gu ji	6
+关机	guan ji	2
+轨迹	gui ji	1
+国际	guo ji	9
+新国际	xin guo ji	1
+好几	hao ji	2
+二号机	er hao ji	1
+合集	he ji	1
+痕迹	hen ji	1
+积极	ji ji	1
+加急	jia ji	1
+交集	jiao ji	1
+街机	jie ji	1
+紧急	jin ji	4
+经济	jing ji	45
+微观经济	wei guan jing ji	1
+数学经济	shu xue jing ji	3
+开机	kai ji	2
+科技	ke ji	1
+黑科技	hei ke ji	3
+垃圾	la ji	10
+你最垃圾	ni zui la ji	1
+雷击	lei ji	1
+罗技	luo ji	10
+逻辑	luo ji	1
+那么急	na me ji	1
+这么急	zhe me ji	1
+表面积	biao mian ji	1
+圆面积	yuan mian ji	1
+革命机	ge ming ji	1
+模拟机	mo ni ji	1
+虚拟机	xu ni ji	1
+普及	pu ji	1
+清姬	qing ji	1
+秋季	qiu ji	2
+内燃机	nei ran ji	1
+人际	ren ji	2
+人机	ren ji	1
+末日人际	mo ri ren ji	1
+日记	ri ji	13
+未来日记	wei lai ri ji	2
+写日记	xie ri ji	2
+在日记	zai ri ji	1
+洛杉矶	luo shan ji	2
+设计	she ji	1
+升级	sheng ji	3
+诞生记	dan sheng ji	1
+实际	shi ji	5
+世纪	shi ji	3
+第十集	di shi ji	1
+二十几	er shi ji	1
+新世纪	xin shi ji	1
+手机	shou ji	12
+我用手机	wo yong shou ji	1
+书籍	shu ji	4
+书记	shu ji	2
+属鸡	shu ji	1
+电子书籍	dian zi shu ji	1
+刷机	shua ji	2
+双击	shuang ji	1
+饮水机	yin shui ji	1
+死机	si ji	2
+斯基	si ji	1
+老司机	lao si ji	1
+计算机	ji suan ji	23
+非计算机	fei ji suan ji	2
+学计算机	xue ji suan ji	1
+家算计	jia suan ji	1
+统计	tong ji	72
+通济	tong ji	6
+同济	tong ji	1
+生物统计	sheng wu tong ji	1
+学统计	xue tong ji	1
+应用统计	ying yong tong ji	1
+做统计	zuo tong ji	1
+忘记	wang ji	3
+生化危机	sheng hua wei ji	1
+无极	wu ji	1
+偶袭击	ou xi ji	1
+游戏机	you xi ji	1
+优先级	you xian ji	1
+太心急	tai xin ji	1
+星际	xing ji	1
+变形记	bian xing ji	5
+可塑性及	ke su xing ji	1
+黑雪姬	hei xue ji	5
+一级	yi ji	6
+一季	yi ji	1
+以及	yi ji	1
+一集	yi ji	1
+第一季	di yi ji	9
+洗衣机	xi yi ji	1
+引继	yin ji	2
+打印机	da yin ji	16
+收音机	shou yin ji	1
+邮寄	you ji	3
+有机	you ji	1
+预计	yu ji	1
+合约机	he yue ji	2
+登峰造极	deng feng zao ji	1
+战记	zhan ji	4
+战绩	zhan ji	1
+这几	zhe ji	1
+中级	zhong ji	7
+洲际	zhou ji	1
+转机	zhuan ji	4
+专辑	zhuan ji	4
+自己	zi ji	133
+突然觉得自己	tu ran jue de zi ji	1
+对自己	dui zi ji	2
+给自己	gei zi ji	2
+感觉自己	gan jue zi ji	1
+看自己	kan zi ji	1
+拿自己	na zi ji	1
+你自己	ni zi ji	1
+他自己	ta zi ji	1
+我自己	wo zi ji	15
+握自己	wo zi ji	1
+比我自己	bi wo zi ji	1
+讨厌自己	tao yan zi ji	1
+要自己	yao zi ji	1
+甲	jia	8
+家	jia	7
+加	jia	7
+假	jia	3
+夹	jia	1
+半价	ban jia	2
+报价	bao jia	1
+标价	biao jia	1
+参加	can jia	9
+都参加	dou can jia	1
+想参加	xiang can jia	1
+春假	chun jia	5
+大家	da jia	18
+代价	dai jia	1
+放假	fang jia	5
+房价	fang jia	1
+提前放假	ti qian fang jia	1
+更加	geng jia	2
+更佳	geng jia	1
+管家	guan jia	5
+云管家	yun guan jia	1
+国家	guo jia	4
+寒假	han jia	9
+放寒假	fang han jia	1
+护甲	hu jia	2
+漫画家	man hua jia	1
+回家	hui jia	4
+复活甲	fu huo jia	3
+好几家	hao ji jia	1
+加加	jia jia	4
+加价	jia jia	1
+文件夹	wen jian jia	2
+这个文件夹	zhe ge wen jian jia	1
+降价	jiang jia	1
+不降价	bu jiang jia	1
+降了价	jiang le jia	1
+吕嘉	lv jia	1
+南家	nan jia	21
+皮甲	pi jia	1
+评价	ping jia	5
+秋假	qiu jia	3
+人家	ren jia	1
+上架	shang jia	1
+暑假	shu jia	17
+书价	shu jia	1
+艺术家	yi shu jia	1
+大一暑假	da yi shu jia	1
+招暑假	zhao shu jia	1
+添加	tian jia	1
+我家	wo jia	4
+来我家	lai wo jia	1
+下架	xia jia	3
+已下架	yi xia jia	1
+现价	xian jia	1
+烤箱架	kao xiang jia	1
+学家	xue jia	1
+白学家	bai xue jia	2
+历史学家	li shi xue jia	1
+数学家	shu xue jia	1
+衣架	yi jia	1
+可以加	ke yi jia	1
+去一家	qu yi jia	1
+原价	yuan jia	3
+增加	zeng jia	1
+这家	zhe jia	2
+支架	zhi jia	2
+只加	zhi jia	1
+总价	zong jia	1
+最佳	zui jia	1
+作家	zuo jia	6
+舰	jian	16
+剑	jian	15
+间	jian	4
+件	jian	3
+见	jian	2
+健	jian	2
+建	jian	1
+键	jian	1
+减	jian	1
+箭	jian	1
+简	jian	1
+按键	an jian	2
+安检	an jian	2
+大保健	da bao jian	1
+笔尖	bi jian	2
+比肩	bi jian	1
+标间	biao jian	2
+鼠标键	shu biao jian	5
+不见	bu jian	1
+参见	can jian	1
+高仓健	gao cang jian	1
+插件	cha jian	4
+不常见	bu chang jian	1
+大建	da jian	4
+住单间	zhu dan jian	1
+刀剑	dao jian	74
+顶尖	ding jian	1
+一会儿见	yi hui er jian	1
+房间	fang jian	5
+换房间	huan fang jian	1
+空房间	kong fang jian	1
+福建	fu jian	3
+附件	fu jian	2
+古剑	gu jian	1
+关键	guan jian	5
+罕见	han jian	1
+周华健	zhou hua jian	1
+击剑	ji jian	3
+渐渐	jian jian	2
+借鉴	jie jian	1
+好节俭	hao jie jian	1
+快捷键	kuai jie jian	9
+没看见	mei kan jian	1
+空间	kong jian	2
+两件	liang jian	4
+亮剑	liang jian	1
+母舰	mu jian	1
+期间	qi jian	2
+旗舰	qi jian	1
+去见	qu jian	1
+单人间	dan ren jian	1
+软件	ruan jian	5
+伞剑	san jian	1
+时间	shi jian	96
+事件	shi jian	1
+两倍时间	liang bei shi jian	1
+大事件	da shi jian	2
+暴走大事件	bao zou da shi jian	1
+一段时间	yi duan shi jian	1
+多时间	duo shi jian	1
+挺多时间	ting duo shi jian	1
+费时间	fei shi jian	3
+浪费时间	lang fei shi jian	5
+太费时间	tai fei shi jian	1
+美国时间	mei guo shi jian	1
+花时间	hua shi jian	2
+看时间	kan shi jian	1
+考虑时间	kao lv shi jian	1
+没时间	mei shi jian	2
+都没时间	dou mei shi jian	2
+抽签时间	chou qian shi jian	1
+毕业时间	bi ye shi jian	1
+也可以时间	ye ke yi shi jian	1
+有时间	you shi jian	4
+也没有时间	ye mei you shi jian	1
+截止时间	jie zhi shi jian	2
+入职时间	ru zhi shi jian	1
+秘书舰	mi shu jian	2
+秘书监	mi shu jian	1
+也不打算建	ye bu da suan jian	1
+条件	tiao jian	2
+图鉴	tu jian	1
+文件	wen jian	11
+临时文件	lin shi wen jian	1
+新建	xin jian	1
+一件	yi jian	3
+意见	yi jian	1
+复印件	fu yin jian	1
+硬件	ying jian	2
+邮件	you jian	8
+右键	you jian	1
+发邮件	fa you jian	2
+会邮件	hui you jian	1
+回邮件	hui you jian	1
+遇见	yu jian	1
+日服规划亚热乡但是他们你们遇见	ri fu gui hua ya re xiang dan shi ta men ni men yu jian	1
+再见	zai jian	3
+早见	zao jian	3
+战舰	zhan jian	6
+之间	zhi jian	8
+中间	zhong jian	7
+驱逐舰	qu zhu jian	1
+酱	jiang	9
+奖	jiang	2
+降	jiang	1
+将	jiang	1
+不讲	bu jiang	2
+长江	chang jiang	4
+大江	da jiang	1
+沪江	hu jiang	3
+金奖	jin jiang	1
+空降	kong jiang	1
+麻将	ma jiang	1
+师匠	shi jiang	1
+天降	tian jiang	5
+演讲	yan jiang	1
+杨绛	yang jiang	4
+优酱	you jiang	1
+叫	jiao	18
+交	jiao	14
+教	jiao	5
+脚	jiao	2
+焦	jiao	1
+傲娇	ao jiao	5
+死傲娇	si ao jiao	2
+芭蕉	ba jiao	1
+比较	bi jiao	39
+课比较	ke bi jiao	2
+病娇	bing jiao	1
+才交	cai jiao	1
+周二交	zhou er jiao	1
+佛教	fo jiao	1
+公交	gong jiao	2
+追公交	zhui gong jiao	1
+坐公交	zuo gong jiao	2
+呼叫	hu jiao	2
+会交	hui jiao	1
+中日建交	zhong ri jian jiao	1
+就叫	jiu jiao	2
+他就叫	ta jiu jiao	1
+这就叫	zhe jiu jiao	1
+辣椒	la jiao	1
+没睡懒觉	mei shui lan jiao	1
+乱交	luan jiao	1
+什么叫	shen me jiao	1
+你叫	ni jiao	1
+三角	san jiao	3
+右上角	you shang jiao	1
+社交	she jiao	3
+市郊	shi jiao	2
+视角	shi jiao	2
+树胶	shu jiao	2
+睡觉	shui jiao	13
+机场睡觉	ji chang shui jiao	1
+很随叫	hen sui jiao	1
+左下角	zuo xia jiao	1
+橡胶	xiang jiao	1
+香蕉	xiang jiao	1
+要交	yao jiao	3
+作业要交	zuo ye yao jiao	1
+也叫	ye jiao	1
+蝉在叫	chan zai jiao	1
+请多指教	qing duo zhi jiao	1
+桌角	zhuo jiao	1
+宗教	zong jiao	3
+戒	jie	4
+接	jie	3
+劫	jie	2
+节	jie	2
+介	jie	1
+芥	jie	1
+姐	jie	1
+婕	jie	1
+布姐	bu jie	1
+陈杰	chen jie	1
+惩戒	cheng jie	1
+好吃街	hao chi jie	1
+春节	chun jie	2
+劳动节	lao dong jie	2
+读解	du jie	4
+感恩节	gan en jie	8
+敢接	gan jie	1
+豪杰	hao jie	1
+花街	hua jie	1
+繁华街	fan hua jie	1
+九曲花街	jiu qu hua jie	1
+简洁	jian jie	2
+姐姐	jie jie	3
+进阶	jin jie	2
+境界	jing jie	7
+空之境界	kong zhi jing jie	4
+纠结	jiu jie	8
+理解	li jie	7
+里界	li jie	1
+完全理解	wan quan li jie	1
+链接	lian jie	6
+连接	lian jie	2
+超链接	chao lian jie	1
+两节	liang jie	2
+上两节	shang liang jie	1
+了解	liao jie	10
+了解了解	liao jie liao jie	1
+会了解了解	hui liao jie liao jie	1
+我了解	wo liao jie	2
+先了解	xian liao jie	1
+炮姐	pao jie	3
+对炮姐	dui pao jie	1
+破解	po jie	2
+清洁	qing jie	2
+情人节	qing ren jie	1
+三节	san jie	1
+上街	shang jie	1
+世界	shi jie	11
+脑世界	nao shi jie	1
+加速世界	jia su shi jie	7
+新世界	xin shi jie	1
+异世界	yi shi jie	1
+学术界	xue shu jie	1
+听解	ting jie	1
+外界	wai jie	2
+完结	wan jie	1
+往届	wang jie	1
+细节	xi jie	1
+详解	xiang jie	2
+小姐	xiao jie	1
+学姐	xue jie	4
+迅捷	xun jie	3
+一节	yi jie	2
+上一节	shang yi jie	2
+我一介	wo yi jie	1
+音阶	yin jie	1
+秦宇杰	qin yu jie	1
+这节	zhe jie	1
+我们这届	wo men zhe jie	1
+直接	zhi jie	16
+芥川龙之介	jie chuan long zhi jie	1
+你直接	ni zhi jie	1
+我直接	wo zhi jie	3
+想直接	xiang zhi jie	1
+终结	zhong jie	2
+中介	zhong jie	1
+金	jin	9
+近	jin	6
+紧	jin	3
+进	jin	2
+津	jin	2
+今	jin	1
+烬	jin	1
+拜金	bai jin	1
+白金	bai jin	1
+不仅	bu jin	1
+马丁路德金	ma ding lu de jin	1
+丢进	diu jin	1
+都紧	dou jin	1
+全都金	quan dou jin	1
+托尔金	tuo er jin	1
+改进	gai jin	1
+赶紧	gan jin	3
+干劲	gan jin	1
+更近	geng jin	1
+公斤	gong jin	3
+玫瑰金	mei gui jin	1
+胡瑾	hu jin	2
+黄金	huang jin	12
+上黄金	shang huang jin	1
+公积金	gong ji jin	1
+加进	jia jin	1
+奖金	jiang jin	1
+将近	jiang jin	1
+接近	jie jin	6
+氪金	ke jin	4
+快进	kuai jin	5
+炼金	lian jin	5
+难进	nan jin	2
+牛津	niu jin	7
+去牛津	qu niu jin	1
+前进	qian jin	1
+全金	quan jin	1
+石进	shi jin	1
+税金	shui jin	1
+水金	shui jin	1
+天津	tian jin	3
+挺紧	ting jin	2
+无尽	wu jin	1
+锡金	xi jin	1
+很严谨	hen yan jin	1
+不要紧	bu yao jin	6
+也不要紧	ye bu yao jin	1
+一斤	yi jin	3
+答应金	da ying jin	1
+资金	zi jin	2
+最近	zui jin	31
+我最近	wo zui jin	1
+静	jing	2
+镜	jing	2
+经	jing	1
+竟	jing	1
+精	jing	1
+安静	an jing	1
+又很安静	you hen an jing	1
+北京	bei jing	6
+背景	bei jing	2
+毕竟	bi jing	30
+柴静	chai jing	1
+大井	da jing	1
+放大镜	fang da jing	11
+德井	de jing	1
+东京	dong jing	12
+都惊	dou jing	1
+红警	hong jing	1
+万华镜	wan hua jing	4
+美少女万华镜	mei shao nv wan hua jing	1
+环境	huan jing	1
+攻击经	gong ji jing	1
+结晶	jie jing	1
+静静	jing jing	2
+安安静静	an an jing jing	1
+小口径	xiao kou jing	2
+枯井	ku jing	1
+风平浪静	feng ping lang jing	2
+南京	nan jing	11
+逆境	ni jing	1
+牛精	niu jing	3
+去牛精	qu niu jing	1
+前景	qian jing	2
+千晶	qian jing	1
+新求精	xin qiu jing	7
+维景	wei jing	6
+眼睛	yan jing	2
+妖精	yao jing	2
+不要惊	bu yao jing	1
+已经	yi jing	86
+点已经	dian yi jing	1
+都已经	dou yi jing	2
+我已经	wo yi jing	20
+应景	ying jing	1
+樱井	ying jing	1
+震惊	zhen jing	1
+政经	zheng jing	2
+三字经	san zi jing	1
+足径	zu jing	1
+最精	zui jing	3
+何炅	he jiong	1
+就	jiu	178
+九	jiu	3
+久	jiu	2
+救	jiu	1
+酒	jiu	1
+不久	bu jiu	3
+不就	bu jiu	2
+这不就	zhe bu jiu	1
+长久	chang jiu	1
+去喝了点酒	qu he le dian jiu	1
+多久	duo jiu	5
+有多久	you duo jiu	1
+过久	guo jiu	1
+好久	hao jiu	4
+红酒	hong jiu	1
+货就	huo jiu	1
+讲究	jiang jiu	1
+书名就	shu ming jiu	1
+那就	na jiu	17
+你就	ni jiu	2
+啤酒	pi jiu	2
+果汁啤酒	guo zhi pi jiu	1
+晚上就	wan shang jiu	1
+马猴烧酒	ma hou shao jiu	1
+十九	shi jiu	1
+说就	shuo jiu	1
+了他就	liao ta jiu	1
+聊太久	liao tai jiu	2
+我就	wo jiu	18
+研究	yan jiu	39
+上研究	shang yan jiu	1
+东亚研究	dong ya yan jiu	9
+做研究	zuo yan jiu	5
+也就	ye jiu	18
+住越久	zhu yue jiu	1
+早就	zao jiu	7
+我早就	wo zao jiu	2
+之酒	zhi jiu	1
+永生之酒	yong sheng zhi jiu	2
+局	ju	2
+句	ju	1
+聚	ju	1
+举	ju	1
+并举	bing ju	1
+病句	bing ju	1
+广播剧	guang bo ju	2
+布局	bu ju	1
+餐具	can ju	1
+差距	cha ju	2
+有差距	you cha ju	1
+根据	gen ju	2
+工具	gong ju	6
+韩剧	han ju	1
+行距	hang ju	1
+少几句	shao ji ju	1
+家具	jia ju	1
+晕开了结局	yun kai le jie ju	1
+菊苣	ju ju	1
+恐惧	kong ju	1
+日剧	ri ju	1
+第三句	di san ju	1
+数据	shu ju	11
+大数据	da shu ju	3
+地理数据	di li shu ju	1
+文具	wen ju	1
+一句	yi ju	3
+一局	yi ju	1
+那一句	na yi ju	1
+玩一局	wan yi ju	1
+我玩一局	wo wan yi ju	1
+再玩一局	zai wan yi ju	1
+邮局	you ju	2
+政治局	zheng zhi ju	2
+娟	juan	2
+卷	juan	1
+分卷	fen juan	1
+绝	jue	1
+错觉	cuo jue	1
+感觉	gan jue	65
+我感觉	wo gan jue	1
+解决	jie jue	5
+拒绝	ju jue	2
+挖掘	wa jue	1
+我觉	wo jue	3
+那我觉	na wo jue	1
+小绝	xiao jue	1
+悲痛欲绝	bei tong yu jue	1
+主角	zhu jue	2
+君	jun	6
+菌	jun	4
+郡	jun	3
+吐槽君	tu cao jun	1
+敌军	di jun	1
+进军	jin jun	1
+敬军	jing jun	1
+八国联军	ba guo lian jun	1
+平均	ping jun	4
+宫崎骏	gong qi jun	1
+芝士君	zhi shi jun	1
+山田君	shan tian jun	1
+血型君	xue xing jun	1
+诸君	zhu jun	1
+卡	ka	16
+卡不卡	ka bu ka	1
+达卡	da ka	1
+打卡	da ka	1
+每日打卡	mei ri da ka	1
+你的卡	ni de ka	1
+特典卡	te dian ka	1
+有点卡	you dian ka	1
+我有点卡	wo you dian ka	1
+饭卡	fan ka	3
+房卡	fang ka	1
+卡夫卡	ka fu ka	2
+黑卡	hei ka	2
+看卡	kan ka	1
+索拉卡	suo la ka	1
+蓝卡	lan ka	1
+绿卡	lv ka	1
+礼品卡	li pin ka	1
+显卡	xian ka	1
+信用卡	xin yong ka	2
+行用卡	xing yong ka	2
+开	kai	5
+打不开	da bu kai	1
+打开	da kai	4
+感慨	gan kai	1
+刚开	gang kai	1
+公开	gong kai	2
+还开	hai kai	2
+花开	hua kai	9
+看开	kan kai	1
+没开	mei kai	3
+强开	qiang kai	1
+王开	wang kai	1
+新开	xin kai	1
+看	kan	30
+边看	bian kan	1
+不看	bu kan	3
+查看	cha kan	2
+初看	chu kan	1
+刚看	gang kan	1
+不够看	bu gou kan	1
+观看	guan kan	1
+好看	hao kan	4
+不好看	bu hao kan	2
+很好看	hen hao kan	1
+也很好看	ye hen hao kan	1
+很看	hen kan	2
+就看	jiu kan	2
+那就看	na jiu kan	1
+看看	kan kan	29
+来看看	lai kan kan	7
+迅雷看看	xun lei kan kan	4
+去看看	qu kan kan	3
+我看看	wo kan kan	4
+想看看	xiang kan kan	1
+我也看看	wo ye kan kan	1
+你在看看	ni zai kan kan	1
+我再看看	wo zai kan kan	1
+看了看	kan le kan	4
+就看了看	jiu kan le kan	1
+是看了看	shi kan le kan	1
+我看了看	wo kan le kan	1
+没看	mei kan	2
+都没看	dou mei kan	2
+我还没看	wo hai mei kan	1
+耐看	nai kan	1
+你看	ni kan	2
+鸟瞰	niao kan	1
+再去看	zai qu kan	1
+我看	wo kan	5
+细看	xi kan	1
+先看	xian kan	1
+要看	yao kan	3
+不要看	bu yao kan	1
+书要看	shu yao kan	1
+也要看	ye yao kan	1
+也看	ye kan	1
+一看	yi kan	2
+看一看	kan yi kan	3
+月刊	yue kan	11
+再看	zai kan	1
+只看	zhi kan	1
+抗	kang	7
+考	kao	15
+靠	kao	2
+备考	bei kao	1
+参考	can kao	1
+想参考	xiang can kao	1
+重考	chong kao	1
+高考	gao kao	1
+考考	kao kao	3
+在考考	zai kao kao	1
+能力考	neng li kao	1
+还没考	hai mei kao	1
+没法去考	mei fa qu kao	1
+思考	si kao	4
+我靠	wo kao	1
+要靠	yao kao	1
+再考	zai kao	3
+课	ke	71
+科	ke	7
+可	ke	5
+咳	ke	1
+艾克	ai ke	1
+百科	bai ke	2
+维基百科	wei ji bai ke	1
+本科	ben ke	32
+在读本科	zai du ben ke	1
+蚌壳	beng ke	2
+补课	bu ke	1
+刺客	ci ke	1
+达克	da ke	2
+选不到课	xuan bu dao ke	1
+今天的课	jin tian de ke	1
+杜克	du ke	4
+不饿可	bu e ke	1
+儿科	er ke	1
+哥特沙尔克	ge te sha er ke	1
+魔法科	mo fa ke	3
+攻壳	gong ke	4
+公克	gong ke	1
+老顾客	lao gu ke	1
+毫克	hao ke	1
+手机壳	shou ji ke	1
+张继科	zhang ji ke	2
+杰克	jie ke	2
+节课	jie ke	1
+一节课	yi jie ke	6
+理科	li ke	6
+立刻	li ke	1
+历可	li ke	1
+读理科	du li ke	1
+学理科	xue li ke	1
+麦克	mai ke	1
+没课	mei ke	1
+都没课	dou mei ke	1
+周五没课	zhou wu mei ke	1
+门课	men ke	3
+两门课	liang men ke	1
+一门课	yi men ke	1
+这梦可	zhe meng ke	1
+那珂	na ke	2
+耐克	nai ke	2
+小儿内科	xiao er nei ke	1
+诺克	nuo ke	1
+奥林匹克	ao lin pi ke	1
+恰克	qia ke	1
+翘课	qiao ke	1
+我请客	wo qing ke	1
+认可	ren ke	2
+上课	shang ke	12
+尚可	shang ke	1
+商科	shang ke	1
+变上课	bian shang ke	1
+读商科	du shang ke	1
+上上课	shang shang ke	1
+必胜客	bi sheng ke	1
+历史课	li shi ke	4
+人事科	ren shi ke	1
+大足石刻	da zu shi ke	1
+水课	shui ke	1
+苏克	su ke	1
+这堂课	zhe tang ke	1
+半天课	ban tian ke	1
+听课	ting ke	1
+学校停课	xue xiao ting ke	1
+回头客	hui tou ke	1
+上完课	shang wan ke	2
+文科	wen ke	13
+是文科	shi wen ke	1
+学文科	xue wen ke	2
+小刻	xiao ke	1
+必修课	bi xiu ke	1
+许可	xu ke	1
+选课	xuan ke	2
+学科	xue ke	2
+的学科	de xue ke	1
+跨学科	kua xue ke	1
+数学课	shu xue ke	3
+我数学课	wo shu xue ke	1
+德语课	de yu ke	1
+肯	ken	1
+坑	keng	3
+入坑	ru keng	3
+退坑	tui keng	1
+恐	kong	1
+空	kong	1
+控	kong	1
+程控	cheng kong	1
+航空	hang kong	3
+加拿大航空	jia na da hang kong	1
+开孔	kai kong	1
+买空卖空	mai kong mai kong	1
+妹控	mei kong	1
+青空	qing kong	2
+清空	qing kong	1
+全日空	quan ri kong	1
+线控	xian kong	1
+兄控	xiong kong	1
+虚空	xu kong	1
+有空	you kong	1
+有没有空	you mei you kong	1
+制空	zhi kong	2
+缘之空	yuan zhi kong	18
+各种控	ge zhong kong	1
+扣	kou	1
+口	kou	1
+窗口	chuang kou	1
+出风口	chu feng kou	2
+海口	hai kou	3
+夸下海口	kua xia hai kou	1
+户口	hu kou	1
+混口	hun kou	1
+新街口	xin jie kou	2
+瓷器进口	ci qi jin kou	1
+可口	ke kou	1
+纽扣	niu kou	1
+磁器口	ci qi kou	1
+人口	ren kou	2
+鞋扣	xie kou	1
+折扣	zhe kou	5
+哭	ku	2
+枯	ku	1
+库	ku	1
+裤	ku	1
+残酷	can ku	1
+很残酷	hen can ku	1
+吃苦	chi ku	1
+短裤	duan ku	2
+社工库	she gong ku	1
+数据库	shu ju ku	3
+内裤	nei ku	1
+痛苦	tong ku	1
+文库	wen ku	7
+百度文库	bai du wen ku	1
+好想哭	hao xiang ku	1
+辛苦	xin ku	2
+雪酷	xue ku	1
+跨	kua	1
+块	kuai	8
+板块	ban kuai	1
+也不快	ye bu kuai	1
+来得快	lai de kuai	1
+游得快	you de kuai	1
+都快	dou kuai	1
+好快	hao kuai	1
+很快	hen kuai	1
+也很快	ye hen kuai	1
+比较快	bi jiao kuai	1
+尽快	jin kuai	1
+隔了块	ge le kuai	1
+这么快	zhe me kuai	1
+掉这么快	diao zhe me kuai	1
+明快	ming kuai	1
+那块	na kuai	1
+也不算快	ye bu suan kuai	1
+太快	tai kuai	1
+调快	tiao kuai	1
+那一块	na yi kuai	1
+愉快	yu kuai	3
+周末愉快	zhou mo yu kuai	1
+越看越快	yue kan yue kuai	1
+这块	zhe kuai	2
+阿宽	a kuan	1
+付款	fu kuan	1
+先不付款	xian bu fu kuan	1
+货到付款	huo dao fu kuan	1
+还没付款	hai mei fu kuan	1
+汇款	hui kuan	2
+赔款	pei kuan	2
+提款	ti kuan	1
+哪一款	na yi kuan	3
+还有一款	hai you yi kuan	1
+这款	zhe kuan	2
+框	kuang	1
+矿	kuang	1
+疯狂	feng kuang	1
+概况	gai kuang	1
+对话框	dui hua kuang	1
+有框框	you kuang kuang	1
+自虐狂	zi nue kuang	1
+情况	qing kuang	5
+看情况	kan qing kuang	1
+我情况	wo qing kuang	1
+实况	shi kuang	2
+工作狂	gong zuo kuang	1
+问心无愧	wen xin wu kui	1
+不困	bu kun	1
+穷困	qiong kun	1
+包括	bao kuo	7
+不包括	bu bao kuo	1
+啦	la	6
+拉	la	2
+潘多拉	pan duo la	1
+干拉	gan la	3
+西撒哈拉	xi sa ha la	1
+还好啦	hai hao la	1
+卡拉	ka la	1
+拉拉	la la	1
+沙拉	sha la	2
+太辣	tai la	1
+希腊	xi la	1
+再拉	zai la	1
+种啦	zhong la	1
+来	lai	17
+本来	ben lai	39
+我本来	wo ben lai	3
+蹦来	beng lai	3
+比赖	bi lai	1
+划不来	hua bu lai	1
+做不来	zuo bu lai	1
+重来	chong lai	1
+出来	chu lai	5
+被逼出来	bei bi chu lai	1
+考不出来	kao bu chu lai	1
+练不出来	lian bu chu lai	1
+带出来	dai chu lai	1
+翻出来	fan chu lai	1
+考出来	kao chu lai	2
+哭出来	ku chu lai	1
+卡拿出来	ka na chu lai	1
+念出来	nian chu lai	1
+说出来	shuo chu lai	1
+算出来	suan chu lai	1
+写出来	xie chu lai	1
+从来	cong lai	1
+带来	dai lai	2
+化不划得来	hua bu hua de lai	1
+没起得来	mei qi de lai	1
+读来	du lai	1
+没倒过来	mei dao guo lai	1
+寄过来	ji guo lai	1
+拿过来	na guo lai	1
+后来	hou lai	10
+胡来	hu lai	2
+回来	hui lai	18
+秋天不回来	qiu tian bu hui lai	1
+才回来	cai hui lai	1
+带回来	dai hui lai	7
+都带回来	dou dai hui lai	1
+拿回来	na hui lai	1
+退回来	tui hui lai	1
+我回来	wo hui lai	1
+寄来	ji lai	1
+将来	jiang lai	1
+纠结来	jiu jie lai	1
+进来	jin lai	2
+没收进来	mei shou jin lai	1
+镜来	jing lai	1
+就来	jiu lai	2
+卡莱	ka lai	1
+我拆开来	wo chai kai lai	1
+看来	kan lai	3
+在我看来	zai wo kan lai	3
+绫濑	ling lai	2
+名濑	ming lai	1
+你来	ni lai	1
+这两年来	zhe liang nian lai	1
+一年来	yi nian lai	1
+这一年来	zhe yi nian lai	1
+起来	qi lai	9
+好不起来	hao bu qi lai	1
+刚起来	gang qi lai	1
+加起来	jia qi lai	1
+加价起来	jia jia qi lai	1
+捡起来	jian qi lai	3
+看起来	kan qi lai	3
+拼起来	pin qi lai	1
+解释起来	jie shi qi lai	1
+笑起来	xiao qi lai	2
+写起来	xie qi lai	2
+星期来	xing qi lai	2
+两个星期来	liang ge xing qi lai	1
+转起来	zhuan qi lai	1
+做起来	zuo qi lai	1
+上来	shang lai	2
+人生来	ren sheng lai	1
+他来	ta lai	1
+天籁	tian lai	1
+未来	wei lai	16
+下来	xia lai	3
+顶部下来	ding bu xia lai	1
+订不下来	ding bu xia lai	1
+笑得停不下来	xiao de ting bu xia lai	1
+定下来	ding xia lai	5
+都定下来	dou ding xia lai	1
+还没定下来	hai mei ding xia lai	3
+多下来	duo xia lai	1
+接下来	jie xia lai	3
+静下来	jing xia lai	2
+看下来	kan xia lai	1
+力下来	li xia lai	1
+留下来	liu xia lai	1
+慢下来	man xia lai	1
+拍下来	pai xia lai	2
+上下来	shang xia lai	1
+写下来	xie xia lai	1
+想来	xiang lai	1
+你想来	ni xiang lai	1
+静不下心来	jing bu xia xin lai	1
+静下心来	jing xia xin lai	1
+惊吓醒来	jing xia xing lai	1
+要来	yao lai	1
+你不要来	ni bu yao lai	1
+以来	yi lai	1
+有史以来	you shi yi lai	1
+用来	yong lai	3
+原来	yuan lai	6
+其实我原来	qi shi wo yuan lai	1
+越来	yue lai	3
+一个月来	yi ge yue lai	1
+再来	zai lai	1
+打起字来	da qi zi lai	1
+烂	lan	2
+懒	lan	2
+栏	lan	1
+岚	lan	1
+蓝	lan	1
+波兰	bo lan	1
+灌篮	guan lan	1
+荷兰	he lan	1
+我很懒	wo hen lan	1
+乌克兰	wu ke lan	1
+马里兰	ma li lan	1
+没蓝	mei lan	3
+我没蓝	wo mei lan	2
+太懒	tai lan	1
+状态栏	zhuang tai lan	1
+汀兰	ting lan	3
+偷懒	tou lan	1
+任务栏	ren wu lan	1
+游览	you lan	1
+狼	lang	10
+浪	lang	2
+布朗	bu lang	1
+比较浪	bi jiao lang	1
+上郎	shang lang	1
+太浪	tai lang	1
+螳螂	tang lang	1
+新浪	xin lang	1
+雪浪	xue lang	1
+一郎	yi lang	1
+谷崎润一郎	gu qi run yi lang	1
+老	lao	3
+捞	lao	3
+海底捞	hai di lao	1
+功劳	gong lao	1
+很古老	hen gu lao	1
+很老	hen lao	1
+了	le	449
+仂	le	1
+罢了	ba le	2
+区别罢了	qu bie ba le	1
+明白了	ming bai le	1
+太失败了	tai shi bai le	1
+说白了	shuo bai le	2
+太棒了	tai bang le	1
+最棒了	zui bang le	1
+就报了	jiu bao le	1
+萌爆了	meng bao le	1
+不背了	bu bei le	1
+新版本了	xin ban ben le	1
+一遍了	yi bian le	1
+这边了	zhe bian le	1
+标了	biao le	1
+区别了	qu bie le	2
+伯乐	bo le	1
+视屏直播了	shi ping zhi bo le	1
+补了	bu le	2
+不了	bu le	1
+是太菜了	shi tai cai le	1
+做菜了	zuo cai le	1
+注册了	zhu ce le	1
+差了	cha le	2
+盾差了	dun cha le	1
+太差了	tai cha le	2
+只差了	zhi cha le	1
+拆了	chai le	1
+太长了	tai chang le	1
+成了	cheng le	1
+就成了	jiu cheng le	3
+我就成了	wo jiu cheng le	1
+吃了	chi le	8
+只吃了	zhi chi le	1
+除了	chu le	16
+出了	chu le	5
+不清楚了	bu qing chu le	1
+我除了	wo chu le	1
+穿了	chuan le	1
+词了	ci le	1
+不存了	bu cun le	1
+都不存了	dou bu cun le	1
+错了	cuo le	1
+也还不错了	ye hai bu cuo le	1
+很不错了	hen bu cuo le	1
+带错了	dai cuo le	1
+搞错了	gao cuo le	1
+拼错了	pin cuo le	1
+说错了	shuo cuo le	1
+选错了	xuan cuo le	3
+有错了	you cuo le	1
+打了	da le	3
+大了	da le	1
+不打了	bu da le	2
+也不打了	ye bu da le	1
+亚特兰大了	ya te lan da le	3
+太大了	tai da le	1
+带了	dai le	6
+代了	dai le	1
+待了	dai le	1
+只带了	zhi dai le	1
+他只待了	ta zhi dai le	1
+做歌单了	zuo ge dan le	1
+很简单了	hen jian dan le	1
+到了	dao le	20
+找不到了	zhao bu dao le	1
+别迟到了	bie chi dao le	1
+就到了	jiu dao le	1
+看到了	kan dao le	5
+早看到了	zao kan dao le	1
+拉到了	la dao le	1
+拿到了	na dao le	2
+就能拿到了	jiu neng na dao le	1
+钱到了	qian dao le	1
+来签到了	lai qian dao le	3
+有来签到了	you lai qian dao le	1
+受到了	shou dao le	1
+送到了	song dao le	2
+选到了	xuan dao le	1
+已经选到了	yi jing xuan dao le	1
+也到了	ye dao le	2
+又到了	you dao le	2
+找到了	zhao dao le	1
+你找到了	ni zhao dao le	1
+知道了	zhi dao le	20
+就不知道了	jiu bu zhi dao le	1
+就知道了	jiu zhi dao le	1
+听课通知到了	ting ke tong zhi dao le	1
+我知道了	wo zhi dao le	1
+阿德勒	a de le	1
+记不得了	ji bu de le	1
+定的了	ding de le	1
+回国的了	hui guo de le	1
+快的了	kuai de le	1
+你的了	ni de le	1
+我的了	wo de le	1
+追的了	zhui de le	1
+低了	di le	1
+好一点了	hao yi dian le	1
+掉了	diao le	3
+花不掉了	hua bu diao le	1
+叫掉了	jiao diao le	4
+交掉了	jiao diao le	1
+戒掉了	jie diao le	1
+拒掉了	ju diao le	1
+卖掉了	mai diao le	1
+拿掉了	na diao le	1
+去掉了	qu diao le	1
+删掉了	shan diao le	2
+送掉了	song diao le	1
+玩掉了	wan diao le	1
+卸掉了	xie diao le	1
+跌了	die le	1
+订了	ding le	5
+定了	ding le	1
+到顶了	dao ding le	1
+搞定了	gao ding le	1
+就要决定了	jiu yao jue ding le	1
+我定了	wo ding le	1
+预订了	yu ding le	1
+丢了	diu le	2
+就丢了	jiu diu le	1
+弄丢了	nong diu le	1
+懂了	dong le	2
+看不懂了	kan bu dong le	1
+打活动了	da huo dong le	1
+读了	du le	5
+太孤独了	tai gu du le	1
+进度了	jin du le	1
+也读了	ye du le	1
+断了	duan le	1
+对了	dui le	2
+跳一顿了	tiao yi dun le	1
+多了	duo le	6
+不多了	bu duo le	1
+差不多了	cha bu duo le	7
+也差不多了	ye cha bu duo le	1
+也不多了	ye bu duo le	3
+好多了	hao duo le	3
+很多了	hen duo le	4
+吃很多了	chi hen duo le	1
+牛多了	niu duo le	1
+抢夺了	qiang duo le	1
+强多了	qiang duo le	1
+太多了	tai duo le	10
+人太多了	ren tai duo le	1
+听多了	ting duo le	3
+最多了	zui duo le	1
+发了	fa le	4
+就出发了	jiu chu fa le	1
+方法了	fang fa le	1
+我发了	wo fa le	1
+翻了	fan le	3
+烦了	fan le	2
+补番了	bu fan le	1
+吃饭了	chi fan le	2
+去吃饭了	qu chi fan le	1
+看烦了	kan fan le	1
+我说翻了	wo shuo fan le	1
+太烦了	tai fan le	3
+刚吃完饭了	gang chi wan fan le	1
+做饭了	zuo fan le	1
+放了	fang le	2
+地方了	di fang le	2
+封了	feng le	1
+最舒服了	zui shu fu le	1
+衣服了	yi fu le	1
+盖勒	gai le	1
+改了	gai le	1
+只改了	zhi gai le	1
+提高了	ti gao le	1
+第一稿了	di yi gao le	1
+最高了	zui gao le	1
+隔了	ge le	1
+价格了	jia ge le	1
+严格了	yan ge le	1
+这个了	zhe ge le	1
+给了	gei le	1
+跟了	gen le	1
+够了	gou le	2
+就够了	jiu gou le	1
+也够了	ye gou le	1
+足够了	zu gou le	2
+挂了	gua le	1
+过噢噢乖了	guo o o guai le	2
+太乖了	tai guai le	1
+惯了	guan le	1
+关了	guan le	1
+习惯了	xi guan le	1
+就习惯了	jiu xi guan le	1
+过了	guo le	5
+我称过了	wo chen guo le	1
+吃过了	chi guo le	1
+出国了	chu guo le	1
+都过了	dou guo le	2
+回国了	hui guo le	3
+怕回国了	pa hui guo le	1
+就出结果了	jiu chu jie guo le	1
+了解过了	liao jie guo le	1
+看过了	kan guo le	2
+哭过了	ku guo le	1
+去美国了	qu mei guo le	1
+去过了	qu guo le	1
+说过了	shuo guo le	1
+我也说过了	wo ye shuo guo le	1
+中国了	zhong guo le	1
+厉害了	li hai le	3
+好了	hao le	26
+号了	hao le	1
+不好了	bu hao le	3
+擦好了	ca hao le	1
+存好了	cun hao le	1
+订好了	ding hao le	2
+听读好了	ting du hao le	1
+付好了	fu hao le	1
+搞好了	gao hao le	1
+很好了	hen hao le	3
+都换好了	dou huan hao le	1
+就好了	jiu hao le	5
+看好了	kan hao le	1
+也快好了	ye kuai hao le	1
+你来好了	ni lai hao le	1
+拍好了	pai hao le	1
+去好了	qu hao le	1
+想好了	xiang hao le	1
+写好了	xie hao le	1
+选好了	xuan hao le	2
+都选好了	dou xuan hao le	1
+治好了	zhi hao le	1
+最好了	zui hao le	1
+做好了	zuo hao le	1
+喝了	he le	1
+太硬核了	tai ying he le	1
+黑了	hei le	1
+也天黑了	ye tian hei le	1
+都很了	dou hen le	1
+时候了	shi hou le	3
+最后了	zui hou le	1
+花了	hua le	9
+画了	hua le	1
+电话了	dian hua le	1
+都不说话了	dou bu shuo hua le	1
+也花了	ye hua le	1
+只花了	zhi hua le	1
+坏了	huai le	2
+怀了	huai le	1
+彻底坏了	che di huai le	1
+压坏了	ya huai le	1
+被压坏了	bei ya huai le	1
+欢乐	huan le	3
+换了	huan le	2
+会了	hui le	2
+后悔了	hou hui le	2
+也会了	ye hui le	1
+约会了	yue hui le	1
+火了	huo le	1
+生活了	sheng huo le	2
+来不及了	lai bu ji le	1
+没关机了	mei guan ji le	1
+经济了	jing ji le	1
+垃圾了	la ji le	1
+忘记了	wang ji le	1
+加了	jia le	3
+嫁了	jia le	1
+春假了	chun jia le	1
+放假了	fang jia le	2
+回家了	hui jia le	2
+要回家了	yao hui jia le	1
+剪了	jian le	1
+不见了	bu jian le	1
+太贱了	tai jian le	1
+邮件了	you jian le	1
+再见了	zai jian le	1
+交了	jiao le	5
+叫了	jiao le	2
+教了	jiao le	1
+睡觉了	shui jiao le	6
+去睡觉了	qu shui jiao le	1
+我马上睡觉了	wo ma shang shui jiao le	1
+我睡觉了	wo shui jiao le	1
+感恩节了	gan en jie le	1
+脱节了	tuo jie le	1
+完结了	wan jie le	2
+近了	jin le	1
+差劲了	cha jin le	1
+很近了	hen jin le	1
+太紧了	tai jin le	1
+抓紧了	zhua jin le	1
+不对劲了	bu dui jing le	1
+久了	jiu le	1
+好久了	hao jiu le	1
+太久了	tai jiu le	1
+离开学校久了	li kai xue xiao jiu le	1
+举了	ju le	1
+感觉了	gan jue le	1
+拒绝了	ju jue le	1
+卡了	ka le	2
+不卡了	bu ka le	1
+电话卡了	dian hua ka le	1
+太卡了	tai ka le	1
+开了	kai le	1
+被开了	bei kai le	1
+开不开了	kai bu kai le	1
+打开了	da kai le	1
+看了	kan le	22
+多星期看了	duo xing qi kan le	1
+我看了	wo kan le	3
+想看了	xiang kan le	1
+也看了	ye kan le	2
+考了	kao le	2
+不考了	bu kao le	2
+考考了	kao kao le	1
+不去考了	bu qu kao le	1
+不想考了	bu xiang kao le	1
+可乐	ke le	2
+课了	ke le	1
+本科了	ben ke le	1
+文科了	wen ke le	1
+选课了	xuan ke le	3
+弃坑了	qi keng le	1
+你很空了	ni hen kong le	1
+扣了	kou le	1
+出口了	chu kou le	1
+哭了	ku le	2
+辛苦了	xin ku le	3
+快乐	kuai le	8
+快了	kuai le	1
+新年快乐	xin nian kuai le	2
+节日快乐	jie ri kuai le	1
+生日快乐	sheng ri kuai le	1
+太快了	tai kuai le	3
+也快乐	ye kuai le	1
+付款了	fu kuan le	1
+富矿了	fu kuang le	1
+困了	kun le	2
+拉了	la le	1
+来了	lai le	5
+出来了	chu lai le	2
+哭出来了	ku chu lai le	1
+炸出来了	zha chu lai le	1
+带来了	dai lai le	1
+等来了	deng lai le	1
+改过来了	gai guo lai le	1
+送过来了	song guo lai le	1
+回来了	hui lai le	1
+滚进来了	gun jin lai le	1
+你来了	ni lai le	1
+起来了	qi lai le	3
+他来了	ta lai le	1
+我来了	wo lai le	1
+定下来了	ding xia lai le	5
+不要来了	bu yao lai le	1
+没蓝了	mei lan le	3
+我没蓝了	wo mei lan le	1
+浪了	lang le	2
+捞了	lao le	1
+还捞了	hai lao le	1
+了了	le le	1
+欢乐了	huan le le	1
+累了	lei le	2
+太累了	tai lei le	2
+锻炼了	duan lian le	1
+就凉了	jiu liang le	1
+不聊了	bu liao le	3
+就看不了了	jiu kan bu liao le	1
+买不了了	mai bu liao le	1
+材料了	cai liao le	1
+无聊了	wu liao le	1
+太无聊了	tai wu liao le	2
+留了	liu le	2
+流了	liu le	1
+陆了	lu le	1
+新大陆了	xin da lu le	1
+一条路了	yi tiao lu le	1
+这条路了	zhe tiao lu le	1
+乱了	luan le	1
+评论了	ping lun le	1
+讨论了	tao lun le	1
+脱落了	tuo luo le	1
+不考虑了	bu kao lv le	1
+买了	mai le	15
+俄买了	e mai le	1
+就买了	jiu mai le	1
+我买了	wo mai le	1
+慢了	man le	1
+忙了	mang le	3
+也很忙了	ye hen mang le	1
+太忙了	tai mang le	2
+感冒了	gan mao le	1
+什么了	shen me le	2
+没了	mei le	6
+北美了	bei mei le	1
+都没了	dou mei le	2
+似乎没了	si hu mei le	1
+就没了	jiu mei le	2
+们了	men le	1
+你们了	ni men le	1
+教授们了	jiao shou men le	2
+上面了	shang mian le	1
+名了	ming le	1
+报名了	bao ming le	1
+去哪了	qu na le	1
+铁男了	tie nan le	1
+电脑了	dian nao le	2
+抓呢了	zhua ne le	1
+国内了	guo nei le	1
+能了	neng le	1
+你了	ni le	1
+不管你了	bu guan ni le	1
+爱死你了	ai si ni le	1
+随你了	sui ni le	1
+一年了	yi nian le	1
+码农了	ma nong le	1
+被虐了	bei nue le	1
+看哦了	kan o le	1
+城市哦了	cheng shi o le	1
+怕了	pa le	1
+都怕了	dou pa le	1
+拍了	pai le	1
+不拍了	bu pai le	1
+又胖了	you pang le	1
+机票了	ji piao le	1
+起了	qi le	1
+齐了	qi le	1
+架起了	jia qi le	1
+想起了	xiang qi le	1
+放在一起了	fang zai yi qi le	1
+没钱了	mei qian le	1
+抢了	qiang le	1
+墙了	qiang le	1
+跟抢了	gen qiang le	1
+切了	qie le	1
+记不清了	ji bu qing le	1
+申请了	shen qing le	2
+事情了	shi qing le	3
+记不太清了	ji bu tai qing le	1
+网球了	wang qiu le	2
+去了	qu le	7
+取了	qu le	1
+不去了	bu qu le	2
+交出去了	jiao chu qu le	1
+住出去了	zhu chu qu le	1
+吃饭去了	chi fan qu le	1
+过去了	guo qu le	1
+擦过去了	ca guo qu le	1
+都过去了	dou guo qu le	1
+睡过去了	shui guo qu le	1
+回去了	hui qu le	1
+多了去了	duo le qu le	1
+哪里去了	na li qu le	1
+你去了	ni qu le	1
+上去了	shang qu le	2
+标上去了	biao shang qu le	1
+不写上去了	bu xie shang qu le	1
+太无趣了	tai wu qu le	1
+学不下去了	xue bu xia qu le	1
+缺了	que le	1
+当然了	dang ran le	1
+人了	ren le	2
+找错认了	zhao cuo ren le	1
+太不负责任了	tai bu fu ze ren le	1
+日了	ri le	1
+熟肉了	shu rou le	1
+大三了	da san le	1
+上了	shang le	6
+毫不上了	hao bu shang le	1
+加上了	jia shang le	2
+就上了	jiu shang le	1
+少了	shao le	5
+减少了	jian shao le	1
+太少了	tai shao le	2
+人最少了	ren zui shao le	1
+到宿舍了	dao su she le	1
+健身了	jian shen le	1
+省了	sheng le	2
+研究生了	yan jiu sheng le	1
+试了	shi le	1
+已经开始了	yi jing kai shi le	1
+考试了	kao shi le	1
+期末考试了	qi mo kao shi le	1
+夏令时了	xia ling shi le	1
+没事了	mei shi le	1
+收了	shou le	2
+瘦了	shou le	2
+更受了	geng shou le	1
+教授了	jiao shou le	1
+书了	shu le	1
+输了	shu le	1
+结束了	jie shu le	3
+看书了	kan shu le	1
+要输了	yao shu le	1
+睡了	shui le	2
+不睡了	bu shui le	1
+就睡了	jiu shui le	1
+又睡了	you shui le	1
+说了	shuo le	2
+你别说了	ni bie shuo le	1
+不说了	bu shuo le	2
+我说了	wo shuo le	1
+死了	si le	1
+定死了	ding si le	1
+烦死了	fan si le	4
+要死了	yao si le	1
+我要死了	wo yao si le	1
+没意思了	mei yi si le	1
+白送了	bai song le	1
+也轻松了	ye qing song le	1
+被减速了	bei jian su le	1
+算了	suan le	18
+碎了	sui le	1
+锁了	suo le	1
+他了	ta le	1
+太了	tai le	1
+问题了	wen ti le	2
+听了	ting le	2
+停了	ting le	2
+还听了	hai ting le	1
+去听了	qu ting le	1
+吐了	tu le	2
+要吐了	yao tu le	1
+退了	tui le	2
+脱了	tuo le	1
+摆脱了	bai tuo le	1
+歪了	wai le	1
+校外了	xiao wai le	1
+完了	wan le	4
+晚了	wan le	3
+玩了	wan le	3
+玩乐	wan le	2
+不玩了	bu wan le	1
+搭完了	da wan le	1
+放完了	fang wan le	1
+吃喝玩乐	chi he wan le	1
+看完了	kan wan le	2
+都看完了	dou kan wan le	1
+只看完了	zhi kan wan le	1
+考完了	kao wan le	1
+没玩了	mei wan le	3
+好久没完了	hao jiu mei wan le	1
+上完了	shang wan le	1
+快上完了	kuai shang wan le	1
+太晚了	tai wan le	3
+我太晚了	wo tai wan le	1
+写完了	xie wan le	3
+课选完了	ke xuan wan le	1
+忘了	wang le	2
+为了	wei le	3
+范围了	fan wei le	1
+问了	wen le	5
+别问了	bie wen le	1
+我了	wo le	1
+延误了	yan wu le	1
+东西了	dong xi le	3
+复习了	fu xi le	1
+实习了	shi xi le	1
+在洗了	zai xi le	1
+下了	xia le	3
+放下了	fang xia le	1
+零下了	ling xia le	1
+就到极限了	jiu dao ji xian le	1
+上限了	shang xian le	1
+想了	xiang le	1
+响了	xiang le	1
+我想了	wo xiang le	1
+又响了	you xiang le	1
+也很小了	ye hen xiao le	1
+取消了	qu xiao le	1
+课取消了	ke qu xiao le	1
+学校了	xue xiao le	7
+写了	xie le	11
+谢了	xie le	2
+我写了	wo xie le	1
+谢谢了	xie xie le	2
+决心了	jue xin le	1
+行了	xing le	4
+杏了	xing le	1
+醒了	xing le	1
+吵醒了	chao xing le	1
+就行了	jiu xing le	16
+凶了	xiong le	1
+选了	xuan le	8
+学了	xue le	2
+重学了	chong xue le	1
+都开学了	dou kai xue le	1
+数学了	shu xue le	2
+不一样了	bu yi yang le	1
+这样了	zhe yang le	1
+就这样了	jiu zhe yang le	1
+要了	yao le	1
+不要了	bu yao le	1
+想要了	xiang yao le	1
+太重要了	tai zhong yao le	1
+毕业了	bi ye le	10
+专业了	zhuan ye le	1
+作业了	zuo ye le	1
+而已了	er yi le	1
+可以了	ke yi le	5
+就可以了	jiu ke yi le	1
+便宜了	pian yi le	1
+因了	yin le	1
+赢了	ying le	2
+用了	yong le	5
+不用了	bu yong le	2
+也够用了	ye gou yong le	1
+我还用了	wo hai yong le	1
+能用了	neng yong le	1
+我用了	wo yong le	2
+有了	you le	6
+有就有了	you jiu you le	1
+早就有了	zao jiu you le	1
+还木有了	hai mu you le	1
+小右了	xiao you le	1
+娱乐	yu le	1
+的娱乐	de yu le	1
+日语了	ri yu le	1
+日元了	ri yuan le	1
+太远了	tai yuan le	1
+医学院了	yi xue yuan le	1
+约了	yue le	2
+一个半月了	yi ge ban yue le	1
+个月了	ge yue le	1
+十月了	shi yue le	1
+太早了	tai zao le	2
+洗澡了	xi zao le	1
+的选择了	de xuan ze le	1
+炸了	zha le	1
+都炸了	dou zha le	1
+长了	zhang le	1
+找了	zhao le	1
+睡不着了	shui bu zhao le	2
+都睡不着了	dou shui bu zhao le	1
+去找了	qu zhao le	1
+天真了	tian zhen le	1
+截止了	jie zhi le	1
+空位置了	kong wei zhi le	1
+种了	zhong le	1
+肿了	zhong le	1
+看中了	kan zhong le	1
+欧洲了	ou zhou le	1
+住了	zhu le	1
+忍不住了	ren bu zhu le	2
+没地方住了	mei di fang zhu le	2
+装了	zhuang le	1
+字了	zi le	1
+房子了	fang zi le	1
+提笔忘字了	ti bi wang zi le	1
+走了	zou le	7
+该走了	gai zou le	1
+又走了	you zou le	1
+租了	zu le	1
+满足了	man zu le	2
+一租了	yi zu le	2
+醉了	zui le	3
+做了	zuo le	6
+坐了	zuo le	1
+活动做了	huo dong zuo le	1
+入闸做了	ru zha zuo le	1
+累	lei	3
+雷	lei	2
+泪	lei	2
+类	lei	1
+爆雷	bao lei	1
+打雷	da lei	1
+都觉得累	dou jue de lei	1
+各类	ge lei	1
+喊累	han lei	1
+好累	hao lei	1
+很累	hen lei	2
+积累	ji lei	3
+经济类	jing ji lei	1
+欠雷	qian lei	1
+人类	ren lei	1
+扫雷	sao lei	3
+太累	tai lei	1
+迅雷	xun lei	21
+在迅雷	zai xun lei	1
+眼泪	yan lei	4
+一类	yi lei	2
+于雷	yu lei	1
+之类	zhi lei	55
+之泪	zhi lei	2
+真实之泪	zhen shi zhi lei	2
+种类	zhong lei	2
+不冷	bu leng	2
+冷冷	leng leng	1
+太冷	tai leng	1
+里	li	35
+李	li	14
+离	li	5
+理	li	3
+力	li	1
+礼	li	1
+阿里	a li	1
+安利	an li	1
+忘在书包里	wang zai shu bao li	1
+比例	bi li	11
+表里	biao li	1
+亚布力	ya bu li	4
+机场里	ji chang li	1
+城里	cheng li	1
+吃力	chi li	1
+处理	chu li	4
+矗立	chu li	1
+磁力	ci li	3
+村里	cun li	1
+代理	dai li	4
+口袋里	kou dai li	1
+歌单里	ge dan li	1
+道理	dao li	3
+有道理	you dao li	1
+得利	de li	1
+奥地利	ao di li	2
+典礼	dian li	2
+店里	dian li	1
+电力	dian li	1
+华润电力	hua run dian li	2
+字典里	zi dian li	1
+动力	dong li	3
+劳动力	lao dong li	1
+战斗力	zhan dou li	1
+独立	du li	2
+书房里	shu fang li	1
+咖喱	ga li	1
+给力	gei li	1
+公里	gong li	1
+一公里	yi gong li	1
+管理	guan li	4
+图书馆里	tu shu guan li	1
+精益管理	jing yi guan li	2
+活力	huo li	1
+激励	ji li	2
+家里	jia li	9
+暑假里	shu jia li	3
+在家里	zai jia li	1
+简历	jian li	37
+建立	jian li	2
+文件里	wen jian li	1
+写简历	xie jian li	1
+读解力	du jie li	1
+尽力	jin li	3
+经历	jing li	9
+精力	jing li	1
+卡里	ka li	1
+阿卡丽	a ka li	3
+伯克利	bo ke li	10
+巧克力	qiao ke li	3
+亮丽	liang li	1
+量力	liang li	1
+势不两立	shi bu liang li	1
+琉璃	liu li	8
+流利	liu li	2
+卡路里	ka lu li	1
+倫理	lun li	1
+灭世萝莉	mie shi luo li	1
+麻理	ma li	1
+埃默里	ai mo li	12
+爱茉莉	ai mo li	3
+哪里	na li	6
+那里	na li	5
+发哪里	fa na li	1
+去哪里	qu na li	1
+是哪里	shi na li	1
+在哪里	zai na li	5
+丢在哪里	diu zai na li	1
+能力	neng li	8
+纪实能力	ji shi neng li	1
+努力	nu li	10
+奴隶	nu li	2
+不努力	bu nu li	1
+很努力	hen nu li	1
+太努力	tai nu li	1
+我努力	wo nu li	1
+视频里	shi pin li	1
+强力	qiang li	1
+清理	qing li	18
+权力	quan li	1
+全力	quan li	1
+日历	ri li	2
+肉里	rou li	1
+三立	san li	1
+宿舍里	su she li	2
+市里	shi li	1
+城市里	cheng shi li	1
+梳理	shu li	1
+数理	shu li	1
+顺利	shun li	1
+私立	si li	1
+台历	tai li	1
+体力	ti li	1
+听力	ting li	17
+纹理	wen li	1
+文理	wen li	1
+日文里	ri wen li	1
+中文里	zhong wen li	1
+物理	wu li	3
+洗礼	xi li	1
+系里	xi li	1
+戏里	xi li	1
+犀利	xi li	1
+献立	xian li	1
+学校里	xue xiao li	5
+心里	xin li	2
+行李	xing li	12
+学历	xue li	2
+大学里	da xue li	1
+我大学里	wo da xue li	1
+压力	ya li	4
+吃一粒	chi yi li	1
+免疫力	mian yi li	1
+阴历	yin li	1
+英里	ying li	1
+语梨	yu li	1
+这里	zhe li	25
+我这里	wo zhe li	1
+在这里	zai zhe li	2
+整理	zheng li	5
+待整理	dai zheng li	1
+主力	zhu li	2
+伫立	zhu li	1
+专利	zhuan li	1
+名字里	ming zi li	1
+脑子里	nao zi li	1
+俩	lia	1
+连	lian	9
+练	lian	2
+脸	lian	1
+代练	dai lian	1
+锻炼	duan lian	5
+关联	guan lian	2
+红脸	hong lian	3
+红莲	hong lian	2
+教练	jiao lian	3
+铰链	jiao lian	1
+就看脸	jiu kan lian	1
+可怜	ke lian	1
+也少得可怜	ye shao de ke lian	1
+磁力链	ci li lian	1
+满脸	man lian	3
+曼联	man lian	2
+没练	mei lian	1
+都没脸	dou mei lian	1
+你连	ni lian	1
+去练	qu lian	1
+熟练	shu lian	2
+跟熟练	gen shu lian	1
+锁链	suo lian	1
+伪恋	wei lian	11
+我连	wo lian	2
+捂脸	wu lian	1
+笑脸	xiao lian	1
+萌我一脸	meng wo yi lian	1
+银联	yin lian	2
+不用练	bu yong lian	1
+浴帘	yu lian	1
+两	liang	8
+量	liang	1
+良	liang	1
+阅读量	yue du liang	1
+词汇量	ci hui liang	3
+计量	ji liang	1
+尽量	jin liang	2
+我尽量	wo jin liang	2
+精良	jing liang	1
+漂亮	piao liang	1
+好漂亮	hao piao liang	1
+容量	rong liang	1
+商量	shang liang	2
+矢量	shi liang	1
+数量	shu liang	2
+鬼魅魍魉	gui mei wang liang	1
+音量	yin liang	1
+质量	zhi liang	5
+辽	liao	1
+聊	liao	1
+不了	bu liao	4
+帮不了	bang bu liao	1
+报不了	bao bu liao	1
+保不了	bao bu liao	1
+变不了	bian bu liao	1
+编不了	bian bu liao	1
+差不了	cha bu liao	1
+查不了	cha bu liao	1
+也查不了	ye cha bu liao	1
+大不了	da bu liao	2
+发不了	fa bu liao	2
+改不了	gai bu liao	1
+给不了	gei bu liao	1
+贵不了	gui bu liao	1
+换不了	huan bu liao	1
+交不了	jiao bu liao	2
+我开不了	wo kai bu liao	1
+都看不了	dou kan bu liao	1
+也看不了	ye kan bu liao	1
+买不了	mai bu liao	1
+卖不了	mai bu liao	1
+跑不了	pao bu liao	1
+上不了	shang bu liao	2
+我上不了	wo shang bu liao	1
+受不了	shou bu liao	1
+接受不了	jie shou bu liao	1
+忘不了	wang bu liao	1
+下不了	xia bu liao	1
+做不了	zuo bu liao	1
+都做不了	dou zuo bu liao	1
+材料	cai liao	11
+燃料	ran liao	1
+无聊	wu liao	2
+很无聊	hen wu liao	1
+最无聊	zui wu liao	1
+香辛料	xiang xin liao	3
+狼与香辛料	lang yu xiang xin liao	1
+聊一聊	liao yi liao	1
+治疗	zhi liao	1
+资料	zi liao	4
+恶劣	e lie	2
+又来恶劣	you lai e lie	1
+激烈	ji lie	2
+脚裂	jiao lie	1
+克烈	ke lie	1
+等差数列	deng cha shu lie	1
+系列	xi lie	4
+序列	xu lie	2
+林	lin	4
+健林	jian lin	1
+我饭卡林	wo fan ka lin	1
+咯凛	lo lin	1
+梅林	mei lin	4
+农林	nong lin	5
+米其林	mi qi lin	1
+沙林	sha lin	1
+上林	shang lin	1
+杨树林	yang shu lin	1
+仙林	xian lin	1
+季羡林	ji xian lin	1
+小林	xiao lin	1
+新林	xin lin	1
+零	ling	3
+羚	ling	1
+从零	cong ling	17
+大龄	da ling	2
+低龄	di ling	1
+龙灵	long ling	1
+年龄	nian ling	1
+三菱	san ling	5
+黑森岭	hei sen ling	2
+失灵	shi ling	1
+心灵	xin ling	3
+我心灵	wo xin ling	1
+留	liu	7
+六	liu	3
+刘	liu	2
+柳	liu	1
+保留	bao liu	1
+草榴	cao liu	1
+第六	di liu	1
+多留	duo liu	1
+二流	er liu	1
+交流	jiao liu	2
+女流	nv liu	1
+三流	san liu	1
+漱石枕流	shu shi zhen liu	1
+周六	zhou liu	1
+主流	zhu liu	1
+咯	lo	4
+不清楚咯	bu qing chu lo	1
+办法咯	ban fa lo	1
+就可以咯	jiu ke yi lo	1
+龙	long	3
+隆	long	1
+苍龙	cang long	2
+大龙	da long	2
+恶龙	e long	2
+飞龙	fei long	1
+喉咙	hou long	1
+卡耐基梅隆	ka nai ji mei long	1
+那龙	na long	1
+水龙	shui long	1
+阿瓦隆	a wa long	1
+武隆	wu long	3
+云龙	yun long	2
+子龙	zi long	1
+楼	lou	5
+二楼	er lou	1
+你喽	ni lou	1
+听松楼	ting song lou	3
+下楼	xia lou	1
+泄漏	xie lou	1
+路	lu	12
+录	lu	7
+陆	lu	2
+鹿	lu	1
+出路	chu lu	1
+一次路	yi ci lu	1
+大陆	da lu	2
+新大陆	xin da lu	1
+登录	deng lu	4
+附录	fu lu	1
+后路	hou lu	1
+照葫芦	zhao hu lu	1
+记录	ji lu	2
+想撸就撸	xiang lu jiu lu	1
+考录	kao lu	1
+迷路	mi lu	1
+目录	mu lu	2
+欧陆	ou lu	2
+庐山路	lu shan lu	1
+天禄	tian lu	1
+一条路	yi tiao lu	3
+铁路	tie lu	1
+耶鲁	ye lu	16
+耶卢	ye lu	1
+一路	yi lu	1
+再录	zai lu	1
+只录	zhi lu	1
+中路	zhong lu	3
+江东中路	jiang dong zhong lu	2
+乱	luan	1
+很乱	hen luan	1
+策略	ce lue	1
+平定海寇方略	ping ding hai kou fang lue	1
+攻略	gong lue	13
+忽略	hu lue	1
+考略	kao lue	1
+伽利略	jia li lue	1
+战略	zhan lue	1
+即时战略	ji shi zhan lue	1
+论	lun	1
+沉沦	chen lun	3
+导论	dao lun	1
+而论	er lun	1
+周杰伦	zhou jie lun	2
+理论	li lun	1
+概率论	gai lv lun	1
+品论	pin lun	1
+没品论	mei pin lun	1
+评论	ping lun	3
+拿破仑	na po lun	2
+推论	tui lun	1
+无论	wu lun	1
+洛	luo	3
+罗	luo	1
+落	luo	1
+萝	luo	1
+波洛	bo luo	3
+掉落	diao luo	1
+堕落	duo luo	1
+赫萝	he luo	2
+失落	shi luo	1
+紫藤萝	zi teng luo	1
+网络	wang luo	4
+修罗	xiu luo	1
+率	lv	3
+绿	lv	2
+铝	lv	2
+吕	lv	2
+虑	lv	1
+分辨率	fen bian lv	4
+掉率	diao lv	1
+多虑	duo lv	1
+法律	fa lv	5
+学法律	xue fa lv	1
+概率	gai lv	3
+功率	gong lv	3
+自然规律	zi ran gui lv	1
+汇率	hui lv	3
+几率	ji lv	2
+平均律	ping jun lv	2
+卡率	ka lv	1
+考虑	kao lv	29
+不考虑	bu kao lv	4
+都不考虑	dou bu kao lv	1
+就还考虑	jiu hai kao lv	1
+很考虑	hen kao lv	2
+我很考虑	wo hen kao lv	1
+考虑考虑	kao lv kao lv	1
+我考虑	wo kao lv	2
+在考虑	zai kao lv	1
+只考虑	zhi kao lv	1
+频率	pin lv	1
+准确率	zhun que lv	1
+胜率	sheng lv	4
+上手术台上来说深思熟虑	shang shou shu tai shang lai shuo shen si shu lv	1
+心率	xin lv	1
+旋律	xuan lv	2
+主旋律	zhu xuan lv	1
+吗	ma	65
+嘛	ma	14
+码	ma	13
+马	ma	2
+妈	ma	1
+爸妈	ba ma	1
+编码	bian ma	4
+继承吗	ji cheng ma	1
+打吗	da ma	1
+大妈	da ma	1
+代码	dai ma	6
+打代码	da dai ma	1
+写代码	xie dai ma	2
+很简单嘛	hen jian dan ma	1
+点吗	dian ma	1
+鼠标垫吗	shu biao dian ma	1
+扔掉吗	reng diao ma	1
+冬马	dong ma	4
+东马	dong ma	4
+换难度吗	huan nan du ma	1
+法码	fa ma	1
+干嘛	gan ma	1
+是干嘛	shi gan ma	1
+歌吗	ge ma	1
+贴个码	tie ge ma	1
+回国吗	hui guo ma	1
+蛤蟆	ha ma	1
+好吗	hao ma	1
+更好吗	geng hao ma	1
+俄克拉荷马	e ke la he ma	1
+说话吗	shuo hua ma	1
+皇马	huang ma	1
+刷不开吗	shua bu kai ma	1
+这么看吗	zhe me kan ma	1
+老妈	lao ma	6
+了吗	le ma	2
+冷吗	leng ma	1
+这里吗	zhe li ma	1
+要练吗	yao lian ma	1
+乱码	luan ma	3
+美码	mei ma	2
+密码	mi ma	13
+改密码	gai mi ma	2
+你吗	ni ma	1
+你去吗	ni qu ma	1
+人马	ren ma	1
+是吗	shi ma	2
+不是吗	bu shi ma	1
+数码	shu ma	1
+司马	si ma	2
+大司马	da si ma	2
+他妈	ta ma	1
+我他妈	wo ta ma	1
+有不同吗	you bu tong ma	1
+我妈	wo ma	2
+无码	wu ma	1
+很闲吗	hen xian ma	1
+退学吗	tui xue ma	1
+这样吗	zhe yang ma	1
+要吗	yao ma	3
+有人要吗	you ren yao ma	2
+打野吗	da ye ma	1
+就业吗	jiu ye ma	1
+有吗	you ma	2
+转码	zhuan ma	1
+买	mai	21
+埋	mai	1
+卖	mai	1
+不买	bu mai	1
+买不买	mai bu mai	1
+代买	dai mai	1
+有没有的卖	you mei you de mai	1
+购买	gou mai	1
+静脉	jing mai	1
+半开麦	ban kai mai	1
+票都没买	piao dou mei mai	1
+上买	shang mai	1
+我买	wo mai	1
+想买	xiang mai	2
+好想买	hao xiang mai	1
+小麦	xiao mai	1
+小埋	xiao mai	1
+我可以买	wo ke yi mai	1
+慢	man	7
+蛮	man	2
+满	man	1
+漫	man	1
+傲慢	ao man	1
+帮慢	bang man	1
+欲求不满	yu qiu bu man	1
+充满	chong man	1
+海德曼	hai de man	1
+动漫	dong man	23
+后宫动漫	hou gong dong man	1
+看动漫	kan dong man	1
+天使动漫	tian shi dong man	1
+海尔曼	hai er man	1
+会慢	hui man	1
+比较慢	bi jiao man	1
+慢慢	man man	9
+漫漫	man man	1
+我慢慢	wo man man	1
+也不算慢	ye bu suan man	1
+停满	ting man	1
+挺慢	ting man	1
+盲	mang	6
+忙	mang	5
+莽	mang	1
+帮忙	bang mang	1
+帮帮忙	bang bang mang	1
+好忙	hao mang	1
+很忙	hen mang	4
+挺忙	ting mang	3
+还挺忙	hai ting mang	1
+猫	mao	7
+茅	mao	2
+卯	mao	1
+白猫	bai mao	1
+呆毛	dai mao	1
+感冒	gan mao	2
+真感冒	zhen gan mao	1
+睡个毛	shui ge mao	1
+懒猫	lan mao	1
+蓝毛	lan mao	1
+躲猫猫	duo mao mao	3
+皮毛	pi mao	1
+三毛	san mao	1
+我是猫	wo shi mao	3
+不笑猫	bu xiao mao	1
+洋帽	yang mao	1
+阴毛	yin mao	1
+游泳帽	you yong mao	1
+么	me	34
+真的么	zhen de me	1
+不对么	bu dui me	1
+这个么	zhe ge me	1
+会么	hui me	1
+课么	ke me	1
+好了么	hao le me	1
+这里么	zhe li me	1
+那么	na me	18
+没那么	mei na me	2
+也没说那么	ye mei shuo na me	1
+难么	nan me	1
+你么	ni me	2
+跟你么	gen ni me	1
+但我看你么	dan wo kan ni me	1
+随你么	sui ni me	1
+视频么	shi pin me	1
+钱么	qian me	1
+石头人么	shi tou ren me	1
+三么	san me	1
+社么	she me	2
+没社么	mei she me	1
+什么	shen me	86
+要带什么	yao dai shen me	2
+干点什么	gan dian shen me	1
+干什么	gan shen me	3
+要干什么	yao gan shen me	1
+叫什么	jiao shen me	1
+买什么	mai shen me	1
+还要买什么	hai yao mai shen me	1
+没什么	mei shen me	37
+就没什么	jiu mei shen me	1
+也没什么	ye mei shen me	17
+有没什么	you mei shen me	1
+钱什么	qian shen me	1
+是什么	shi shen me	4
+说什么	shuo shen me	2
+为什么	wei shen me	20
+我什么	wo shen me	1
+些什么	xie shen me	2
+要什么	yao shen me	1
+电影什么	dian ying shen me	1
+有什么	you shen me	12
+没有什么	mei you shen me	1
+转什么	zhuan shen me	1
+做什么	zuo shen me	1
+生么	sheng me	3
+没生么	mei sheng me	2
+人生么	ren sheng me	1
+会死么	hui si me	1
+我么	wo me	3
+要么	yao me	14
+我要么	wo yao me	1
+可以么	ke yi me	1
+还有么	hai you me	1
+英语么	ying yu me	1
+则么	ze me	2
+就不则么	jiu bu ze me	1
+怎么	zen me	30
+没怎么	mei zen me	2
+你怎么	ni zen me	1
+是怎么	shi zen me	1
+这么	zhe me	3
+还这么	hai zhe me	1
+没这么	mei zhe me	1
+没	mei	29
+美	mei	2
+妹	mei	1
+每	mei	1
+梅	mei	1
+媚	mei	1
+北美	bei mei	9
+草莓	cao mei	2
+超美	chao mei	1
+从没	cong mei	1
+刀妹	dao mei	1
+东妹	dong mei	3
+都没	dou mei	11
+还没	hai mei	21
+我还没	wo hai mei	1
+很美	hen mei	1
+姐妹	jie mei	3
+三姐妹	san jie mei	12
+南家三姐妹	nan jia san jie mei	1
+就没	jiu mei	2
+老美	lao mei	5
+吃你妹	chi ni mei	1
+全美	quan mei	1
+完美	wan mei	1
+我没	wo mei	3
+苏小妹	su xiao mei	1
+新妹	xin mei	1
+奈绪美	nai xu mei	2
+也没	ye mei	4
+最优美	zui you mei	1
+玉梅	yu mei	3
+田玉梅	tian yu mei	8
+田愚昧	tian yu mei	1
+门	men	32
+们	men	7
+部门	bu men	2
+长门	chang men	2
+出门	chu men	1
+关门	guan men	1
+几门	ji men	2
+好几门	hao ji men	1
+悬几门	xuan ji men	1
+连门	lian men	1
+两门	liang men	12
+前两门	qian liang men	1
+一两门	yi liang men	1
+那门	na men	4
+你们	ni men	52
+被你们	bei ni men	2
+比你们	bi ni men	1
+跟你们	gen ni men	2
+和你们	he ni men	1
+靠你们	kao ni men	1
+去你们	qu ni men	1
+三门	san men	4
+上门	shang men	1
+神门	shen men	1
+他们	ta men	43
+我把他们	wo ba ta men	1
+等他们	deng ta men	1
+和他们	he ta men	2
+看他们	kan ta men	1
+我看他们	wo kan ta men	1
+让它们	rang ta men	1
+随他们	sui ta men	1
+朝天门	chao tian men	2
+总统们	zong tong men	1
+石头门	shi tou men	2
+我们	wo men	28
+也比我们	ye bi wo men	1
+厦门	xia men	1
+纯爷们	chun ye men	1
+一门	yi men	12
+最后一门	zui hou yi men	1
+家一门	jia yi men	1
+开一门	kai yi men	1
+掉了一门	diao le yi men	1
+少一门	shao yi men	1
+我一门	wo yi men	1
+学一门	xue yi men	1
+有一门	you yi men	2
+死宅们	si zhai men	1
+艳照门	yan zhao men	1
+这门	zhe men	1
+之门	zhi men	7
+命运石之门	ming yun shi zhi men	2
+专门	zhuan men	2
+萌	meng	6
+梦	meng	1
+不猛	bu meng	1
+楚梦	chu meng	1
+好梦	hao meng	1
+华盟	hua meng	3
+乘客梦	cheng ke meng	1
+联盟	lian meng	1
+英雄联盟	ying xiong lian meng	2
+梁梦	liang meng	1
+红楼梦	hong lou meng	1
+卖萌	mai meng	1
+梦梦	meng meng	2
+朦朦	meng meng	1
+那梦	na meng	1
+商盟	shang meng	1
+世萌	shi meng	20
+他猛	ta meng	3
+外蒙	wai meng	1
+我猛	wo meng	2
+一梦	yi meng	3
+是一梦	shi yi meng	1
+再选一梦	zai xuan yi meng	1
+有一梦	you yi meng	1
+这梦	zhe meng	1
+之梦	zhi meng	4
+石之梦	shi zhi meng	1
+命运石之梦	ming yun shi zhi meng	3
+米	mi	2
+幂	mi	1
+密	mi	1
+迷	mi	1
+大米	da mi	1
+京蜜	jing mi	2
+厘米	li mi	3
+散华礼弥	san hua li mi	8
+平米	ping mi	1
+微米	wei mi	1
+虾米	xia mi	1
+哑谜	ya mi	1
+着迷	zhao mi	1
+面	mian	4
+棉	mian	1
+饭便面	fan bian mian	1
+店面	dian mian	1
+对面	dui mian	3
+反面	fan mian	1
+方面	fang mian	6
+一方面	yi fang mian	3
+林一方面	lin yi fang mian	1
+另一方面	ling yi fang mian	1
+这方面	zhe fang mian	10
+见个面	jian ge mian	1
+后面	hou mian	6
+见面	jian mian	1
+里面	li mian	20
+课里面	ke li mian	1
+教育里面	jiao yu li mian	1
+这里面	zhe li mian	1
+最里面	zui li mian	2
+片面	pian mian	1
+前面	qian mian	1
+上面	shang mian	5
+最上面	zui shang mian	2
+失眠	shi mian	6
+睡眠	shui mian	1
+外面	wai mian	4
+住外面	zhu wai mian	1
+闭住外面	bi zhu wai mian	1
+下面	xia mian	2
+我下面	wo xia mian	1
+斜面	xie mian	1
+一面	yi mian	1
+正面	zheng mian	2
+周免	zhou mian	4
+粥面	zhou mian	1
+桌面	zhuo mian	3
+多桌面	duo zhuo mian	1
+秒	miao	2
+求秒	qiu miao	1
+扫描	sao miao	2
+早苗	zao miao	1
+民	min	2
+全民	quan min	2
+明	ming	1
+名	ming	1
+报名	bao ming	1
+还没报名	hai mei bao ming	1
+不明	bu ming	1
+聪明	cong ming	1
+都不聪明	dou bu cong ming	1
+很聪明	hen cong ming	1
+分明	fen ming	1
+革命	ge ming	3
+头腔共鸣	tou qiang gong ming	1
+用户名	yong hu ming	1
+未闻花名	wei wen hua ming	3
+假名	jia ming	1
+孔明	kong ming	1
+业界黎明	ye jie li ming	1
+明明	ming ming	4
+排名	pai ming	9
+签名	qian ming	2
+秋名	qiu ming	1
+全名	quan ming	1
+角色名	jue se ming	1
+相依为命	xiang yi wei ming	1
+英文名	ying wen ming	1
+我命	wo ming	1
+姓名	xing ming	1
+挺有名	ting you ming	1
+黑泽明	hei ze ming	1
+证明	zheng ming	4
+在职证明	zai zhi zheng ming	1
+兹证明	zi zheng ming	1
+末	mo	5
+膜	mo	2
+磨	mo	2
+沉默	chen mo	2
+恶魔	e mo	3
+寂寞	ji mo	1
+期末	qi mo	2
+沙漠	sha mo	10
+塔克拉玛干沙漠	ta ke la ma gan sha mo	1
+零之使魔	ling zhi shi mo	1
+提摩	ti mo	1
+贴膜	tie mo	1
+终末	zhong mo	1
+周末	zhou mo	11
+这周末	zhe zhou mo	1
+某	mou	1
+参谋	can mou	1
+周某	zhou mou	2
+这周某	zhe zhou mou	1
+木	mu	2
+弹幕	dan mu	6
+父母	fu mu	2
+航母	hang mu	6
+和睦	he mu	1
+开幕	kai mu	2
+空母	kong mu	4
+轻空母	qing kong mu	1
+铃木	ling mu	1
+阿木木	a mu mu	1
+屏幕	ping mu	4
+大屏幕	da ping mu	1
+水母	shui mu	2
+弹幕	tan mu	2
+题目	ti mu	3
+夏目	xia mu	6
+项目	xiang mu	61
+统计项目	tong ji xiang mu	1
+新项目	xin xiang mu	1
+一亩	yi mu	2
+一幕	yi mu	1
+柚木	you mu	4
+字幕	zi mu	46
+字母	zi mu	1
+那	na	21
+拿	na	5
+哪	na	3
+安娜	an na	2
+好遗憾呐	hao yi han na	1
+氰化钠	qing hua na	1
+实际那	shi ji na	2
+来拿	lai na	3
+海伦娜	hai lun na	1
+没拿	mei na	1
+米娜	mi na	1
+向上米娜	xiang shang mi na	1
+娜娜	na na	2
+进你那	jin ni na	1
+明尼娜	ming ni na	1
+到明尼娜	dao ming ni na	1
+还没钱拿	hai mei qian na	1
+斯纳	si na	1
+亚斯娜	ya si na	5
+亚丝娜	ya si na	1
+色投诉那	se tou su na	1
+娑娜	suo na	2
+夏娜	xia na	4
+维也纳	wei ye na	8
+没在哪	mei zai na	1
+支那	zhi na	2
+滞纳	zhi na	2
+乃	nai	3
+耐	nai	1
+奶	nai	1
+牛奶	niu nai	1
+明日奈	ming ri nai	4
+诗乃	shi nai	5
+桐乃	tong nai	1
+雪乃	xue nai	2
+伟业乃	wei ye nai	1
+友奈	you nai	1
+风香智乃	feng xiang zhi nai	1
+男	nan	7
+南	nan	7
+难	nan	4
+不难	bu nan	4
+都不难	dou bu nan	1
+有多难	you duo nan	2
+海南	hai nan	1
+好难	hao nan	3
+很难	hen nan	8
+江南	jiang nan	1
+凯南	kai nan	1
+柯南	ke nan	5
+挺困难	ting kun nan	1
+生死磨难	sheng si mo nan	1
+骚男	sao nan	51
+铁男	tie nan	1
+挺难	ting nan	3
+还挺难	hai ting nan	1
+西南	xi nan	1
+云南	yun nan	1
+直男	zhi nan	1
+脑	nao	1
+电脑	dian nao	26
+插电脑	cha dian nao	1
+拆电脑	chai dian nao	1
+老电脑	lao dian nao	4
+连电脑	lian dian nao	1
+新电脑	xin dian nao	4
+高新电脑	gao xin dian nao	1
+用电脑	yong dian nao	1
+苦恼	ku nao	1
+头脑	tou nao	1
+呢	ne	55
+恐怖呢	kong bu ne	1
+还没到呢	hai mei dao ne	1
+不知道呢	bu zhi dao ne	1
+还不知道呢	hai bu zhi dao ne	1
+不好呢	bu hao ne	1
+感恩节呢	gan en jie ne	1
+课呢	ke ne	1
+还没定下来呢	hai mei ding xia lai ne	1
+戒掉了呢	jie diao le ne	1
+变好了呢	bian hao le ne	1
+谢谢了呢	xie xie le ne	1
+并不能呢	bing bu neng ne	1
+事呢	shi ne	1
+回事呢	hui shi ne	1
+说呢	shuo ne	2
+管他呢	guan ta ne	1
+图呢	tu ne	1
+月呢	yue ne	1
+早呢	zao ne	1
+就得全职呢	jiu dei quan zhi ne	1
+房子呢	fang zi ne	1
+内	nei	2
+川内	chuan nei	1
+道德内	dao de nei	1
+国内	guo nei	39
+带国内	dai guo nei	1
+翻回国内	fan hui guo nei	1
+那国内	na guo nei	1
+坑内	keng nei	2
+室内	shi nei	1
+一天内	yi tian nei	1
+校内	xiao nei	5
+以内	yi nei	2
+在内	zai nei	1
+嫩	nen	1
+不嫩	bu nen	3
+能不嫩	neng bu nen	1
+就嫩	jiu nen	1
+能	neng	45
+本能	ben neng	1
+不能	bu neng	23
+都不能	dou bu neng	1
+还不能	hai bu neng	2
+能不能	neng bu neng	17
+也不能	ye bu neng	2
+总不能	zong bu neng	2
+才能	cai neng	10
+都能	dou neng	4
+这都能	zhe dou neng	1
+屏蔽功能	ping bi gong neng	1
+还能	hai neng	8
+技能	ji neng	12
+估计能	gu ji neng	1
+节能	jie neng	2
+就能	jiu neng	4
+可能	ke neng	71
+不可能	bu ke neng	9
+也不可能	ye bu ke neng	1
+还可能	hai ke neng	1
+很可能	hen ke neng	1
+他可能	ta ke neng	3
+不太可能	bu tai ke neng	1
+我可能	wo ke neng	5
+也可能	ye ke neng	1
+有可能	you ke neng	6
+跟有可能	gen you ke neng	1
+更有可能	geng you ke neng	1
+我有可能	wo you ke neng	1
+也有可能	ye you ke neng	1
+肯能	ken neng	4
+我肯能	wo ken neng	1
+你能	ni neng	1
+全能	quan neng	1
+一个人能	yi ge ren neng	1
+还是能	hai shi neng	1
+这个老师能	zhe ge lao shi neng	1
+说能	shuo neng	2
+万能	wan neng	1
+我能	wo neng	2
+你们无能	ni men wu neng	1
+性能	xing neng	1
+也能	ye neng	5
+我也能	wo ye neng	1
+又能	you neng	2
+真能	zhen neng	1
+只能	zhi neng	19
+就只能	jiu zhi neng	2
+你	ni	30
+妮	ni	1
+刀剑爱你	dao jian ai ni	1
+安妮	an ni	3
+帮你	bang ni	3
+我比你	wo bi ni	1
+操你	cao ni	1
+一点带你	yi dian dai ni	1
+当你	dang ni	1
+要到你	yao dao ni	1
+泳道你	yong dao ni	1
+一封你	yi feng ni	1
+斯坦福你	si tan fu ni	1
+干你	gan ni	1
+给你	gei ni	2
+发给你	fa gei ni	2
+跟你	gen ni	1
+也看过你	ye kan guo ni	1
+时候你	shi hou ni	1
+基尼	ji ni	1
+教你	jiao ni	1
+会叫你	hui jiao ni	1
+拦你	lan ni	1
+都没你	dou mei ni	1
+迷你	mi ni	4
+模拟	mo ni	4
+那你	na ni	1
+罗盘娘你	luo pan niang ni	1
+哦你	o ni	3
+虫哦你	chong o ni	1
+不提供哦你	bu ti gong o ni	1
+航空哦你	hang kong o ni	1
+我哦啊陪你	wo e a pei ni	1
+请你	qing ni	1
+让你	rang ni	1
+是你	shi ni	1
+可惜不是你	ke xi bu shi ni	1
+当时你	dang shi ni	1
+还是你	hai shi ni	2
+也是你	ye shi ni	1
+教授你	jiao shou ni	1
+不用说你	bu yong shuo ni	1
+告诉你	gao su ni	1
+我告诉你	wo gao su ni	1
+随你	sui ni	2
+索尼	suo ni	2
+静态你	jing tai ni	1
+这两台你	zhe liang tai ni	1
+天台你	tian tai ni	1
+问你	wen ni	1
+我问你	wo wen ni	1
+虚拟	xu ni	2
+要你	yao ni	1
+不需要你	bu xu yao ni	1
+主要你	zhu yao ni	1
+用你	yong ni	1
+油腻	you ni	1
+团长你	tuan zhang ni	1
+准考证你	zhun kao zheng ni	1
+年	nian	36
+念	nian	1
+半年	ban nian	5
+这半年	zhe ban nian	1
+概念	gai nian	4
+观念	guan nian	1
+过年	guo nian	1
+猴年	hou nian	1
+几年	ji nian	5
+纪念	ji nian	1
+过几年	guo ji nian	1
+好几年	hao ji nian	1
+这几年	zhe ji nian	1
+见年	jian nian	1
+今年	jin nian	13
+是今年	shi jin nian	1
+我今年	wo jin nian	1
+两年	liang nian	5
+一两年	yi liang nian	5
+这两年	zhe liang nian	1
+每年	mei nian	6
+明年	ming nian	9
+我明年	wo ming nian	1
+那年	na nian	1
+年年	nian nian	2
+前年	qian nian	2
+青年	qing nian	1
+去年	qu nian	11
+我去年	wo qu nian	1
+三年	san nian	15
+少年	shao nian	1
+多少年	duo shao nian	2
+十年	shi nian	1
+七十年	qi shi nian	1
+四年	si nian	1
+第四年	di si nian	2
+新年	xin nian	3
+一年	yi nian	23
+和一年	he yi nian	1
+晚一年	wan yi nian	1
+我一年	wo yi nian	1
+早一年	zao yi nian	2
+执念	zhi nian	2
+中年	zhong nian	1
+二周年	er zhou nian	1
+昨年	zuo nian	1
+娘	niang	6
+灰姑娘	hui gu niang	3
+舰娘	jian niang	8
+见娘	jian niang	5
+哭爹骂娘	ku die ma niang	1
+萌娘	meng niang	2
+娘娘	niang niang	2
+罗盘娘	luo pan niang	1
+倩娘	qian niang	1
+伪娘	wei niang	1
+魔物娘	mo wu niang	1
+鸟	niao	1
+大鸟	da niao	1
+一石二鸟	yi shi er niao	1
+快鸟	kuai niao	2
+炊烟袅袅	chui yan niao niao	1
+小鸟	xiao niao	1
+南小鸟	nan xiao niao	2
+您	nin	1
+打您	da nin	1
+布宁	bu ning	1
+列宁	lie ning	3
+吹吹牛	chui chui niu	1
+大牛	da niu	1
+肥牛	fei niu	2
+枢纽	shu niu	2
+脓	nong	1
+糊弄	hu nong	1
+码农	ma nong	7
+怒	nu	1
+五愤怒	wu fen nu	1
+地暖	di nuan	1
+温暖	wen nuan	1
+虐	nue	1
+开虐	kai nue	1
+诺	nuo	11
+泰诺	tai nuo	1
+女	nv	2
+电波女	dian bo nv	1
+羽绒服女	yu rong fu nv	1
+两女	liang nv	1
+龙女	long nv	2
+男女	nan nv	1
+现在男女	xian zai nan nv	1
+琴女	qin nv	3
+少女	shao nv	23
+魔法少女	mo fa shao nv	9
+棕发少女	zong fa shao nv	1
+美少女	mei shao nv	6
+文学少女	wen xue shao nv	3
+轻音少女	qing yin shao nv	1
+蛇女	she nv	1
+圣女	sheng nv	1
+出包王女	chu bao wang nv	1
+养女	yang nv	1
+哦	o	67
+举报哦	ju bao o	1
+的哦	de o	1
+哈弗哦	ha fu o	1
+发给哦	fa gei o	1
+工哦	gong o	1
+藏书馆哦	cang shu guan o	1
+好哦	hao o	1
+阿华哦	a hua o	1
+看哦	kan o	1
+都么哦	dou me o	1
+哦哦	o o	1
+哈偶哦	ha ou o	1
+教授哦	jiao shou o	1
+非提助手哦	fei ti zhu shou o	1
+小说哦	xiao shuo o	2
+再说哦	zai shuo o	1
+题哦	ti o	4
+加油哦	jia you o	1
+偶	ou	3
+九个偶	jiu ge ou	1
+脱欧	tuo ou	1
+卡西欧	ka xi ou	1
+怕	pa	12
+很害怕	hen hai pa	1
+恐怕	kong pa	1
+奇葩	qi pa	1
+呜帕	wu pa	1
+羊扒	yang pa	1
+拍	pai	4
+排	pai	2
+安排	an pai	2
+好安排	hao an pai	1
+不拍	bu pai	1
+重排	chong pai	1
+重拍	chong pai	1
+兄弟牌	xiong di pai	1
+歌牌	ge pai	1
+花牌	hua pai	5
+卡牌	ka pai	2
+死名牌	si ming pai	1
+品牌	pin pai	1
+平拍	ping pai	1
+网球拍	wang qiu pai	1
+竖排	shu pai	1
+我拍	wo pai	3
+烤羊排	kao yang pai	1
+招牌	zhao pai	1
+组排	zu pai	1
+盘	pan	4
+恋爱裁判	lian ai cai pan	1
+磁盘	ci pan	14
+反叛	fan pan	13
+好盘	hao pan	1
+键盘	jian pan	14
+无线键盘	wu xian jian pan	1
+机械键盘	ji xie jian pan	1
+用键盘	yong jian pan	1
+评判	ping pan	1
+速盘	su pan	1
+网盘	wang pan	9
+硬盘	ying pan	13
+移动硬盘	yi dong ying pan	4
+乒乓	ping pang	1
+身旁	shen pang	1
+跑	pao	4
+炮	pao	3
+超炮	chao pao	1
+重抛	chong pao	1
+号炮	hao pao	1
+快跑	kuai pao	1
+连抛	lian pao	1
+别乱跑	bie luan pao	1
+旗袍	qi pao	1
+龟兔赛跑	gui tu sai pao	1
+小跑	xiao pao	2
+一炮	yi pao	1
+约炮	yue pao	1
+主炮	zhu pao	1
+配	pei	1
+德配	de pei	6
+分配	fen pei	2
+高配	gao pei	1
+绝配	jue pei	1
+匹配	pi pei	2
+捧	peng	1
+棚	peng	1
+碰	peng	1
+不碰	bu peng	2
+会碰	hui peng	1
+碰碰	peng peng	1
+皮	pi	10
+屁	pi	3
+批	pi	1
+放屁	fang pi	1
+个屁	ge pi	1
+牛个屁	niu ge pi	2
+狗屁	gou pi	2
+一批	yi pi	1
+硬皮	ying pi	1
+偏	pian	4
+篇	pian	3
+片	pian	2
+单片	dan pian	1
+寄刀片	ji dao pian	1
+短篇	duan pian	2
+动画片	dong hua pian	1
+几篇	ji pian	1
+比较偏	bi jiao pian	1
+连篇	lian pian	2
+两篇	liang pian	3
+纪录片	ji lu pian	5
+麦片	mai pian	1
+破片	po pian	1
+碎片	sui pian	2
+图片	tu pian	12
+西片	xi pian	1
+一篇	yi pian	12
+一片	yi pian	2
+第一篇	di yi pian	3
+交一篇	jiao yi pian	1
+另一片	ling yi pian	1
+那一片	na yi pian	1
+有一片	you yi pian	1
+影片	ying pian	1
+生鱼片	sheng yu pian	1
+照片	zhao pian	3
+这篇	zhe pian	2
+股票	gu piao	1
+画瓢	hua piao	1
+机票	ji piao	5
+再订机票	zai ding ji piao	1
+看机票	kan ji piao	1
+买票	mai piao	1
+门票	men piao	2
+雪飘	xue piao	1
+频	pin	1
+茶品	cha pin	1
+产品	chan pin	2
+电子产品	dian zi chan pin	1
+词频	ci pin	1
+打拼	da pin	1
+毒品	du pin	2
+此商品	ci shang pin	1
+视频	shi pin	2
+无聊视频	wu liao shi pin	1
+锁频	suo pin	1
+王品	wang pin	1
+本科文品	ben ke wen pin	1
+物品	wu pin	2
+一拼	yi pin	1
+音频	yin pin	4
+招聘	zhao pin	4
+作品	zuo pin	5
+屏	ping	2
+平	ping	1
+凭	ping	1
+评	ping	1
+点评	dian ping	4
+大虫点评	da chong dian ping	1
+大众点评	da zhong dian ping	2
+黑屏	hei ping	1
+换屏	huan ping	1
+杨家坪	yang jia ping	1
+截屏	jie ping	1
+习近平	xi jin ping	1
+窥屏	kui ping	1
+蓝屏	lan ping	2
+男乒	nan ping	1
+批评	pi ping	2
+视屏	shi ping	5
+书评	shu ping	1
+竖屏	shu ping	1
+一篇书评	yi pian shu ping	1
+水平	shui ping	7
+文凭	wen ping	1
+一瓶	yi ping	1
+银屏	yin ping	1
+中评	zhong ping	2
+做平	zuo ping	3
+破	po	3
+爆破	bao po	1
+大破	da po	3
+比较哈珀	bi jiao ha po	1
+新加坡	xin jia po	2
+星加坡	xing jia po	1
+老婆	lao po	1
+我老婆	wo lao po	1
+麻婆	ma po	2
+满破	man po	1
+咬破	yao po	1
+中破	zhong po	1
+阿玛中破	a ma zhong po	1
+普	pu	1
+川普	chuan pu	4
+歌谱	ge pu	1
+科普	ke pu	1
+飞利浦	fei li pu	4
+女仆	nv pu	1
+西交利物浦	xi jiao li wu pu	1
+五线谱	wu xian pu	4
+杨浦	yang pu	1
+乐谱	yue pu	1
+器	qi	3
+起	qi	2
+崎	qi	1
+乞	qi	1
+欺	qi	1
+七	qi	1
+期	qi	1
+其	qi	1
+比起	bi qi	5
+我看不起	wo kan bu qi	1
+又看不起	you kan bu qi	1
+了不起	liao bu qi	1
+长崎	chang qi	1
+长期	chang qi	1
+重启	chong qi	2
+初期	chu qi	1
+瓷器	ci qi	1
+磁器	ci qi	1
+岛崎	dao qi	1
+我对得起	wo dui de qi	1
+充电器	chong dian qi	2
+东起	dong qi	1
+短期	duan qi	1
+一夫多妻	yi fu duo qi	1
+土耳其	tu er qi	1
+放弃	fang qi	2
+播放器	bo fang qi	3
+飞起	fei qi	1
+不好奇	bu hao qi	1
+后期	hou qi	1
+转换器	zhuan huan qi	1
+机器	ji qi	1
+假期	jia qi	2
+开启	kai qi	2
+空气	kong qi	2
+温控器	wen kong qi	1
+浏览器	liu lan qi	4
+力气	li qi	2
+管理器	guan li qi	1
+陆奇	lu qi	1
+乱其	luan qi	1
+乱七	luan qi	1
+煤气	mei qi	1
+米奇	mi qi	1
+名气	ming qi	1
+图名气	tu ming qi	1
+乌鲁木齐	wu lu mu qi	1
+模拟器	mo ni qi	3
+闹脾气	nao pi qi	1
+齐齐	qi qi	5
+散热器	san re qi	1
+人气	ren qi	3
+日期	ri qi	2
+记下日期	ji xia ri qi	1
+截止日期	jie zhi ri qi	4
+神奇	shen qi	2
+扬声器	yang sheng qi	2
+士气	shi qi	1
+二十七	er shi qi	3
+计时器	ji shi qi	1
+显示器	xian shi qi	1
+计算器	ji suan qi	1
+天气	tian qi	5
+从今天起	cong jin tian qi	1
+从明天起	cong ming tian qi	1
+我妻	wo qi	1
+邪气	xie qi	2
+新奇	xin qi	1
+个新奇	ge xin qi	1
+星期	xing qi	49
+多星期	duo xing qi	1
+个星期	ge xing qi	1
+每个星期	mei ge xing qi	1
+一个星期	yi ge xing qi	2
+玩一个星期	wan yi ge xing qi	1
+每星期	mei xing qi	2
+下星期	xia xing qi	1
+这星期	zhe xing qi	2
+学期	xue qi	44
+上半学期	shang ban xue qi	1
+每个学期	mei ge xue qi	1
+下个学期	xia ge xue qi	2
+我下个学期	wo xia ge xue qi	1
+一个学期	yi ge xue qi	2
+这个学期	zhe ge xue qi	3
+每学期	mei xue qi	2
+上学期	shang xue qi	3
+比上学期	bi shang xue qi	1
+大四上学期	da si shang xue qi	1
+下学期	xia xue qi	10
+新学期	xin xue qi	1
+一学期	yi xue qi	1
+第一学期	di yi xue qi	1
+这学期	zhe xue qi	18
+一起	yi qi	8
+一夫一妻	yi fu yi qi	1
+一起一起	yi qi yi qi	1
+在一起	zai yi qi	1
+勇气	yong qi	1
+路由器	lu you qi	5
+预期	yu qi	1
+运气	yun qi	6
+赌运气	du yun qi	1
+看运气	kan yun qi	2
+下载器	xia zai qi	1
+早起	zao qi	1
+战旗	zhan qi	1
+整齐	zheng qi	1
+保质期	bao zhi qi	1
+中期	zhong qi	1
+指掐	zhi qia	1
+前	qian	21
+钱	qian	8
+千	qian	4
+签	qian	3
+潜	qian	1
+把钱	ba qian	1
+抽签	chou qian	1
+寸前	cun qian	1
+代签	dai qian	2
+当前	dang qian	1
+该花的钱	gai hua de qian	1
+拿点钱	na dian qian	1
+省点钱	sheng dian qian	1
+短浅	duan qian	1
+很多钱	hen duo qian	1
+李尔乾	li er qian	2
+反潜	fan qian	1
+付钱	fu qian	2
+改前	gai qian	2
+改签	gai qian	1
+号前	hao qian	1
+几千	ji qian	1
+价钱	jia qian	1
+交钱	jiao qian	1
+还没扣钱	hai mei kou qian	1
+两千	liang qian	1
+没钱	mei qian	2
+门前	men qian	1
+目前	mu qian	1
+几年前	ji nian qian	3
+四年前	si nian qian	1
+一年前	yi nian qian	1
+派遣	pai qian	1
+烤肉签	kao rou qian	1
+多少钱	duo shao qian	1
+书签	shu qian	1
+睡前	shui qian	1
+提前	ti qian	6
+要给我前	yao gei wo qian	1
+续签	xu qian	2
+眼前	yan qian	1
+以前	yi qian	15
+比以前	bi yi qian	4
+我以前	wo yi qian	3
+像我以前	xiang wo yi qian	1
+像以前	xiang yi qian	1
+所以以前	suo yi yi qian	1
+有钱	you qian	1
+早千	zao qian	1
+折千	zhe qian	2
+这钱	zhe qian	1
+之前	zhi qian	12
+不值钱	bu zhi qian	1
+来之前	lai zhi qian	1
+我之前	wo zhi qian	1
+薛之谦	xue zhi qian	1
+月之前	yue zhi qian	1
+竹签	zhu qian	2
+赚钱	zhuan qian	2
+强	qiang	2
+墙	qiang	1
+翻墙	fan qiang	3
+更强	geng qiang	1
+很强	hen qiang	1
+威力加强	wei li jia qiang	1
+不控枪	bu kong qiang	1
+口腔	kou qiang	1
+估计勉强	gu ji mian qiang	1
+男枪	nan qiang	1
+女枪	nv qiang	1
+贴墙	tie qiang	1
+一枪	yi qiang	1
+任志强	ren zhi qiang	1
+自强	zi qiang	1
+巧	qiao	1
+多翘	duo qiao	1
+高桥	gao qiao	1
+技巧	ji qiao	2
+机巧	ji qiao	1
+剑桥	jian qiao	7
+去剑桥	qu jian qiao	1
+悄悄	qiao qiao	1
+不切	bu qie	1
+而且	er qie	54
+黑切	hei qie	2
+剪切	jian qie	1
+一切	yi qie	4
+这一切	zhe yi qie	1
+琴	qin	8
+秦	qin	4
+钢琴	gang qin	2
+神亲	shen qin	2
+生擒	sheng qin	1
+弹琴	tan qin	1
+大提琴	da ti qin	1
+相亲	xiang qin	1
+清	qing	4
+轻	qing	4
+傾	qing	1
+爱情	ai qing	1
+安庆	an qing	1
+表情	biao qing	1
+大表情	da biao qing	2
+这表情	zhe biao qing	1
+不清	bu qing	1
+病得不轻	bing de bu qing	1
+分不清	fen bu qing	1
+说不清	shuo bu qing	1
+也说不清	ye shuo bu qing	2
+写不清	xie bu qing	1
+重庆	chong qing	9
+高清	gao qing	2
+国庆	guo qing	1
+剧情	ju qing	2
+年轻	nian qing	1
+两年轻	liang nian qing	1
+太年轻	tai nian qing	1
+我轻轻	wo qing qing	1
+全情	quan qing	1
+热情	re qing	2
+没热情	mei re qing	1
+申请	shen qing	56
+多申请	duo shen qing	2
+好申请	hao shen qing	1
+就申请	jiu shen qing	1
+没申请	mei shen qing	1
+你申请	ni shen qing	1
+去申请	qu shen qing	1
+要申请	yao shen qing	2
+早申请	zao shen qing	1
+只申请	zhi shen qing	1
+做申请	zuo shen qing	1
+事情	shi qing	39
+没其他事情	mei qi ta shi qing	1
+这种事情	zhe zhong shi qing	1
+我做事情	wo zuo shi qing	2
+偷情	tou qing	1
+心情	xin qing	8
+邀请	yao qing	4
+我被邀请	wo bei yao qing	1
+引擎	yin qing	1
+费玉清	fei yu qing	2
+穷	qiong	1
+在穷	zai qiong	1
+求	qiu	10
+球	qiu	1
+囚	qiu	1
+邱	qiu	1
+秋	qiu	1
+地球	di qiu	1
+发球	fa qiu	1
+接发球	jie fa qiu	1
+品乓球	pin pang qiu	1
+全球	quan qiu	1
+玩球	wan qiu	1
+网球	wang qiu	4
+打网球	da wang qiu	1
+要求	yao qiu	12
+不要求	bu yao qiu	1
+会要求	hui yao qiu	1
+我要求	wo yao qiu	1
+有要求	you yao qiu	1
+智秋	zhi qiu	1
+中秋	zhong qiu	5
+追求	zhui qiu	1
+足球	zu qiu	1
+去	qu	70
+区	qu	3
+驱	qu	1
+曲	qu	1
+不去	bu qu	2
+去不去	qu bu qu	1
+上不去	shang bu qu	1
+出去	chu qu	5
+搬出去	ban chu qu	1
+不出去	bu chu qu	1
+没出去	mei chu qu	1
+不想出去	bu xiang chu qu	2
+住出去	zhu chu qu	1
+都住出去	dou zhu chu qu	1
+单曲	dan qu	1
+值得去	zhi de qu	1
+地区	di qu	3
+都去	dou qu	2
+而去	er qu	1
+分区	fen qu	1
+刚去	gang qu	1
+歌曲	ge qu	3
+虚拟光驱	xu ni guang qu	1
+滚去	gun qu	1
+过去	guo qu	6
+看得过去	kan de guo qu	1
+寄过去	ji guo qu	2
+睡过去	shui guo qu	1
+回去	hui qu	8
+会去	hui qu	1
+就回去	jiu hui qu	1
+想回去	xiang hui qu	1
+获取	huo qu	1
+寄去	ji qu	1
+减去	jian qu	1
+纠结去	jiu jie qu	1
+进去	jin qu	3
+就去	jiu qu	2
+九曲	jiu qu	1
+乐趣	le qu	1
+里区	li qu	1
+领取	ling qu	1
+没去	mei qu	3
+我没去	wo mei qu	2
+你去	ni qu	1
+钢琴曲	gang qin qu	1
+一个人去	yi ge ren qu	1
+日区	ri qu	5
+出生日区	chu sheng ri qu	1
+上去	shang qu	2
+加上去	jia shang qu	1
+没加上去	mei jia shang qu	2
+看上去	kan shang qu	1
+算上去	suan shang qu	1
+写上去	xie shang qu	2
+就没写上去	jiu mei xie shang qu	1
+市区	shi qu	1
+失去	shi qu	1
+索取	suo qu	1
+缩区	suo qu	1
+拖来拖去	tuo lai tuo qu	1
+我去	wo qu	10
+游戏去	you xi qu	1
+下去	xia qu	2
+听不下去	ting bu xia qu	1
+呆下去	dai xia qu	2
+活下去	huo xia qu	1
+写下去	xie xia qu	1
+发展下去	fa zhan xia qu	1
+先去	xian qu	2
+我先去	wo xian qu	1
+想去	xiang qu	5
+香取	xiang qu	1
+不想去	bu xiang qu	1
+纯白交响曲	chun bai jiao xiang qu	1
+小区	xiao qu	1
+分校区	fen xiao qu	1
+主校区	zhu xiao qu	1
+兴趣	xing qu	7
+星趣	xing qu	1
+感兴趣	gan xing qu	2
+不感兴趣	bu gan xing qu	2
+没兴趣	mei xing qu	1
+有兴趣	you xing qu	1
+选曲	xuan qu	1
+要去	yao qu	3
+夜曲	ye qu	2
+液区	ye qu	1
+有趣	you qu	1
+好有趣	hao you qu	1
+很有趣	hen you qu	1
+还挺有趣	hai ting you qu	1
+我又去	wo you qu	1
+乐曲	yue qu	2
+再去	zai qu	2
+我真去	wo zhen qu	1
+争取	zheng qu	2
+我争取	wo zheng qu	1
+专区	zhuan qu	1
+自取	zi qu	1
+圈	quan	3
+券	quan	1
+犬	quan	1
+安全	an quan	2
+不安全	bu an quan	1
+不全	bu quan	1
+补全	bu quan	1
+完全	wan quan	3
+不完全	bu wan quan	2
+也不完全	ye bu wan quan	1
+一拳	yi quan	7
+发朋友圈	fa peng you quan	1
+却	que	2
+雀	que	1
+缺	que	1
+的确	di que	24
+那的确	na di que	1
+这的确	zhe di que	1
+群	qun	2
+连衣裙	lian yi qun	1
+然	ran	2
+燃	ran	2
+必然	bi ran	1
+不然	bu ran	1
+要不然	yao bu ran	5
+传染	chuan ran	1
+当然	dang ran	15
+这当然	zhe dang ran	1
+固然	gu ran	1
+果然	guo ran	23
+既然	ji ran	1
+居然	ju ran	3
+虽然	sui ran	25
+陶然	tao ran	1
+突然	tu ran	4
+也太突然	ye tai tu ran	1
+我突然	wo tu ran	2
+未然	wei ran	2
+污染	wu ran	1
+显然	xian ran	1
+自然	zi ran	3
+让	rang	6
+当让	dang rang	1
+就让	jiu rang	2
+我让	wo rang	1
+先让	xian rang	1
+想让	xiang rang	1
+特别热	te bie re	1
+很热	hen re	2
+令热	ling re	1
+排热	pai re	1
+散热	san re	2
+也热	ye re	1
+人	ren	93
+任	ren	2
+一般人	yi ban ren	2
+本人	ben ren	2
+别人	bie ren	19
+把别人	ba bie ren	1
+比别人	bi bie ren	3
+对别人	dui bie ren	1
+和别人	he bie ren	1
+取消别人	qu xiao bie ren	1
+遭别人	zao bie ren	1
+早别人	zao bie ren	1
+找别人	zhao bie ren	1
+不忍	bu ren	1
+大部人	da bu ren	3
+超人	chao ren	3
+我承认	wo cheng ren	1
+没找错人	mei zhao cuo ren	1
+担任	dan ren	1
+单人	dan ren	1
+炸弹人	zha dan ren	2
+等人	deng ren	1
+敌人	di ren	2
+成都人	cheng du ren	1
+很多人	hen duo ren	1
+大部分人	da bu fen ren	3
+个人	ge ren	4
+几个人	ji ge ren	2
+比两个人	bi liang ge ren	1
+每个人	mei ge ren	2
+那个人	na ge ren	1
+我个人	wo ge ren	1
+一个人	yi ge ren	10
+你一个人	ni yi ge ren	1
+这个人	zhe ge ren	1
+给人	gei ren	1
+美国人	mei guo ren	8
+给美国人	gei mei guo ren	1
+中国人	zhong guo ren	5
+内行人	nei hang ren	1
+外行人	wai hang ren	2
+烂好人	lan hao ren	1
+和人	he ren	2
+黑人	hei ren	1
+发件人	fa jian ren	1
+匠人	jiang ren	1
+她叫人	ta jiao ren	1
+进击的巨人	jin ji de ju ren	3
+军人	jun ren	1
+收款人	shou kuan ren	1
+扶老人	fu lao ren	1
+恋人	lian ren	3
+邻人	lin ren	1
+另人	ling ren	1
+路人	lu ren	25
+录人	lu ren	1
+没人	mei ren	1
+都没人	dou mei ren	1
+也没人	ye mei ren	1
+对面人	dui mian ren	1
+默认	mo ren	1
+中年人	zhong nian ren	5
+哦人	o ren	1
+七人	qi ren	2
+机器人	ji qi ren	1
+自欺欺人	zi qi qi ren	1
+情人	qing ren	4
+穷人	qiong ren	1
+人人	ren ren	9
+少人	shao ren	1
+熟人	shu ren	1
+私人	si ren	1
+石头人	shi tou ren	3
+推人	tui ren	1
+虾仁	xia ren	1
+哪些人	na xie ren	1
+有些人	you xie ren	1
+新人	xin ren	2
+有人	you ren	9
+友人	you ren	1
+都有人	dou you ren	1
+下雨人	xia yu ren	1
+小鱼人	xiao yu ren	1
+主任	zhu ren	1
+扔	reng	1
+日	ri	62
+八日	ba ri	1
+新标日	xin biao ri	1
+红日	hong ri	1
+每日	mei ri	1
+末日	mo ri	2
+生日	sheng ri	5
+中日	zhong ri	8
+工作日	gong zuo ri	1
+容	rong	1
+不容	bu rong	1
+很容	hen rong	1
+金融	jin rong	4
+呢绒	ne rong	1
+内容	nei rong	6
+新内容	xin nei rong	1
+形容	xing rong	1
+整容	zheng rong	1
+肉	rou	4
+我半肉	wo ban rou	1
+烤肉	kao rou	2
+内柔	nei rou	1
+牛肉	niu rou	1
+我一身肉	wo yi shen rou	1
+生肉	sheng rou	2
+烤羊肉	kao yang rou	1
+如	ru	1
+爱如	ai ru	1
+比如	bi ru	6
+不如	bu ru	2
+还不如	hai bu ru	5
+插入	cha ru	2
+耻辱	chi ru	2
+导入	dao ru	5
+加入	jia ru	1
+进入	jin ru	2
+梁静茹	liang jing ru	1
+巨乳	ju ru	1
+录入	lu ru	1
+屈辱	qu ru	1
+收入	shou ru	2
+年收入	nian shou ru	1
+输入	shu ru	1
+投入	tou ru	1
+陷入	xian ru	1
+林心如	lin xin ru	1
+已入	yi ru	1
+月入	yue ru	1
+软	ruan	1
+微软	wei ruan	9
+瑞	rui	1
+比睿	bi rui	1
+班得瑞	ban de rui	1
+闰	run	1
+閏	run	1
+华润	hua run	4
+谷崎润	gu qi run	1
+若	ruo	1
+太弱	tai ruo	1
+巴萨	ba sa	1
+拉萨	la sa	1
+玩撒	wan sa	1
+比赛	bi sai	1
+耳塞	er sai	1
+戴耳塞	dai er sai	1
+禁赛	jin sai	2
+竞赛	jing sai	1
+三	san	17
+伞	san	1
+大三	da san	14
+大二大三	da er da san	1
+我大三	wo da san	1
+第三	di san	2
+二三	er san	1
+九三	jiu san	1
+狂三	kuang san	4
+离散	li san	2
+零散	ling san	1
+星期三	xing qi san	3
+前三	qian san	1
+四分之三	si fen zhi san	1
+周三	zhou san	13
+下周三	xia zhou san	1
+下下周三	xia xia zhou san	1
+扶桑	fu sang	7
+骚	sao	3
+搔	sao	1
+打扫	da sao	1
+太骚	tai sao	1
+瑟	se	1
+色	se	1
+白色	bai se	12
+变色	bian se	2
+彩色	cai se	1
+黑色	hei se	3
+红色	hong se	4
+黄色	huang se	1
+灰色	hui se	2
+戒色	jie se	1
+角色	jue se	2
+蓝色	lan se	2
+琴瑟	qin se	1
+情色	qing se	1
+青色	qing se	1
+颜色	yan se	3
+紫色	zi se	2
+森	sen	2
+钱学森	qian xue sen	1
+之森	zhi sen	1
+杀	sha	4
+沙	sha	1
+暗杀	an sha	10
+三国杀	san guo sha	2
+和纱	he sha	4
+婚纱	hun sha	1
+魔理沙	mo li sha	1
+摸头纱	mo tou sha	1
+先杀	xian sha	1
+斩杀	zhan sha	2
+自杀	zi sha	1
+山	shan	4
+闪	shan	3
+扇	shan	1
+删	shan	1
+不删	bu shan	1
+搭讪	da shan	1
+东山	dong shan	3
+风扇	feng shan	1
+电风扇	dian feng shan	1
+金佛山	jin fo shan	1
+改善	gai shan	1
+北固山	bei gu shan	1
+黄鳝	huang shan	1
+金山	jin shan	1
+旧金山	jiu jin shan	1
+南山	nan shan	2
+闪闪	shan shan	1
+刷闪	shua shan	2
+教堂山	jiao tang shan	1
+天山	tian shan	1
+痛衫	tong shan	1
+上	shang	125
+淘宝上	tao bao shang	2
+悲伤	bei shang	2
+北上	bei shang	2
+本上	ben shang	3
+基本上	ji ben shang	32
+今天基本上	jin tian ji ben shang	1
+接本上	jie ben shang	3
+进本上	jin ben shang	1
+机泵上	ji beng shang	1
+边上	bian shang	4
+标上	biao shang	1
+不上	bu shang	8
+补上	bu shang	1
+比不上	bi bu shang	1
+我跟不上	wo gen bu shang	1
+床上	chuang shang	2
+村上	cun shang	9
+打上	da shang	1
+冻伤	dong shang	1
+程度上	cheng du shang	1
+多上	duo shang	5
+沙发上	sha fa shang	1
+附上	fu shang	1
+赶上	gan shang	1
+刚上	gang shang	1
+跟上	gen shang	1
+没跟上	mei gen shang	1
+过上	guo shang	2
+苹果伤	ping guo shang	1
+还上	hai shang	3
+海上	hai shang	1
+换上	huan shang	1
+看机会上	kan ji hui shang	1
+飞机上	fei ji shang	1
+手机上	shou ji shang	1
+加上	jia shang	12
+再加上	zai jia shang	3
+就近上	jiu jin shang	1
+课上	ke shang	2
+维基百科上	wei ji bai ke shang	1
+来上	lai shang	1
+别来上	bie lai shang	1
+简历上	jian li shang	1
+连上	lian shang	1
+路上	lu shang	2
+在路上	zai lu shang	1
+马上	ma shang	3
+我马上	wo ma shang	1
+还没上	hai mei shang	1
+电脑上	dian nao shang	1
+我电脑上	wo dian nao shang	1
+在电脑上	zai dian nao shang	1
+能上	neng shang	1
+硬盘上	ying pan shang	1
+去上	qu shang	3
+上上	shang shang	1
+少上	shao shang	2
+烧伤	shao shang	2
+申上	shen shang	1
+历史上	li shi shang	1
+受伤	shou shang	2
+手上	shou shang	1
+书上	shu shang	1
+避暑上	bi shu shang	1
+算上	suan shang	5
+还没算上	hai mei suan shang	1
+主题上	zhu ti shang	1
+晚上	wan shang	23
+到晚上	dao wan shang	1
+今天晚上	jin tian wan shang	1
+网上	wang shang	13
+往上	wang shang	1
+官网上	guan wang shang	2
+在网上	zai wang shang	1
+我上	wo shang	2
+我线上	wo xian shang	1
+向上	xiang shang	3
+想上	xiang shang	2
+不想上	bu xiang shang	1
+学校上	xue xiao shang	1
+写上	xie shang	2
+协商	xie shang	1
+欣赏	xin shang	1
+心上	xin shang	1
+继续上	ji xu shang	1
+美学上	mei xue shang	2
+没学上	mei xue shang	1
+亚马逊上	ya ma xun shang	6
+要上	yao shang	1
+也要上	ye yao shang	1
+野上	ye shang	1
+作业上	zuo ye shang	1
+以上	yi shang	2
+名义上	ming yi shang	1
+用上	yong shang	2
+忧伤	you shang	1
+你有没有上	ni you mei you shang	1
+云音乐上	yun yin yue shang	1
+再上	zai shang	1
+今年在上	jin nian zai shang	1
+赞赏	zan shang	1
+早上	zao shang	16
+站上	zhan shang	1
+网站上	wang zhan shang	1
+招商	zhao shang	4
+只上	zhi shang	2
+智商	zhi shang	2
+纸上	zhi shang	1
+报纸上	bao zhi shang	1
+高智商	gao zhi shang	1
+花纹之上	hua wen zhi shang	1
+我智商	wo zhi shang	1
+一只上	yi zhi shang	1
+中上	zhong shang	6
+重伤	zhong shang	2
+住上	zhu shang	1
+注上	zhu shang	1
+少	shao	7
+不少	bu shao	17
+快不少	kuai bu shao	1
+也不少	ye bu shao	1
+多少	duo shao	14
+差多少	cha duo shao	1
+就干多少	jiu gan duo shao	1
+要多少	yao duo shao	2
+风少	feng shao	1
+很少	hen shao	5
+人很少	ren hen shao	1
+朋友很少	peng you hen shao	1
+活少	huo shao	1
+比较少	bi jiao shao	1
+介绍	jie shao	3
+楼层介绍	lou ceng jie shao	1
+人少	ren shao	1
+多多少少	duo duo shao shao	1
+还是少	hai shi shao	1
+太少	tai shao	1
+文少	wen shao	2
+也少	ye shao	1
+又少	you shao	3
+越少	yue shao	1
+至少	zhi shao	31
+我至少	wo zhi shao	1
+舌	she	2
+设	she	1
+舍	she	1
+社	she	1
+射	she	1
+干涉	gan she	1
+杨继畲	yang ji she	1
+假设	jia she	1
+建设	jian she	1
+拍摄	pai she	1
+人设	ren she	1
+神社	shen she	11
+琉璃神社	liu li shen she	6
+宿舍	su she	13
+回到宿舍	hui dao su she	1
+刚回到宿舍	gang hui dao su she	1
+换宿舍	huan su she	2
+回宿舍	hui su she	1
+你宿舍	ni su she	1
+新宿舍	xin su she	1
+选宿舍	xuan su she	4
+里选宿舍	li xuan su she	1
+在宿舍	zai su she	1
+玩蛇	wan she	2
+响尾蛇	xiang wei she	2
+文社	wen she	1
+外研社	wai yan she	1
+德云社	de yun she	1
+谁	shei	3
+也没谁	ye mei shei	1
+有谁	you shei	1
+申	shen	15
+神	shen	4
+甚	shen	4
+深	shen	3
+什	shen	1
+本身	ben shen	1
+不申	bu shen	1
+大神	da shen	2
+单身	dan shen	5
+发申	fa shen	1
+回身	hui shen	1
+健身	jian shen	5
+没健身	mei jian shen	1
+精神	jing shen	3
+研究神	yan jiu shen	8
+本科神	ben ke shen	1
+魔神	mo shen	1
+难伸	nan shen	1
+能伸	neng shen	1
+女神	nv shen	2
+他申	ta shen	1
+弯身	wan shen	1
+网申	wang shen	1
+为什	wei shen	1
+我申	wo shen	2
+我神	wo shen	1
+学神	xue shen	1
+眼神	yan shen	1
+毕业神	bi ye shen	1
+在申	zai shen	1
+照神	zhao shen	1
+之神	zhi shen	1
+终身	zhong shen	1
+诸神	zhu shen	10
+生	sheng	29
+省	sheng	3
+声	sheng	2
+剩	sheng	2
+绳	sheng	1
+升	sheng	1
+出生	chu sheng	1
+诞生	dan sheng	1
+低声	di sheng	1
+发生	fa sheng	2
+又发生	you fa sheng	1
+公升	gong sheng	2
+一公升	yi gong sheng	3
+过剩	guo sheng	1
+还剩	hai sheng	6
+安徽省	an hui sheng	2
+国际生	guo ji sheng	3
+剑圣	jian sheng	2
+魏京生	wei jing sheng	2
+研究生	yan jiu sheng	29
+读研究生	du yan jiu sheng	1
+上研究生	shang yan jiu sheng	1
+理科生	li ke sheng	2
+文科生	wen ke sheng	3
+铃声	ling sheng	1
+男声	nan sheng	1
+男生	nan sheng	1
+女生	nv sheng	2
+绝地求生	jue di qiu sheng	1
+人生	ren sheng	17
+人声	ren sheng	1
+游戏人生	you xi ren sheng	2
+博士生	bo shi sheng	1
+速生	su sheng	1
+江苏省	jiang su sheng	2
+大逃生	da tao sheng	1
+提升	ti sheng	1
+史铁生	shi tie sheng	1
+安徒生	an tu sheng	1
+卫生	wei sheng	1
+学生	xue sheng	9
+大学生	da xue sheng	1
+小学生	xiao xue sheng	2
+毕业生	bi ye sheng	2
+一生	yi sheng	1
+叫一声	jiao yi sheng	1
+可以省	ke yi sheng	1
+就可以省	jiu ke yi sheng	1
+音声	yin sheng	2
+永生	yong sheng	2
+雨声	yu sheng	1
+羽生	yu sheng	1
+只剩	zhi sheng	1
+高中生	gao zhong sheng	1
+主升	zhu sheng	1
+是	shi	568
+石	shi	18
+事	shi	11
+湿	shi	4
+世	shi	3
+使	shi	2
+史	shi	2
+市	shi	2
+师	shi	2
+诗	shi	2
+式	shi	1
+时	shi	1
+失	shi	1
+矢	shi	1
+噬	shi	1
+十	shi	1
+碍事	ai shi	1
+按时	an shi	3
+安室	an shi	1
+一般是	yi ban shi	2
+报时	bao shi	2
+宝石	bao shi	1
+本事	ben shi	1
+日本史	ri ben shi	2
+鄙视	bi shi	4
+表示	biao shi	1
+他别是	ta bie shi	1
+特别是	te bie shi	7
+博士	bo shi	7
+读博士	du bo shi	1
+不是	bu shi	123
+并不是	bing bu shi	4
+这并不是	zhe bing bu shi	1
+不不是	bu bu shi	1
+担不是	dan bu shi	1
+倒不是	dao bu shi	1
+都不是	dou bu shi	1
+而不是	er bu shi	1
+还不是	hai bu shi	1
+绝不是	jue bu shi	1
+那不是	na bu shi	1
+是不是	shi bu shi	8
+你是不是	ni shi bu shi	1
+我不是	wo bu shi	1
+小布什	xiao bu shi	1
+要不是	yao bu shi	3
+也不是	ye bu shi	13
+又不是	you bu shi	5
+我又不是	wo you bu shi	1
+这不是	zhe bu shi	1
+才是	cai shi	3
+草食	cao shi	1
+测试	ce shi	3
+小数据测试	xiao shu ju ce shi	1
+小测试	xiao ce shi	1
+超市	chao shi	1
+城市	cheng shi	10
+大城市	da cheng shi	2
+虫师	chong shi	6
+初始	chu shi	1
+好处是	hao chu shi	1
+进出时	jin chu shi	1
+创世	chuang shi	3
+大事	da shi	4
+大师	da shi	3
+实打实	shi da shi	1
+但是	dan shi	121
+当时	dang shi	15
+我当时	wo dang shi	1
+倒是	dao shi	9
+导师	dao shi	1
+反倒是	fan dao shi	1
+那倒是	na dao shi	1
+我倒是	wo dao shi	4
+这倒是	zhe dao shi	1
+以后的事	yi hou de shi	1
+讲的是	jiang de shi	1
+地市	di shi	1
+电视	dian shi	1
+懂事	dong shi	1
+都是	dou shi	91
+全部都是	quan bu dou shi	1
+都市	du shi	2
+二十	er shi	4
+而是	er shi	1
+而使	er shi	1
+魔法师	mo fa shi	1
+泛式	fan shi	1
+联系方式	lian xi fang shi	1
+斯坦福是	si tan fu shi	1
+大概是	da gai shi	2
+应该是	ying gai shi	1
+格式	ge shi	2
+一个实	yi ge shi	1
+更是	geng shi	2
+公式	gong shi	2
+办公室	ban gong shi	2
+搭建公式	da jian gong shi	1
+三角公式	san jiao gong shi	1
+鬼故事	gui gu shi	1
+光是	guang shi	1
+法国史	fa guo shi	3
+选法国史	xuan fa guo shi	1
+美国史	mei guo shi	1
+还是	hai shi	175
+那不还是	na bu hai shi	1
+该还是	gai hai shi	1
+好还是	hao hai shi	1
+你还是	ni hai shi	1
+他还是	ta hai shi	1
+我还是	wo hai shi	8
+好事	hao shi	2
+合适	he shi	2
+和不合适	he bu he shi	1
+很合适	hen he shi	1
+不太合适	bu tai he shi	1
+画师	hua shi	2
+坏事	huai shi	1
+召唤师	zhao huan shi	1
+也会是	ye hui shi	1
+一回事	yi hui shi	1
+或是	huo shi	1
+抑或是	yi huo shi	1
+纪实	ji shi	10
+几十	ji shi	2
+即是	ji shi	1
+倒计时	dao ji shi	1
+估计是	gu ji shi	2
+禁忌是	jin ji shi	1
+自己是	zi ji shi	1
+见识	jian shi	1
+关键是	guan jian shi	1
+三件事	san jian shi	1
+一件事	yi jian shi	1
+这件事	zhe jian shi	2
+僵尸	jiang shi	1
+教师	jiao shi	5
+教室	jiao shi	2
+解释	jie shi	2
+毕竟是	bi jing shi	1
+就是	jiu shi	163
+不就是	bu jiu shi	2
+那不就是	na bu jiu shi	1
+变动就是	bian dong jiu shi	1
+本来就是	ben lai jiu shi	3
+那就是	na jiu shi	2
+你就是	ni jiu shi	2
+我就是	wo jiu shi	5
+也就是	ye jiu shi	9
+这就是	zhe jiu shi	2
+卡是	ka shi	1
+开始	kai shi	38
+才开始	cai kai shi	3
+刚开始	gang kai shi	2
+已经开始	yi jing kai shi	1
+就开始	jiu kai shi	1
+这里开始	zhe li kai shi	1
+还没开始	hai mei kai shi	2
+都还没开始	dou hai mei kai shi	1
+要开始	yao kai shi	1
+一开始	yi kai shi	1
+又开始	you kai shi	2
+最开始	zui kai shi	1
+看是	kan shi	1
+考试	kao shi	34
+这个考试	zhe ge kao shi	1
+晋级考试	jin ji kao shi	1
+下午考试	xia wu kao shi	1
+数学考试	shu xue kao shi	1
+日语考试	ri yu kao shi	1
+这考试	zhe kao shi	2
+期中考试	qi zhong kao shi	1
+可是	ke shi	9
+课是	ke shi	1
+本来是	ben lai shi	1
+我本来是	wo ben lai shi	1
+老师	lao shi	19
+打老师	da lao shi	4
+大老师	da lao shi	2
+数学老师	shu xue lao shi	1
+乐视	le shi	7
+历史	li shi	113
+里氏	li shi	1
+黑历史	hei li shi	1
+看历史	kan li shi	2
+我觉得上历史	wo jue de shang li shi	1
+退历史	tui li shi	1
+我历史	wo li shi	1
+学历史	xue li shi	2
+不学历史	bu xue li shi	1
+是学历史	shi xue li shi	1
+做历史	zuo li shi	1
+了事	liao shi	1
+劣势	lie shi	1
+临时	lin shi	3
+零式	ling shi	2
+吃点零食	chi dian ling shi	1
+冬令时	dong ling shi	4
+夏令时	xia ling shi	1
+五六十	wu liu shi	1
+普鲁士	pu lu shi	1
+无论是	wu lun shi	1
+没事	mei shi	33
+美食	mei shi	2
+我没事	wo mei shi	1
+面试	mian shi	2
+明石	ming shi	3
+默示	mo shi	4
+模式	mo shi	1
+那是	na shi	6
+你是	ni shi	1
+我品是	wo pin shi	1
+平时	ping shi	1
+他平时	ta ping shi	1
+其实	qi shi	112
+歧视	qi shi	2
+但其实	dan qi shi	1
+六七十	liu qi shi	1
+全是	quan shi	3
+认识	ren shi	1
+人是	ren shi	1
+不认识	bu ren shi	3
+我认识	wo ren shi	1
+三式	san shi	1
+膳食	shan shi	1
+上市	shang shi	2
+设施	she shi	1
+试试	shi shi	5
+事实	shi shi	1
+还是是	hai shi shi	2
+我试试	wo shi shi	1
+想试试	xiang shi shi	1
+手势	shou shi	2
+漱石	shu shi	2
+炼金术师	lian jin shu shi	1
+钢之炼金术师	gang zhi lian jin shu shi	7
+夏目漱石	xia mu shu shi	3
+硕士	shuo shi	16
+说是	shuo shi	4
+没硕士	mei shuo shi	1
+四式	si shi	1
+意思是	yi si shi	2
+苏轼	su shi	1
+算是	suan shi	10
+也算是	ye suan shi	1
+随时	sui shi	2
+损失	sun shi	1
+他是	ta shi	4
+她是	ta shi	1
+其他事	qi ta shi	1
+提示	ti shi	2
+生词提示	sheng ci ti shi	1
+天使	tian shi	6
+小天使	xiao tian shi	7
+调试	tiao shi	1
+停驶	ting shi	1
+听是	ting shi	1
+外事	wai shi	1
+完事	wan shi	2
+万事	wan shi	1
+我考完试	wo kao wan shi	1
+喂食	wei shi	1
+卧室	wo shi	14
+我是	wo shi	12
+一个卧室	yi ge wo shi	1
+五十	wu shi	3
+无视	wu shi	1
+槟榔西施	bing lang xi shi	1
+显示	xian shi	8
+现实	xian shi	1
+先是	xian shi	1
+很现实	hen xian shi	1
+更像是	geng xiang shi	1
+小时	xiao shi	54
+消失	xiao shi	2
+半小时	ban xiao shi	3
+一个半小时	yi ge ban xiao shi	1
+多小时	duo xiao shi	2
+个小时	ge xiao shi	2
+两小时	liang xiao shi	1
+三小时	san xiao shi	1
+一小时	yi xiao shi	1
+那些事	na xie shi	1
+有心事	you xin shi	1
+形式	xing shi	1
+形势	xing shi	1
+东亚史	dong ya shi	2
+要是	yao shi	21
+起来要是	qi lai yao shi	1
+他要是	ta yao shi	1
+我要是	wo yao shi	3
+主要是	zhu yao shi	20
+也是	ye shi	47
+倒也是	dao ye shi	1
+搬的也是	ban de ye shi	1
+那也是	na ye shi	2
+你也是	ni ye shi	1
+我也是	wo ye shi	7
+这也是	zhe ye shi	1
+医师	yi shi	1
+可以是	ke yi shi	1
+两仪式	liang yi shi	1
+副主任医师	fu zhu ren yi shi	2
+下意识	xia yi shi	1
+影视	ying shi	5
+优势	you shi	7
+又是	you shi	5
+有事	you shi	1
+好像又是	hao xiang you shi	1
+于是	yu shi	4
+命运石	ming yun shi	7
+实在是	shi zai shi	3
+暂时	zan shi	9
+你暂时	ni zan shi	1
+展示	zhan shi	1
+这是	zhe shi	19
+或者是	huo zhe shi	2
+又或者是	you huo zhe shi	1
+真是	zhen shi	7
+真实	zhen shi	6
+真视	zhen shi	1
+正式	zheng shi	3
+正是	zheng shi	2
+只是	zhi shi	77
+知识	zhi shi	5
+不只是	bu zhi shi	3
+基础知识	ji chu zhi shi	1
+地址是	di zhi shi	1
+简直是	jian zhi shi	3
+你只是	ni zhi shi	1
+他只是	ta zhi shi	1
+我只是	wo zhi shi	6
+也只是	ye zhi shi	3
+这也只是	zhe ye zhi shi	1
+一直是	yi zhi shi	1
+樱之诗	ying zhi shi	2
+这只是	zhe zhi shi	1
+这种事	zhe zhong shi	1
+常州市	chang zhou shi	7
+欧洲史	ou zhou shi	2
+装飾	zhuang shi	1
+姿势	zi shi	1
+汉字是	han zi shi	1
+总是	zong shi	10
+看你总是	kan ni zong shi	1
+做事	zuo shi	1
+工作室	gong zuo shi	1
+收	shou	5
+瘦	shou	1
+手	shou	1
+受	shou	1
+太保守	tai bao shou	1
+伸出手	shen chu shou	1
+二手	er shou	2
+感受	gan shou	1
+教授	jiao shou	48
+帮教授	bang jiao shou	5
+历史教授	li shi jiao shou	1
+数学教授	shu xue jiao shou	1
+接受	jie shou	7
+接收	jie shou	2
+两手	liang shou	2
+那首	na shou	2
+你受	ni shou	1
+忍受	ren shou	1
+入手	ru shou	1
+寄生兽	ji sheng shou	10
+收受	shou shou	2
+挺受	ting shou	1
+握手	wo shou	1
+我收	wo shou	1
+跟握手	gen wo shou	2
+享受	xiang shou	2
+新手	xin shou	1
+一首	yi shou	1
+这首	zhe shou	2
+之手	zhi shou	1
+助手	zhu shou	8
+非提助手	fei ti zhu shou	46
+遵守	zun shou	1
+不遵守	bu zun shou	1
+左手	zuo shou	1
+书	shu	41
+术	shu	2
+数	shu	1
+恕	shu	1
+树	shu	1
+搬搬书	ban ban shu	1
+红宝书	hong bao shu	10
+蓝宝书	lan bao shu	1
+陆宝书	lu bao shu	1
+绿宝书	lv bao shu	1
+公倍数	gong bei shu	1
+十几本书	shi ji ben shu	2
+两本书	liang ben shu	2
+三本书	san ben shu	1
+一本书	yi ben shu	2
+这本书	zhe ben shu	2
+买别墅	mai bie shu	1
+参数	can shu	1
+藏书	cang shu	1
+很不成熟	hen bu cheng shu	1
+买过几次书	mai guo ji ci shu	1
+线性代数	xian xing dai shu	1
+导数	dao shu	1
+读书	du shu	3
+冷读书	leng du shu	1
+大多数	da duo shu	2
+这么多书	zhe me duo shu	1
+播放数	bo fang shu	1
+分数	fen shu	5
+枫树	feng shu	2
+灌输	guan shu	1
+鬼书	gui shu	1
+函数	han shu	1
+二次函数	er ci han shu	1
+行数	hang shu	1
+计数	ji shu	1
+技术	ji shu	1
+教书	jiao shu	1
+结束	jie shu	2
+快结束	kuai jie shu	2
+金属	jin shu	1
+看书	kan shu	10
+看看书	kan kan shu	1
+教科书	jiao ke shu	2
+一棵树	yi ke shu	1
+屈指可数	qu zhi ke shu	2
+除了书	chu le shu	1
+买了书	mai le shu	2
+出不了书	chu bu liao shu	1
+买书	mai shu	9
+秘书	mi shu	1
+魔术	mo shu	3
+木薯	mu shu	1
+七叔	qi shu	1
+自然数	zi ran shu	1
+人数	ren shu	2
+杀人数	sha ren shu	1
+公车上书	gong che shang shu	1
+少数	shao shu	1
+有声书	you sheng shu	1
+历史书	li shi shu	2
+硕鼠	shuo shu	4
+特殊	te shu	1
+实体书	shi ti shu	2
+天数	tian shu	1
+听书	ting shu	2
+图书	tu shu	4
+中位数	zhong wei shu	3
+文书	wen shu	1
+小数	xiao shu	1
+小暑	xiao shu	1
+畅销书	chang xiao shu	1
+看小数	kan xiao shu	1
+写书	xie shu	1
+学术	xue shu	6
+做学术	zuo xue shu	1
+阔叶树	kuo ye shu	1
+艺术	yi shu	1
+英属	ying shu	7
+有数	you shu	1
+德语书	de yu shu	1
+日语书	ri yu shu	2
+请愿书	qing yuan shu	1
+运输	yun shu	1
+证书	zheng shu	2
+中枢	zhong shu	1
+字数	zi shu	2
+电子书	dian zi shu	8
+刷	shua	4
+戏耍	xi shua	1
+牙刷	ya shua	1
+率	shuai	1
+帅	shuai	1
+双	shuang	5
+爽	shuang	3
+霜	shuang	1
+初霜	chu shuang	1
+好爽	hao shuang	1
+很爽	hen shuang	3
+这么爽	zhe me shuang	1
+那双	na shuang	1
+砒霜	pi shuang	1
+清霜	qing shuang	1
+天霜	tian shuang	1
+水	shui	5
+睡	shui	4
+税	shui	3
+多睡	duo shui	1
+不含税	bu han shui	2
+加税	jia shui	2
+不加水	bu jia shui	1
+比较水	bi jiao shui	1
+金水	jin shui	1
+开水	kai shui	1
+口水	kou shui	1
+自来水	zi lai shui	1
+还没睡	hai mei shui	1
+墨水	mo shui	1
+潜水	qian shui	1
+小清水	xiao qing shui	1
+加上税	jia shang shui	1
+算税	suan shui	1
+停水	ting shui	1
+退税	tui shui	4
+薪水	xin shui	1
+也睡	ye shui	1
+早睡	zao shui	1
+顺	shun	2
+说	shuo	61
+别说	bie shuo	1
+不说	bu shuo	2
+你不说	ni bu shuo	1
+他不说	ta bu shuo	1
+传说	chuan shuo	2
+赛的人传说	sai de ren chuan shuo	1
+是传说	shi chuan shuo	1
+都说	dou shuo	1
+敢说	gan shuo	1
+好说	hao shuo	2
+不好说	bu hao shuo	1
+也不好说	ye bu hao shuo	1
+胡说	hu shuo	1
+话说	hua shuo	16
+华硕	hua shuo	7
+会说	hui shuo	2
+或说	huo shuo	1
+就说	jiu shuo	1
+我就说	wo jiu shuo	1
+据说	ju shuo	3
+来说	lai shuo	2
+一般来说	yi ban lai shuo	1
+总的来说	zong de lai shuo	1
+你来说	ni lai shuo	2
+我来说	wo lai shuo	2
+对于我来说	dui yu wo lai shuo	1
+怎么说	zen me shuo	1
+这么说	zhe me shuo	1
+照你这么说	zhao ni zhe me shuo	1
+他没说	ta mei shuo	1
+当我没说	dang wo mei shuo	1
+这也很难说	zhe ye hen nan shuo	1
+能说	neng shuo	1
+你说	ni shuo	7
+就跟你说	jiu gen ni shuo	1
+那你说	na ni shuo	1
+不用你说	bu yong ni shuo	1
+虽然说	sui ran shuo	1
+比如说	bi ru shuo	6
+就是说	jiu shi shuo	1
+你是说	ni shi shuo	1
+说说	shuo shuo	1
+我说说	wo shuo shuo	1
+虽说	sui shuo	1
+他说	ta shuo	5
+听说	ting shuo	6
+没听说	mei ting shuo	1
+我说	wo shuo	3
+跟我说	gen wo shuo	3
+更我说	geng wo shuo	1
+她好像说	ta hao xiang shuo	1
+小说	xiao shuo	9
+买小说	mai xiao shuo	1
+轻小说	qing xiao shuo	8
+要说	yao shuo	1
+一说	yi shuo	4
+也可以说	ye ke yi shuo	1
+至于说	zhi yu shuo	1
+再说	zai shuo	24
+荔湾再说	li wan zai shuo	1
+一篇文章说	yi pian wen zhang shuo	1
+直说	zhi shuo	1
+之说	zhi shuo	1
+死	si	3
+四	si	3
+丝	si	2
+斯	si	1
+啊抵达阿斯	a di da a si	1
+褒姒	bao si	1
+乔布斯	qiao bu si	1
+大四	da si	10
+阿迪达斯	a di da si	4
+我大四	wo da si	1
+第四	di si	1
+不饿死	bu e si	2
+该死	gai si	2
+吉格斯	ji ge si	20
+灵格斯	ling ge si	9
+公司	gong si	8
+航空公司	hang kong gong si	1
+有限公司	you xian gong si	1
+害死	hai si	1
+好似	hao si	1
+称号死	cheng hao si	1
+还好四	hai hao si	7
+恨死	hen si	1
+也会死	ye hui si	5
+克霍斯	ke huo si	1
+生或死	sheng huo si	1
+拉克丝	la ke si	10
+酷似	ku si	3
+你那么快死	ni na me kuai si	1
+莱斯	lai si	6
+兰斯	lan si	1
+类似	lei si	2
+爱丽丝	ai li si	3
+螺丝	luo si	1
+俄罗斯	e luo si	3
+貌似	mao si	1
+去貌似	qu mao si	1
+我没死	wo mei si	1
+席梦思	xi meng si	1
+拼死	pin si	1
+星期四	xing qi si	2
+杀死	sha si	1
+二十四	er shi si	1
+寿司	shou si	4
+五四	wu si	1
+雅思	ya si	1
+意思	yi si	16
+不好意思	bu hao yi si	1
+没意思	mei yi si	2
+斗没意思	dou mei yi si	1
+也没意思	ye mei yi si	1
+真没意思	zhen mei yi si	1
+很有意思	hen you yi si	2
+西园寺	xi yuan si	1
+周四	zhou si	3
+松	song	9
+送	song	3
+宋	song	2
+颂	song	1
+传送	chuan song	1
+传颂	chuan song	1
+门德尔松	men de er song	1
+放松	fang song	9
+朗诵	lang song	2
+轻松	qing song	3
+不轻松	bu qing song	1
+很轻松	hen qing song	4
+太轻松	tai qing song	1
+太怂	tai song	1
+搜	sou	3
+咳嗽	ke sou	3
+不咳嗽	bu ke sou	1
+搜搜	sou sou	1
+一艘	yi sou	1
+塑	su	1
+苏	su	1
+三倍速	san bei su	1
+告诉	gao su	3
+高速	gao su	1
+只告诉	zhi gao su	1
+他只告诉	ta zhi gao su	1
+光速	guang su	1
+寄宿	ji su	1
+加速	jia su	7
+江苏	jiang su	14
+可塑	ke su	3
+秒速	miao su	1
+神速	shen su	1
+维生素	wei sheng su	1
+像素	xiang su	2
+新宿	xin su	2
+因素	yin su	1
+住宿	zhu su	3
+算	suan	9
+不算	bu suan	3
+也不算	ye bu suan	1
+测算	ce suan	1
+醋酸	cu suan	1
+打算	da suan	4
+大蒜	da suan	1
+应该算	ying gai suan	1
+还算	hai suan	3
+划算	hua suan	1
+不划算	bu hua suan	3
+要划算	yao hua suan	1
+换算	huan suan	1
+计算	ji suan	2
+即算	ji suan	1
+自己算	zi ji suan	1
+就算	jiu suan	10
+我说了算	wo shuo le suan	1
+怎么算	zen me suan	1
+能算	neng suan	1
+按时区算	an shi qu suan	1
+算算	suan suan	1
+精打细算	jing da xi suan	1
+也算	ye suan	3
+可以算	ke yi suan	2
+又算	you suan	1
+岁	sui	2
+随	sui	2
+穗	sui	1
+零碎	ling sui	1
+千岁	qian sui	1
+玉碎	yu sui	1
+孙	sun	1
+陆谷孙	lu gu sun	1
+磨损	mo sun	1
+所	suo	6
+縮	suo	1
+锁	suo	1
+所以会所	suo yi hui suo	1
+检索	jian suo	1
+解锁	jie suo	1
+居所	ju suo	1
+利索	li suo	1
+搜索	sou suo	7
+猥琐	wei suo	1
+我所	wo suo	1
+无所	wu suo	1
+亚索	ya suo	4
+压缩	ya suo	3
+上一所	shang yi suo	1
+会有所	hui you suo	1
+住所	zhu suo	1
+她	ta	23
+他	ta	22
+它	ta	3
+塔	ta	1
+帮他	bang ta	1
+就帮他	jiu bang ta	1
+被他	bei ta	1
+打他	da ta	1
+吃蛋挞	chi dan ta	1
+等他	deng ta	1
+对他	dui ta	1
+扶他	fu ta	3
+先跟他	xian gen ta	1
+管他	guan ta	1
+黑塔	hei ta	1
+吉他	ji ta	4
+学吉他	xue ji ta	1
+我叫他	wo jiao ta	1
+我就没看他	wo jiu mei kan ta	1
+莫拉塔	mo la ta	1
+玛塔	ma ta	1
+马塔	ma ta	1
+其他	qi ta	35
+比其他	bi qi ta	1
+我其他	wo qi ta	1
+才让她	cai rang ta	1
+问他	wen ta	2
+联系他	lian xi ta	1
+太	tai	10
+台	tai	1
+变态	bian tai	13
+不太	bu tai	30
+都不太	dou bu tai	2
+还不太	hai bu tai	1
+就不太	jiu bu tai	1
+我不太	wo bu tai	3
+也不太	ye bu tai	1
+又不太	you bu tai	1
+这不太	zhe bu tai	1
+常态	chang tai	2
+睡得太	shui de tai	1
+固态	gu tai	1
+国泰	guo tai	1
+菊花台	ju hua tai	3
+十月怀胎	shi yue huai tai	1
+自己太	zi ji tai	1
+两台	liang tai	1
+那台	na tai	1
+哪台	na tai	1
+你太	ni tai	1
+三台	san tai	1
+太太	tai tai	6
+淘汰	tao tai	2
+心态	xin tai	7
+形态	xing tai	1
+我形态	wo xing tai	1
+一台	yi tai	1
+买一台	mai yi tai	1
+犹太	you tai	1
+这台	zhe tai	3
+状态	zhuang tai	5
+总之状态	zong zhi zhuang tai	1
+探	tan	6
+贪	tan	1
+痰	tan	1
+摆摊	bai tan	1
+电探	dian tan	2
+金坛	jin tan	1
+从金坛	cong jin tan	1
+论坛	lun tan	4
+微论坛	wei lun tan	1
+面谈	mian tan	1
+球探	qiu tan	1
+日谈	ri tan	1
+斯坦	si tan	2
+鲁宾斯坦	lu bin si tan	1
+谈谈	tan tan	1
+名侦探	ming zhen tan	1
+烫	tang	2
+唐	tang	1
+堂	tang	1
+冯唐	feng tang	2
+海棠	hai tang	1
+心灵鸡汤	xin ling ji tang	1
+教堂	jiao tang	2
+课堂	ke tang	2
+食堂	shi tang	7
+小食堂	xiao shi tang	1
+学校食堂	xue xiao shi tang	1
+堂堂	tang tang	1
+任天堂	ren tian tang	1
+学堂	xue tang	2
+来一趟	lai yi tang	1
+去一趟	qu yi tang	1
+玩一趟	wan yi tang	1
+掏	tao	1
+套	tao	1
+三件套	san jian tao	2
+胶套	jiao tao	1
+葡萄	pu tao	1
+乞讨	qi tao	1
+书套	shu tao	3
+外套	wai tao	1
+仙桃	xian tao	1
+一套	yi tao	4
+买了一套	mai le yi tao	1
+买一套	mai yi tao	1
+有一套	you yi tao	1
+樱桃	ying tao	1
+多特	duo te	1
+卡特	ka te	3
+布拉特	bu la te	1
+很奇特	hen qi te	1
+文森特	wen sen te	1
+亚特	ya te	2
+莫扎特	mo zha te	2
+疼	teng	1
+工藤	gong teng	1
+近藤	jin teng	1
+佐藤	zuo teng	1
+题	ti	4
+体	ti	2
+擤鼻涕	xing bi ti	1
+出题	chu ti	1
+错题	cuo ti	1
+代替	dai ti	1
+几道题	ji dao ti	1
+有几道题	you ji dao ti	1
+两道题	liang dao ti	1
+这道题	zhe dao ti	1
+电梯	dian ti	7
+第二题	di er ti	3
+黑体	hei ti	4
+阶梯	jie ti	1
+解体	jie ti	1
+具体	ju ti	10
+考题	kao ti	1
+课题	ke ti	1
+三体	san ti	2
+宋体	song ti	8
+问题	wen ti	19
+点问题	dian wen ti	1
+没问题	mei wen ti	4
+有问题	you wen ti	2
+斜体	xie ti	3
+云梯	yun ti	7
+真题	zhen ti	5
+整体	zheng ti	1
+主题	zhu ti	2
+字体	zi ti	4
+自提	zi ti	1
+总体	zong ti	1
+做题	zuo ti	2
+天	tian	29
+田	tian	9
+添	tian	1
+甜	tian	1
+龙傲天	long ao tian	1
+白天	bai tian	4
+半天	ban tian	2
+响了半天	xiang le ban tian	1
+成天	cheng tian	1
+春天	chun tian	2
+当天	dang tian	1
+早稻田	zao dao tian	3
+登天	deng tian	1
+冬天	dong tian	1
+后天	hou tian	8
+明后天	ming hou tian	3
+几天	ji tian	10
+过几天	guo ji tian	4
+好几天	hao ji tian	1
+还有几天	hai you ji tian	1
+这几天	zhe ji tian	1
+今天	jin tian	67
+从今天	cong jin tian	1
+我只是今天	wo zhi shi jin tian	1
+我今天	wo jin tian	3
+惊天	jing tian	9
+就惊天	jiu jing tian	1
+有空天	you kong tian	1
+连天	lian tian	1
+两天	liang tian	12
+过两天	guo liang tian	1
+前两天	qian liang tian	1
+一两天	yi liang tian	1
+这两天	zhe liang tian	9
+我这两天	wo zhe liang tian	1
+聊天	liao tian	3
+每天	mei tian	19
+明天	ming tian	53
+到明天	dao ming tian	1
+他明天	ta ming tian	1
+我明天	wo ming tian	1
+等哪天	deng na tian	1
+他那天	ta na tian	2
+齐天	qi tian	5
+星期天	xing qi tian	1
+这七天	zhe qi tian	1
+前天	qian tian	2
+秋天	qiu tian	4
+秋田	qiu tian	1
+三天	san tian	2
+桑田	sang tian	1
+山田	shan tian	9
+四天	si tian	1
+天天	tian tian	13
+填填	tian tian	1
+他天天	ta tian tian	1
+五天	wu tian	1
+夏天	xia tian	1
+萧天	xiao tian	4
+小田	xiao tian	1
+一天	yi tian	14
+第一天	di yi tian	1
+万一哪一天	wan yi na yi tian	1
+章泽天	zhang ze tian	1
+整天	zheng tian	2
+三整天	san zheng tian	1
+织田	zhi tian	1
+种田	zhong tian	2
+昨天	zuo tian	16
+挑	tiao	1
+条	tiao	1
+调	tiao	1
+第二条	di er tiao	1
+发条	fa tiao	6
+几条	ji tiao	1
+空调	kong tiao	1
+一条条	yi tiao tiao	1
+今日头条	jin ri tou tiao	3
+刺客信条	ci ke xin tiao	1
+一条	yi tiao	1
+吓一跳	xia yi tiao	2
+这一条	zhe yi tiao	1
+铁	tie	1
+贴	tie	1
+地铁	di tie	2
+钢铁	gang tie	1
+高铁	gao tie	2
+挺	ting	7
+听	ting	2
+停	ting	2
+厅	ting	1
+赤坂亭	chi ban ting	9
+边听	bian ting	1
+不停	bu ting	1
+餐厅	can ting	1
+咖啡厅	ka fei ting	2
+他能够听	ta neng gou ting	1
+好听	hao ting	1
+很好听	hen hao ting	1
+太好听	tai hao ting	1
+监听	jian ting	6
+就听	jiu ting	1
+客厅	ke ting	3
+雷霆	lei ting	1
+潜艇	qian ting	5
+窃听	qie ting	2
+去听	qu ting	1
+舒婷	shu ting	1
+水听	shui ting	1
+听听	ting ting	3
+潘晓婷	pan xiao ting	1
+也挺	ye ting	1
+暂停	zan ting	1
+桶	tong	2
+桐	tong	2
+痛	tong	2
+同	tong	1
+笔筒	bi tong	1
+不同	bu tong	6
+有很大不同	you hen da bu tong	1
+一些不同	yi xie bu tong	1
+专业不同	zhuan ye bu tong	1
+儿童	er tong	3
+公共交通	gong gong jiao tong	1
+酒桶	jiu tong	1
+联通	lian tong	1
+南通	nan tong	1
+普通	pu tong	8
+神通	shen tong	2
+胃痛	wei tong	1
+系统	xi tong	9
+双系统	shuang xi tong	1
+相同	xiang tong	1
+运通	yun tong	1
+总统	zong tong	1
+偷	tou	2
+头	tou	1
+骰	tou	1
+透	tou	1
+笔头	bi tou	1
+大头	da tou	1
+狗头	gou tou	4
+尖尖头	jian jian tou	2
+开头	kai tou	1
+渔人码头	yu ren ma tou	2
+冒头	mao tou	1
+石头	shi tou	4
+小石头	xiao shi tou	1
+抬头	tai tou	1
+驼头	tuo tou	1
+宣头	xuan tou	1
+选头	xuan tou	1
+噱头	xue tou	2
+枕头	zhen tou	1
+图	tu	10
+兔	tu	1
+吐	tu	1
+土	tu	1
+阿土	a tu	1
+插图	cha tu	1
+长途	chang tu	2
+冲突	chong tu	6
+地图	di tu	4
+背地图	bei di tu	1
+老地图	lao di tu	1
+小地图	xiao di tu	1
+新地图	xin di tu	1
+点兔	dian tu	1
+画图	hua tu	3
+截图	jie tu	5
+拼图	pin tu	5
+坪图	ping tu	1
+视图	shi tu	1
+光秃秃	guang tu tu	1
+新图	xin tu	1
+西雅图	xi ya tu	4
+用途	yong tu	1
+原图	yuan tu	1
+画张图	hua zhang tu	1
+这张图	zhe zhang tu	1
+中途	zhong tu	1
+团	tuan	4
+大团	da tuan	1
+打团	da tuan	1
+社团	she tuan	10
+推	tui	3
+退	tui	2
+大腿	da tui	2
+分腿	fen tui	1
+后退	hou tui	3
+快退	kuai tui	1
+跑腿	pao tui	1
+劝退	quan tui	3
+左腿	zuo tui	1
+海臀	hai tun	1
+脱	tuo	1
+墨脱	mo tuo	2
+手托	shou tuo	1
+太拖	tai tuo	1
+提托	ti tuo	1
+羊驼	yang tuo	2
+哇	wa	4
+钱啊娃娃	qian a wa wa	1
+外	wai	3
+常外	chang wai	1
+国外	guo wai	8
+课外	ke wai	3
+例外	li wai	1
+另外	ling wai	30
+帮另外	bang ling wai	1
+南外	nan wai	1
+室外	shi wai	1
+校外	xiao wai	3
+学校外	xue xiao wai	1
+意外	yi wai	1
+以外	yi wai	1
+之外	zhi wai	4
+西服之外	xi fu zhi wai	2
+网络之外	wang luo zhi wai	1
+玩	wan	17
+晚	wan	9
+万	wan	8
+完	wan	6
+碗	wan	4
+丸	wan	1
+报完	bao wan	1
+补完	bu wan	3
+不玩	bu wan	2
+不完	bu wan	1
+还读不完	hai du bu wan	1
+刚不完	gang bu wan	1
+做不完	zuo bu wan	1
+第一次玩	di yi ci wan	1
+打完	da wan	1
+没打完	mei da wan	1
+端碗	duan wan	1
+多万	duo wan	1
+干完	gan wan	1
+灌完	guan wan	1
+逛完	guang wan	1
+还玩	hai wan	1
+好晚	hao wan	1
+跟好玩	gen hao wan	1
+更好玩	geng hao wan	1
+很晚	hen wan	1
+不会玩	bu hui wan	2
+比较晚	bi jiao wan	3
+今晚	jin wan	1
+看完	kan wan	3
+考完	kao wan	5
+刚考完	gang kao wan	1
+理完	li wan	1
+玻璃碗	bo li wan	1
+亚龙湾	ya long wan	1
+没玩	mei wan	1
+能玩	neng wan	1
+去玩	qu wan	1
+出去玩	chu qu wan	1
+上玩	shang wan	4
+上完	shang wan	1
+以上玩	yi shang wan	1
+拾万	shi wan	1
+台湾	tai wan	4
+玩玩	wan wan	3
+不想玩	bu xiang wan	1
+写完	xie wan	7
+刚写完	gang xie wan	1
+我刚写完	wo gang xie wan	1
+没写完	mei xie wan	4
+还没写完	hai mei xie wan	1
+能写完	neng xie wan	1
+先写完	xian xie wan	1
+修完	xiu wan	1
+要玩	yao wan	1
+一晚	yi wan	1
+玩一玩	wan yi wan	1
+住一晚	zhu yi wan	2
+早晚	zao wan	1
+最晚	zui wan	3
+做完	zuo wan	5
+昨晚	zuo wan	1
+刚做完	gang zuo wan	1
+还没做完	hai mei zuo wan	1
+网	wang	5
+王	wang	3
+往	wang	2
+忘	wang	1
+大王	da wang	1
+供网	gong wang	1
+官网	guan wang	6
+剑网	jian wang	1
+净网	jing wang	1
+互联网	hu lian wang	1
+魔王	mo wang	2
+期望	qi wang	2
+前往	qian wang	1
+上网	shang wang	2
+失望	shi wang	1
+死亡	si wang	8
+旺旺	wang wang	1
+希望	xi wang	13
+向往	xiang wang	2
+鞋网	xie wang	1
+药王	yao wang	1
+有网	you wang	1
+因欲望	yin yu wang	1
+冤枉	yuan wang	1
+为	wei	6
+薇	wei	2
+未	wei	2
+慰	wei	2
+位	wei	1
+唯	wei	1
+安慰	an wei	1
+百味	bai wei	1
+卢本伟	lu ben wei	2
+补位	bu wei	3
+部位	bu wei	1
+津巴布韦	jin ba bu wei	1
+我补位	wo bu wei	1
+小仓位	xiao cang wei	1
+成为	cheng wei	4
+单位	dan wei	1
+随欲而为	sui yu er wei	1
+范围	fan wei	1
+的范围	de fan wei	1
+岗位	gang wei	3
+华为	hua wei	1
+结尾	jie wei	1
+文科为	wen ke wei	1
+口味	kou wei	4
+阑尾	lan wei	2
+毕业沦为	bi ye lun wei	1
+能为	neng wei	1
+挪威	nuo wei	2
+排位	pai wei	4
+评委	ping wei	1
+蔷薇	qiang wei	2
+认为	ren wei	2
+稍微	shao wei	7
+哲学思维	zhe xue si wei	1
+所谓	suo wei	5
+无所谓	wu suo wei	2
+都无所谓	dou wu suo wei	1
+也无所谓	ye wu suo wei	1
+斯坦威	si tan wei	1
+微微	wei wei	1
+五位	wu wei	1
+行为	xing wei	1
+学位	xue wei	2
+以为	yi wei	5
+一位	yi wei	1
+还以为	hai yi wei	2
+本来以为	ben lai yi wei	2
+你以为	ni yi wei	1
+因为	yin wei	27
+是因为	shi yin wei	3
+那是因为	na shi yin wei	1
+应为	ying wei	15
+时应为	shi ying wei	1
+为所欲为	wei suo yu wei	1
+职位	zhi wei	5
+中尾	zhong wei	1
+周围	zhou wei	1
+我周围	wo zhou wei	1
+作为	zuo wei	1
+问	wen	11
+文	wen	5
+温	wen	1
+闻	wen	1
+吻	wen	1
+不稳	bu wen	2
+德文	de wen	2
+俄文	e wen	1
+访问	fang wen	1
+符文	fu wen	2
+虎纹	hu wen	1
+花吻	hua wen	2
+就问	jiu wen	2
+课文	ke wen	1
+开口问	kai kou wen	1
+难以开口问	nan yi kai kou wen	1
+论文	lun wen	16
+写论文	xie lun wen	2
+气温	qi wen	2
+亲吻	qin wen	7
+请问	qing wen	8
+求问	qiu wen	2
+去问	qu wen	1
+人文	ren wen	2
+日文	ri wen	23
+瑞文	rui wen	2
+他问	ta wen	1
+问问	wen wen	2
+去问问	qu wen wen	2
+小文	xiao wen	1
+新闻	xin wen	1
+疑问	yi wen	1
+译文	yi wen	1
+也可以问	ye ke yi wen	1
+引文	yin wen	1
+英文	ying wen	3
+蔡英文	cai ying wen	1
+语文	yu wen	1
+原文	yuan wen	1
+之吻	zhi wen	2
+圣诞之吻	sheng dan zhi wen	3
+中文	zhong wen	15
+和中文	he zhong wen	1
+千字文	qian zi wen	2
+作文	zuo wen	5
+我作文	wo zuo wen	1
+我	wo	284
+倭	wo	1
+把握	ba wo	3
+有把握	you ba wo	1
+帮我	bang wo	4
+被我	bei wo	1
+都比我	dou bi wo	1
+吃我	chi wo	1
+带我	dai wo	1
+但我	dan wo	2
+当我	dang wo	1
+吓得我	xia de wo	1
+等我	deng wo	9
+肥我	fei wo	1
+马蜂窝	ma feng wo	1
+给我	gei wo	6
+打给我	da gei wo	1
+你打给我	ni da gei wo	1
+会给我	hui gei wo	1
+她给我	ta gei wo	2
+他给我	ta gei wo	1
+要给我	yao gei wo	1
+跟我	gen wo	4
+人跟我	ren gen wo	1
+这跟我	zhe gen wo	1
+更我	geng wo	1
+还怪我	hai guai wo	1
+和我	he wo	4
+叫我	jiao wo	1
+教我	jiao wo	1
+也不叫我	ye bu jiao wo	1
+觉我	jue wo	1
+看我	kan wo	5
+他看我	ta kan wo	1
+录我	lu wo	1
+那我	na wo	8
+呢我	ne wo	2
+好哦我	hao o wo	1
+请我	qing wo	2
+然我	ran wo	2
+让我	rang wo	7
+都让我	dou rang wo	1
+先让我	xian rang wo	1
+收我	shou wo	1
+也算我	ye suan wo	1
+他问我	ta wen wo	1
+要我	yao wo	3
+没要我	mei yao wo	2
+着我	zhe wo	1
+自我	zi wo	1
+五	wu	7
+无	wu	4
+吴	wu	3
+屋	wu	2
+物	wu	2
+唔	wu	1
+午	wu	1
+吾	wu	1
+八舞	ba wu	1
+百无	bai wu	1
+草屋	cao wu	1
+春物	chun wu	4
+错误	cuo wu	4
+地区码错误	di qu ma cuo wu	1
+第五	di wu	2
+动物	dong wu	1
+服务	fu wu	1
+提供服务	ti gong fu wu	1
+感悟	gan wu	2
+购物	gou wu	1
+名古屋	ming gu wu	1
+借物	jie wu	1
+觉悟	jue wu	1
+礼物	li wu	1
+女巫	nv wu	1
+星期五	xing qi wu	1
+前五	qian wu	1
+任务	ren wu	7
+日午	ri wu	1
+三无	san wu	1
+上午	shang wu	2
+商务	shang wu	1
+国际商务	guo ji shang wu	1
+生物	sheng wu	3
+失误	shi wu	2
+突兀	tu wu	1
+万物	wan wu	1
+舞舞五	wu wu wu	1
+舞舞舞	wu wu wu	1
+下午	xia wu	19
+下无	xia wu	1
+一下午	yi xia wu	1
+之物	zhi wu	7
+天降之物	tian jiang zhi wu	2
+传颂之物	chuan song zhi wu	1
+投掷物	tou zhi wu	1
+中午	zhong wu	4
+周五	zhou wu	5
+周四周五	zhou si zhou wu	1
+系	xi	12
+希	xi	2
+席	xi	1
+习	xi	1
+西	xi	1
+戏	xi	1
+洗	xi	1
+巴西	ba xi	1
+德彪西	de biao xi	2
+潮汐	chao xi	2
+城西	cheng xi	1
+出席	chu xi	1
+从西	cong xi	1
+东西	dong xi	116
+把东西	ba dong xi	1
+存东西	cun dong xi	1
+买东西	mai dong xi	5
+取东西	qu dong xi	1
+其他东西	qi ta dong xi	1
+写东西	xie dong xi	1
+这种东西	zhe zhong dong xi	1
+分析	fen xi	1
+算法分析	suan fa fen xi	1
+数据分析	shu ju fen xi	1
+复习	fu xi	5
+复习复习	fu xi fu xi	1
+恭喜	gong xi	1
+关系	guan xi	9
+没关系	mei guan xi	3
+也没关系	ye mei guan xi	4
+有关系	you guan xi	2
+没有关系	mei you guan xi	1
+呼吸	hu xi	2
+欢喜	huan xi	1
+换洗	huan xi	1
+解析	jie xi	1
+可惜	ke xi	1
+好可惜	hao ke xi	1
+麦肯锡	mai ken xi	2
+狂袭	kuang xi	1
+联系	lian xi	15
+练习	lian xi	7
+学校不帮联系	xue xiao bu bang lian xi	1
+不联系	bu lian xi	1
+没联系	mei lian xi	1
+他联系	ta lian xi	1
+再联系	zai lian xi	2
+梅西	mei xi	1
+冈崎汐	gang qi xi	1
+日系	ri xi	3
+麻生希	ma sheng xi	1
+实习	shi xi	37
+便实习	bian shi xi	2
+边实习	bian shi xi	1
+历史系	li shi xi	4
+找实习	zhao shi xi	1
+熟悉	shu xi	2
+中文系	zhong wen xi	1
+无锡	wu xi	5
+信息	xin xi	2
+基本信息	ji ben xin xi	1
+其他信息	qi ta xin xi	1
+星系	xing xi	1
+休息	xiu xi	2
+学习	xue xi	16
+深度学习	shen du xue xi	1
+机器学习	ji qi xue xi	2
+北大数学系	bei da shu xue xi	1
+语言学习	yu yan xue xi	1
+哲学系	zhe xue xi	1
+演习	yan xi	9
+说依稀	shuo yi xi	1
+游戏	you xi	26
+恐怖游戏	kong bu you xi	1
+打游戏	da you xi	1
+垃圾游戏	la ji you xi	2
+这游戏	zhe you xi	2
+珍惜	zhen xi	1
+下	xia	11
+霞	xia	2
+夏	xia	1
+放不下	fang bu xia	2
+底下	di xia	2
+我低下	wo di xia	1
+定下	ding xia	1
+犯下	fan xia	1
+放下	fang xia	2
+换下	huan xia	1
+接下	jie xia	1
+今夏	jin xia	1
+就下	jiu xia	1
+烤虾	kao xia	3
+零下	ling xia	2
+留下	liu xia	1
+楼下	lou xia	3
+我楼下	wo lou xia	1
+没下	mei xia	1
+木下	mu xia	1
+能下	neng xia	1
+皮皮虾	pi pi xia	3
+千夏	qian xia	2
+山下	shan xia	1
+上下	shang xia	1
+身下	shen xia	1
+剩下	sheng xia	3
+只剩下	zhi sheng xia	1
+收下	shou xia	1
+说下	shuo xia	1
+天下	tian xia	1
+往下	wang xia	1
+向下	xiang xia	6
+乡下	xiang xia	1
+小霞	xiao xia	1
+写下	xie xia	1
+天要下	tian yao xia	1
+一下	yi xia	41
+等一下	deng yi xia	2
+顶一下	ding yi xia	1
+百度一下	bai du yi xia	1
+发一下	fa yi xia	1
+改一下	gai yi xia	2
+看一下	kan yi xia	3
+给你看一下	gei ni kan yi xia	1
+我看一下	wo kan yi xia	1
+可以参考一下	ke yi can kao yi xia	1
+改了一下	gai le yi xia	1
+看了一下	kan le yi xia	1
+我搜了一下	wo sou le yi xia	1
+写了一下	xie le yi xia	1
+在考虑一下	zai kao lv yi xia	1
+买一下	mai yi xia	1
+去一下	qu yi xia	1
+试一下	shi yi xia	1
+我再试一下	wo zai shi yi xia	1
+帮我收一下	bang wo shou yi xia	1
+问一下	wen yi xia	3
+请问一下	qing wen yi xia	3
+我想问一下	wo xiang wen yi xia	1
+我一下	wo yi xia	1
+想一下	xiang yi xia	1
+右下	you xia	2
+学之下	xue zhi xia	1
+雪之下	xue zhi xia	1
+上中下	shang zhong xia	1
+走下	zou xia	1
+先	xian	12
+线	xian	6
+闲	xian	1
+羡	xian	1
+献	xian	1
+咸不咸	xian bu xian	1
+雪菜线	xue cai xian	1
+充电线	chong dian xian	1
+发现	fa xian	8
+才发现	cai fa xian	2
+我发现	wo fa xian	8
+新干线	xin gan xian	1
+贡献	gong xian	1
+号线	hao xian	1
+和弦	he xian	1
+我也很闲	wo ye hen xian	1
+横线	heng xian	2
+极限	ji xian	4
+艰险	jian xian	1
+离线	li xian	1
+路线	lu xian	2
+冬马线	dong ma xian	1
+明显	ming xian	3
+很明显	hen ming xian	1
+越来越明显	yue lai yue ming xian	1
+少女前线	shao nv qian xian	2
+抢先	qiang xian	1
+双曲线	shuang qu xian	1
+闪现	shan xian	1
+上限	shang xian	2
+首先	shou xian	1
+水仙	shui xian	6
+探险	tan xian	3
+凸显	tu xian	1
+危险	wei xian	3
+没危险	mei wei xian	1
+文献	wen xian	1
+我先	wo xian	4
+那我先	na wo xian	1
+无限	wu xian	3
+下线	xia xian	1
+牙线	ya xian	1
+有限	you xian	1
+在线	zai xian	1
+主线	zhu xian	1
+想	xiang	55
+像	xiang	24
+响	xiang	3
+向	xiang	2
+箱	xiang	1
+项	xiang	1
+香	xiang	1
+白想	bai xiang	2
+白箱	bai xiang	1
+别想	bie xiang	1
+带冰箱	dai bing xiang	1
+不想	bu xiang	26
+不像	bu xiang	2
+不详	bu xiang	1
+你不想	ni bu xiang	1
+只是不想	zhi shi bu xiang	1
+挺不想	ting bu xiang	1
+我不想	wo bu xiang	4
+想不想	xiang bu xiang	1
+也不想	ye bu xiang	3
+又不想	you bu xiang	1
+日常向	ri chang xiang	1
+有点像	you dian xiang	1
+都像	dou xiang	1
+我都想	wo dou xiang	1
+反向	fan xiang	1
+方向	fang xiang	4
+分享	fen xiang	3
+感想	gan xiang	1
+更想	geng xiang	1
+还想	hai xiang	4
+来还想	lai hai xiang	1
+我还想	wo hai xiang	2
+好像	hao xiang	45
+就好像	jiu hao xiang	1
+他好像	ta hao xiang	1
+我好想	wo hao xiang	1
+很想	hen xiang	4
+很像	hen xiang	1
+滑翔	hua xiang	1
+幻想	huan xiang	5
+回想	hui xiang	1
+假象	jia xiang	2
+镜像	jing xiang	5
+就像	jiu xiang	15
+我就想	wo jiu xiang	1
+烤箱	kao xiang	4
+想了想	xiang le xiang	1
+李湘	li xiang	1
+行李箱	xing li xiang	2
+两项	liang xiang	1
+存两箱	cun liang xiang	1
+化龙巷	hua long xiang	2
+乱想	luan xiang	1
+罗翔	luo xiang	1
+这么想	zhe me xiang	2
+那项	na xiang	1
+内向	nei xiang	1
+偶像	ou xiang	2
+倾向	qing xiang	5
+去想	qu xiang	1
+首相	shou xiang	1
+太像	tai xiang	1
+头像	tou xiang	2
+你头像	ni tou xiang	1
+外向	wai xiang	1
+妄想	wang xiang	21
+我想	wo xiang	27
+想想	xiang xiang	11
+想像	xiang xiang	1
+你想想	ni xiang xiang	1
+让我想想	rang wo xiang xiang	1
+再想想	zai xiang xiang	1
+小项	xiao xiang	2
+信箱	xin xiang	1
+选项	xuan xiang	2
+也想	ye xiang	1
+一项	yi xiang	1
+哪一项	na yi xiang	1
+求职意向	qiu zhi yi xiang	1
+音箱	yin xiang	1
+波多黎各印象	bo duo li ge yin xiang	1
+影响	ying xiang	5
+不影响	bu ying xiang	1
+邮箱	you xiang	13
+又想	you xiang	2
+越想	yue xiang	1
+我在想	wo zai xiang	2
+照相	zhao xiang	3
+真相	zhen xiang	1
+只想	zhi xiang	3
+纸箱	zhi xiang	1
+我只想	wo zhi xiang	1
+最想	zui xiang	2
+小	xiao	10
+校	xiao	3
+笑	xiao	1
+从小	cong xiao	1
+大小	da xiao	2
+保底校	bao di xiao	1
+高校	gao xiao	2
+很小	hen xiao	2
+哼笑	heng xiao	1
+比较小	bi jiao xiao	1
+公立校	gong li xiao	3
+咆哮	pao xiao	2
+恶龙咆哮	e long pao xiao	1
+取消	qu xiao	4
+没取消	mei qu xiao	1
+全校	quan xiao	1
+太小	tai xiao	1
+特效	te xiao	1
+微笑	wei xiao	1
+笑笑	xiao xiao	3
+小小	xiao xiao	2
+学校	xue xiao	65
+各学校	ge xue xiao	1
+好学校	hao xue xiao	5
+看学校	kan xue xiao	1
+一流学校	yi liu xue xiao	1
+去学校	qu xue xiao	2
+选学校	xuan xue xiao	2
+住学校	zhu xue xiao	1
+我想住校	wo xiang zhu xiao	1
+最小	zui xiao	1
+写	xie	45
+些	xie	3
+协	xie	1
+编写	bian xie	1
+便携	bian xie	1
+大写	da xie	1
+还有的写	hai you de xie	1
+多谢	duo xie	1
+西诶写	xi ei xie	1
+飞写	fei xie	1
+要感谢	yao gan xie	1
+好些	hao xie	2
+和邪	he xie	1
+和谐	he xie	1
+机械	ji xie	1
+讲些	jiang xie	1
+就写	jiu xie	2
+另写	ling xie	1
+怎么写	zen me xie	1
+没写	mei xie	2
+某些	mou xie	1
+那些	na xie	6
+有那些	you na xie	1
+好难写	hao nan xie	1
+太难写	tai nan xie	1
+皮鞋	pi xie	1
+拼写	pin xie	2
+器械	qi xie	1
+马上写	ma shang xie	1
+是些	shi xie	1
+手写	shou xie	6
+我手写	wo shou xie	1
+想手写	xiang shou xie	1
+每双鞋	mei shuang xie	1
+缩写	suo xie	1
+拖鞋	tuo xie	2
+要我写	yao wo xie	1
+超不想写	chao bu xiang xie	1
+谢谢	xie xie	42
+写写	xie xie	11
+多写写	duo xie xie	1
+在谢谢	zai xie xie	1
+要写	yao xie	6
+一些	yi xie	25
+大一些	da yi xie	1
+带一些	dai yi xie	1
+肯定会简单一些	ken ding hui jian dan yi xie	1
+低一些	di yi xie	1
+会低一些	hui di yi xie	1
+再读一些	zai du yi xie	1
+多一些	duo yi xie	2
+好一些	hao yi xie	2
+加一些	jia yi xie	1
+好看一些	hao kan yi xie	1
+可以写	ke yi xie	1
+卖一些	mai yi xie	1
+上一些	shang yi xie	1
+有一些	you yi xie	1
+做一些	zuo yi xie	2
+不用谢	bu yong xie	2
+再也用些	zai ye yong xie	1
+有些	you xie	8
+还有些	hai you xie	1
+在写	zai xie	1
+这些	zhe xie	7
+写这些	xie zhe xie	1
+只写	zhi xie	1
+心	xin	9
+新	xin	8
+信	xin	4
+笔芯	bi xin	23
+重新	chong xin	5
+带薪	dai xin	1
+担心	dan xin	2
+当心	dang xin	1
+电信	dian xin	12
+粗点心	cu dian xin	1
+定心	ding xin	1
+短信	duan xin	1
+恶心	e xin	2
+很高心	hen gao xin	1
+跟新	gen xin	2
+更新	geng xin	7
+不关心	bu guan xin	1
+海信	hai xin	2
+以旧换新	yi jiu huan xin	1
+推荐信	tui jian xin	13
+比较新	bi jiao xin	1
+不开心	bu kai xin	1
+摸着良心	mo zhe liang xin	1
+萌新	meng xin	3
+内心	nei xin	2
+内芯	nei xin	2
+日新	ri xin	1
+散心	san xin	3
+伤心	shang xin	4
+好伤心	hao shang xin	1
+挺伤心	ting shang xin	1
+甜心	tian xin	1
+微信	wei xin	14
+没微信	mei wei xin	1
+先微信	xian wei xin	1
+温馨	wen xin	1
+不小心	bu xiao xin	1
+一不小心	yi bu xiao xin	2
+很小心	hen xiao xin	1
+写信	xie xin	1
+信心	xin xin	1
+一心	yi xin	1
+幸运新	xing yun xin	2
+赵信	zhao xin	1
+真心	zhen xin	1
+中信	zhong xin	4
+新地中心	xin di zhong xin	1
+市中心	shi zhong xin	1
+统治中心	tong zhi zhong xin	1
+准心	zhun xin	1
+最新	zui xin	1
+行	xing	4
+性	xing	3
+星	xing	2
+杏	xing	2
+兴	xing	1
+醒	xing	1
+幸	xing	1
+必行	bi xing	5
+不行	bu xing	18
+菜得不行	cai de bu xing	1
+都不行	dou bu xing	1
+也不行	ye bu xing	1
+一直不行	yi zhi bu xing	1
+才行	cai xing	3
+吵醒	chao xing	1
+他吵醒	ta chao xing	1
+单行	dan xing	1
+典型	dian xing	1
+都行	dou xing	4
+毒性	du xing	1
+惰性	duo xing	1
+恶性	e xing	2
+而行	er xing	1
+发型	fa xing	1
+正方形	zheng fang xing	2
+飞行	fei xing	1
+高兴	gao xing	1
+不高兴	bu gao xing	1
+也就不高兴	ye jiu bu gao xing	1
+更高兴	geng gao xing	1
+很高兴	hen gao xing	1
+越高兴	yue gao xing	1
+女歌星	nv ge xing	1
+根性	gen xing	1
+更形	geng xing	1
+还行	hai xing	11
+环形	huan xing	1
+彗星	hui xing	1
+经济性	jing ji xing	1
+进行	jin xing	2
+就行	jiu xing	7
+举行	ju xing	1
+克星	ke xing	1
+不可行	bu ke xing	1
+理性	li xing	2
+关联性	guan lian xing	1
+良性	liang xing	1
+流星	liu xing	1
+旅行	lv xing	3
+在旅行	zai lv xing	1
+慢性	man xing	1
+模型	mo xing	3
+可能性	ke neng xing	1
+很清醒	hen qing xing	1
+有清醒	you qing xing	1
+安全性	an quan xing	1
+正确性	zheng que xing	1
+自然醒	zi ran xing	1
+三星	san xing	10
+属性	shu xing	2
+学术性	xue shu xing	1
+双星	shuang xing	1
+水星	shui xing	1
+可塑性	ke su xing	8
+提醒	ti xing	3
+卫星	wei xing	1
+五行	wu xing	1
+不小型	bu xiao xing	1
+杏行	xing xing	1
+选型	xuan xing	1
+血型	xue xing	2
+训醒	xun xing	1
+也行	ye xing	4
+杨永兴	yang yong xing	1
+游行	you xing	1
+自由行	zi you xing	1
+圆形	yuan xing	1
+运行	yun xing	2
+幸运星	xing yun xing	3
+阵型	zhen xing	1
+自行	zi xing	1
+凶	xiong	1
+胸	xiong	1
+白熊	bai xiong	1
+郭伯雄	guo bo xiong	1
+英雄	ying xiong	13
+修	xiu	1
+必修	bi xiu	3
+比必修	bi bi xiu	1
+改修	gai xiu	5
+害羞	hai xiu	1
+鲁鲁修	lu lu xiu	17
+鲁路修	lu lu xiu	7
+马修	ma xiu	1
+很清秀	hen qing xiu	1
+太秀	tai xiu	1
+维修	wei xiu	1
+无修	wu xiu	2
+要修	yao xiu	1
+优秀	you xiu	1
+市中修	shi zhong xiu	1
+恤	xu	4
+虚	xu	3
+程序	cheng xu	18
+写程序	xie cheng xu	1
+言承旭	yan cheng xu	2
+含蓄	han xu	1
+或许	huo xu	1
+继续	ji xu	5
+连续	lian xu	3
+木须	mu xu	1
+排序	pai xu	1
+情绪	qing xu	1
+闹情绪	nao qing xu	1
+顺序	shun xu	2
+断断续续	duan duan xu xu	2
+也许	ye xu	3
+选	xuan	20
+眩	xuan	1
+才选	cai xuan	1
+初选	chu xuan	1
+大选	da xuan	1
+都选	dou xuan	1
+会选	hui xuan	1
+精选	jing xuan	2
+没选	mei xuan	2
+我没选	wo mei xuan	1
+斡旋	wo xuan	1
+想选	xiang xuan	1
+萧亚轩	xiao ya xuan	1
+子轩	zi xuan	6
+子軒	zi xuan	1
+李子轩	li zi xuan	27
+里子轩	li zi xuan	2
+学	xue	19
+雪	xue	7
+血	xue	4
+白学	bai xue	1
+不学	bu xue	2
+吹雪	chui xue	2
+大学	da xue	16
+好大学	hao da xue	1
+同济大学	tong ji da xue	1
+南京大学	nan jing da xue	1
+上大学	shang da xue	1
+我大学	wo da xue	1
+化学	hua xue	1
+经济学	jing ji xue	1
+开学	kai xue	6
+刚开学	gang kai xue	1
+我开学	wo kai xue	1
+科学	ke xue	6
+社会科学	she hui ke xue	2
+数据科学	shu ju ke xue	1
+留学	liu xue	1
+磨削	mo xue	1
+能学	neng xue	1
+去学	qu xue	1
+就去学	jiu qu xue	1
+深雪	shen xue	2
+嗜血	shi xue	3
+失学	shi xue	1
+数学	shu xue	51
+阅读数学	yue du shu xue	1
+和数学	he shu xue	1
+组合数学	zu he shu xue	1
+经济数学	jing ji shu xue	1
+我数学	wo shu xue	3
+同学	tong xue	10
+和同学	he tong xue	1
+退学	tui xue	1
+文学	wen xue	13
+日本文学	ri ben wen xue	1
+世界文学	shi jie wen xue	1
+青色文学	qing se wen xue	1
+下雪	xia xue	1
+想学	xiang xue	1
+小学	xiao xue	1
+玄学	xuan xue	1
+学学	xue xue	2
+太阳穴	tai yang xue	2
+不也学	bu ye xue	1
+哲学	zhe xue	1
+自学	zi xue	13
+我自学	wo zi xue	1
+薰	xun	1
+查询	cha xun	1
+雷巡	lei xun	1
+鲁迅	lu xun	3
+亚马逊	ya ma xun	8
+轻巡	qing xun	3
+上旬	shang xun	1
+腾讯	teng xun	8
+重巡	zhong xun	4
+中旬	zhong xun	3
+咨询	zi xun	5
+自寻	zi xun	1
+呀	ya	5
+亚	ya	2
+芽	ya	1
+压	ya	1
+西班牙	xi ban ya	1
+哥伦比亚	ge lun bi ya	10
+的呀	de ya	1
+东亚	dong ya	13
+好压	hao ya	1
+虎牙	hu ya	2
+诺基亚	nuo ji ya	1
+解压	jie ya	2
+长了颗牙	zhang le ke ya	1
+一颗牙	yi ke ya	1
+普拉亚	pu la ya	1
+蓝牙	lan ya	12
+就好了呀	jiu hao le ya	1
+取消了呀	qu xiao le ya	1
+叙利亚	xu li ya	2
+伊莉雅	yi li ya	5
+一例呀	yi li ya	1
+米娅	mi ya	1
+日亚	ri ya	2
+三亚	san ya	4
+生涯	sheng ya	1
+天涯	tian ya	1
+桐亚	tong ya	3
+乌鸦	wu ya	1
+德玛西亚	de ma xi ya	1
+象牙	xiang ya	1
+位移性低血压	wei yi xing di xue ya	1
+中亚	zhong ya	1
+焱	yan	2
+验	yan	2
+眼	yan	2
+研	yan	1
+宴	yan	1
+焰	yan	1
+读研	du yan	4
+我好言	wo hao yan	1
+谎言	huang yan	9
+四月是你的谎言	si yue shi ni de huang yan	1
+经验	jing yan	3
+惊艳	jing yan	1
+科研	ke yan	2
+两眼	liang yan	1
+麻辣盛宴	ma la sheng yan	1
+实验	shi yan	2
+讨厌	tao yan	4
+都讨厌	dou tao yan	1
+好讨厌	hao tao yan	1
+很讨厌	hen tao yan	3
+我很讨厌	wo hen tao yan	1
+挺讨厌	ting tao yan	2
+我讨厌	wo tao yan	2
+越讨厌	yue tao yan	1
+最讨厌	zui tao yan	1
+体验	ti yan	4
+阑尾炎	lan wei yan	2
+无言	wu yan	2
+很显眼	hen xian yan	1
+语言	yu yan	27
+新语言	xin yu yan	1
+学语言	xue yu yan	4
+转眼	zhuan yan	2
+一转眼	yi zhuan yan	2
+灼眼	zhuo yan	5
+样	yang	9
+央	yang	1
+养	yang	1
+重阳	chong yang	1
+各样	ge yang	1
+溃疡	kui yang	2
+溧阳	li yang	1
+什么样	shen me yang	1
+怎么样	zen me yang	4
+水平怎么样	shui ping zen me yang	1
+那样	na yang	3
+培养	pei yang	4
+式样	shi yang	1
+体阳	ti yang	1
+像样	xiang yang	1
+斜阳	xie yang	2
+一样	yi yang	42
+抑扬	yi yang	1
+不一样	bu yi yang	11
+都不一样	dou bu yi yang	1
+很不一样	hen bu yi yang	2
+他不一样	ta bu yi yang	1
+错一样	cuo yi yang	1
+都一样	dou yi yang	3
+也一样	ye yi yang	1
+鹰扬	ying yang	1
+与杨	yu yang	3
+怎样	zen yang	3
+这样	zhe yang	73
+都这样	dou zhe yang	1
+就这样	jiu zhe yang	3
+那这样	na zhe yang	1
+我这样	wo zhe yang	1
+像这样	xiang zhe yang	1
+长这样	zhang zhe yang	1
+中央	zhong yang	1
+要	yao	118
+遥	yao	2
+必要	bi yao	3
+很有必要	hen you bi yao	1
+还有没有必要	hai you mei you bi yao	1
+不要	bu yao	28
+都不要	dou bu yao	1
+要不要	yao bu yao	16
+考虑要不要	kao lv yao bu yao	1
+又不要	you bu yao	1
+都要	dou yao	8
+大家都要	da jia dou yao	1
+非要	fei yao	1
+还要	hai yao	35
+你还要	ni hai yao	1
+我还要	wo hai yao	3
+好要	hao yao	1
+估计要	gu ji yao	1
+就要	jiu yao	12
+那就要	na jiu yao	1
+我就要	wo jiu yao	3
+快要	kuai yao	3
+民谣	min yao	2
+你要	ni yao	7
+有人要	you ren yao	2
+至少要	zhi shao yao	1
+谁要	shei yao	24
+是要	shi yao	6
+户松遥	hu song yao	1
+他要	ta yao	1
+很讨要	hen tao yao	1
+胃药	wei yao	1
+我要	wo yao	18
+先要	xian yao	4
+我先要	wo xian yao	1
+想要	xiang yao	12
+好像要	hao xiang yao	1
+你想要	ni xiang yao	1
+只想要	zhi xiang yao	1
+逍遥	xiao yao	1
+需要	xu yao	5
+不需要	bu xu yao	6
+需不需要	xu bu xu yao	1
+就需要	jiu xu yao	2
+有需要	you xu yao	1
+消炎药	xiao yan yao	1
+也要	ye yao	8
+那也要	na ye yao	1
+我也要	wo ye yao	1
+应邀	ying yao	1
+又要	you yao	3
+这要	zhe yao	1
+只要	zhi yao	28
+我只要	wo zhi yao	5
+重要	zhong yao	8
+不重要	bu zhong yao	2
+跟重要	gen zhong yao	1
+最重要	zui zhong yao	4
+主要	zhu yao	32
+总要	zong yao	2
+也	ye	136
+页	ye	14
+野	ye	1
+夜	ye	1
+熬夜	ao ye	1
+半夜	ban ye	1
+毕业	bi ye	30
+刚毕业	gang bi ye	1
+离毕业	li bi ye	2
+里毕业	li bi ye	1
+我毕业	wo bi ye	1
+要毕业	yao bi ye	2
+夜毕业	ye bi ye	1
+一毕业	yi bi ye	1
+早毕业	zao bi ye	2
+致毕业	zhi bi ye	1
+注册也	zhu ce ye	1
+打野	da ye	8
+大爷	da ye	6
+不打野	bu da ye	1
+倒也	dao ye	1
+想你的夜	xiang ni de ye	1
+波多野	bo duo ye	1
+扉页	fei ye	1
+过夜	guo ye	5
+行业	hang ye	8
+计算机行业	ji suan ji hang ye	1
+咨询行业	zi xun hang ye	1
+菅野	jian ye	1
+觉也	jiao ye	1
+就业	jiu ye	7
+傅立叶	fu li ye	1
+两页	liang ye	1
+前两页	qian liang ye	1
+茅野	mao ye	3
+摩耶	mo ye	1
+你也	ni ye	2
+商业	shang ye	1
+深夜	shen ye	4
+事业	shi ye	2
+没视野	mei shi ye	2
+梦十夜	meng shi ye	1
+刷野	shua ye	3
+他也	ta ye	1
+停业	ting ye	1
+网页	wang ye	1
+我也	wo ye	33
+小野	xiao ye	5
+熊野	xiong ye	1
+咨询业	zi xun ye	1
+摇曳	yao ye	7
+夜夜	ye ye	1
+一夜	yi ye	1
+营业	ying ye	1
+再也	zai ye	2
+置业	zhi ye	1
+职业	zhi ye	1
+银河铁道之夜	yin he tie dao zhi ye	1
+主页	zhu ye	2
+个人主页	ge ren zhu ye	1
+专业	zhuan ye	27
+副专业	fu zhuan ye	1
+好专业	hao zhuan ye	1
+选专业	xuan zhuan ye	1
+日语专业	ri yu zhuan ye	1
+这种专业	zhe zhong zhuan ye	1
+住专业	zhu zhuan ye	1
+转专业	zhuan zhuan ye	1
+子夜	zi ye	1
+子页	zi ye	1
+作业	zuo ye	14
+写作业	xie zuo ye	7
+看书写作业	kan shu xie zuo ye	1
+在写作业	zai xie zuo ye	2
+做作业	zuo zuo ye	1
+一	yi	15
+乙	yi	3
+伊	yi	3
+翼	yi	2
+溢	yi	1
+译	yi	1
+亿	yi	1
+咦	yi	1
+易	yi	1
+义	yi	1
+已	yi	1
+阿姨	a yi	3
+创意	chuang yi	1
+大一	da yi	6
+答疑	da yi	1
+我大一	wo da yi	1
+得以	de yi	1
+得益	de yi	1
+不到万不得已	bu dao wan bu de yi	1
+第一	di yi	9
+全美第一	quan mei di yi	1
+排第一	pai di yi	1
+定义	ding yi	1
+而已	er yi	67
+儿一	er yi	1
+储备而已	chu bei er yi	1
+看不到而已	kan bu dao er yi	1
+后悔而已	hou hui er yi	1
+课而已	ke er yi	1
+说说而已	shuo shuo er yi	1
+写而已	xie er yi	1
+用语而已	yong yu er yi	1
+翻译	fan yi	4
+诡异	gui yi	1
+换一	huan yi	1
+会议	hui yi	2
+回忆	hui yi	2
+秋之回忆	qiu zhi hui yi	12
+记忆	ji yi	8
+可塑性记忆	ke su xing ji yi	2
+建议	jian yi	1
+结衣	jie yi	1
+可以	ke yi	76
+不可以	bu ke yi	2
+都可以	dou ke yi	3
+还可以	hai ke yi	3
+就可以	jiu ke yi	3
+你可以	ni ke yi	2
+是可以	shi ke yi	2
+他可以	ta ke yi	1
+我可以	wo ke yi	2
+也可以	ye ke yi	13
+李毅	li yi	2
+利益	li yi	1
+礼仪	li yi	1
+司马懿	si ma yi	1
+难以	nan yi	1
+却难以	que nan yi	1
+内衣	nei yi	2
+便宜	pian yi	12
+还便宜	hai pian yi	1
+好便宜	hao pian yi	2
+较便宜	jiao pian yi	1
+又便宜	you pian yi	1
+最便宜	zui pian yi	2
+下个星期一	xia ge xing qi yi	1
+日益	ri yi	2
+日裔	ri yi	1
+容易	rong yi	3
+不容易	bu rong yi	3
+很容易	hen rong yi	2
+比较容易	bi jiao rong yi	1
+挺容易	ting rong yi	1
+也挺容易	ye ting rong yi	1
+如意	ru yi	1
+十一	shi yi	1
+双翼	shuang yi	1
+撕衣	si yi	1
+素以	su yi	3
+随意	sui yi	3
+所以	suo yi	68
+躺椅	tang yi	1
+天翼	tian yi	1
+洛天依	luo tian yi	1
+我不同意	wo bu tong yi	1
+卡哇伊	ka wa yi	1
+玩意	wan yi	3
+万一	wan yi	1
+什么玩意	shen me wan yi	1
+网易	wang yi	17
+卫衣	wei yi	4
+徐逸	xu yi	2
+颜艺	yan yi	1
+意义	yi yi	1
+投影仪	tou ying yi	1
+浴衣	yu yi	1
+愿意	yuan yi	3
+不愿意	bu yuan yi	5
+我不愿意	wo bu yuan yi	1
+跟愿意	gen yuan yi	1
+更愿意	geng yuan yi	1
+你愿意	ni yuan yi	1
+我也愿意	wo ye yuan yi	1
+在意	zai yi	2
+不在意	bu zai yi	1
+战衣	zhan yi	1
+三大战役	san da zhan yi	1
+这一	zhe yi	1
+之一	zhi yi	1
+三分之一	san fen zhi yi	1
+关智一	guan zhi yi	1
+悠久之翼	you jiu zhi yi	1
+周一	zhou yi	7
+下周一	xia zhou yi	3
+主义	zhu yi	2
+注意	zhu yi	1
+资本主义	zi ben zhu yi	1
+音	yin	3
+因	yin	3
+银	yin	1
+尹	yin	1
+纯音	chun yin	2
+听纯音	ting chun yin	1
+打印	da yin	3
+低音	di yin	4
+电音	dian yin	1
+读音	du yin	1
+发音	fa yin	2
+高音	gao yin	1
+男高音	nan gao yin	2
+氧化银	yang hua yin	1
+江阴	jiang yin	1
+录音	lu yin	2
+配音	pei yin	2
+拼音	pin yin	2
+破音	po yin	1
+轻音	qing yin	8
+上瘾	shang yin	2
+小舌音	xiao she yin	1
+声音	sheng yin	5
+没声音	mei sheng yin	2
+筒隐	tong yin	1
+视为因	shi wei yin	1
+巡音	xun yin	2
+语音	yu yin	16
+无语音	wu yu yin	1
+游戏语音	you xi yu yin	1
+原因	yuan yin	7
+元音	yuan yin	1
+之音	zhi yin	1
+天籁之音	tian lai zhi yin	1
+山之音	shan zhi yin	1
+中银	zhong yin	1
+重音	zhong yin	1
+注音	zhu yin	1
+英	ying	15
+影	ying	7
+灯影	deng ying	1
+电影	dian ying	1
+反应	fan ying	1
+没反应	mei fan ying	1
+欢迎	huan ying	2
+最受欢迎	zui shou huan ying	1
+极影	ji ying	3
+巨硬	ju ying	3
+刘若英	liu ruo ying	1
+不适应	bu shi ying	2
+小樱	xiao ying	1
+育婴	yu ying	3
+元婴	yuan ying	1
+哟	yo	2
+啊哟	a yo	1
+没哟	mei yo	1
+也没哟	ye mei yo	1
+用	yong	40
+不用	bu yong	21
+都不用	dou bu yong	1
+也不用	ye bu yong	6
+又不用	you bu yong	1
+常用	chang yong	5
+费用	fei yong	2
+公用	gong yong	1
+也够用	ye gou yong	1
+好用	hao yong	1
+凑合凑合用	cou he cou he yong	1
+那就用	na jiu yong	1
+利用	li yong	1
+卵用	luan yong	1
+有什么用	you shen me yong	1
+怎么用	zen me yong	3
+没用	mei yong	1
+也没用	ye mei yong	2
+能用	neng yong	1
+不能用	bu neng yong	2
+哦用	o yong	1
+蹼泳	pu yong	1
+使用	shi yong	2
+食用	shi yong	1
+应该使用	ying gai shi yong	1
+我用	wo yong	1
+很想用	hen xiang yong	1
+烤箱用	kao xiang yong	1
+要用	yao yong	4
+我要用	wo yao yong	1
+可以用	ke yi yong	5
+都可以用	dou ke yi yong	1
+我也可以用	wo ye ke yi yong	1
+应用	ying yong	3
+游泳	you yong	6
+有用	you yong	1
+很有用	hen you yong	1
+有没有用	you mei you yong	1
+也有用	ye you yong	1
+自由泳	zi you yong	1
+外语用	wai yu yong	1
+运用	yun yong	1
+占用	zhan yong	1
+有	you	139
+又	you	24
+友	you	3
+优	you	2
+才有	cai you	2
+这才有	zhe cai you	1
+但又	dan you	1
+不一定有	bu yi ding you	1
+都有	dou you	8
+都由	dou you	1
+各有	ge you	1
+更有	geng you	1
+哈有	ha you	1
+还有	hai you	88
+我还有	wo hai you	4
+好友	hao you	1
+很有	hen you	3
+会有	hui you	6
+集邮	ji you	1
+加油	jia you	1
+两江游	liang jiang you	1
+就有	jiu you	2
+我就有	wo jiu you	1
+这么早就有	zhe me zao jiu you	1
+具有	ju you	1
+捞油	lao you	1
+理由	li you	2
+马路油	ma lu you	1
+旅游	lv you	3
+么有	me you	1
+没有	mei you	162
+我并没有	wo bing mei you	1
+那倒没有	na dao mei you	1
+都没有	dou mei you	19
+还没有	hai mei you	16
+很没有	hen mei you	1
+就没有	jiu mei you	1
+你没有	ni mei you	1
+是没有	shi mei you	1
+挺没有	ting mei you	1
+我没有	wo mei you	5
+学校没有	xue xiao mei you	1
+也没有	ye mei you	11
+有没有	you mei you	9
+或者没有	huo zhe mei you	2
+梦游	meng you	1
+木有	mu you	4
+幕友	mu you	1
+女友	nv you	1
+我女友	wo nv you	2
+么哦有	me o you	1
+朋友	peng you	6
+无出其右	wu chu qi you	1
+穷游	qiong you	1
+全有	quan you	1
+声优	sheng you	1
+室友	shi you	16
+是有	shi you	1
+是由	shi you	1
+历史有	li shi you	1
+你室友	ni shi you	1
+前室友	qian shi you	1
+他室友	ta shi you	2
+我室友	wo shi you	2
+找室友	zhao shi you	2
+手游	shou you	4
+所有	suo you	14
+挺有	ting you	1
+还挺有	hai ting you	1
+偷油	tou you	2
+西雅图有	xi ya tu you	1
+我有	wo you	6
+我又	wo you	2
+稀有	xi you	1
+好像有	hao xiang you	1
+小右	xiao you	6
+学校有	xue xiao you	2
+亚油	ya you	1
+要有	yao you	2
+也有	ye you	11
+夜游	ye you	1
+可以有	ke yi you	1
+原有	yuan you	1
+再有	zai you	2
+只有	zhi you	60
+都只有	dou zhi you	1
+就只有	jiu zhi you	5
+可只有	ke zhi you	1
+我只有	wo zhi you	3
+也只有	ye zhi you	2
+自由	zi you	4
+自有	zi you	1
+椰子油	ye zi you	1
+总有	zong you	1
+最有	zui you	1
+左右	zuo you	27
+与	yu	14
+语	yu	9
+于	yu	9
+玉	yu	1
+裕	yu	1
+羽	yu	1
+域	yu	1
+御	yu	1
+鱼	yu	1
+雨	yu	1
+余	yu	1
+鲍鱼	bao yu	1
+比喻	bi yu	1
+冰雨	bing yu	2
+参与	can yu	2
+大雨	da yu	1
+相当于	xiang dang yu	1
+德语	de yu	97
+看德语	kan de yu	2
+不等于	bu deng yu	1
+斗鱼	dou yu	9
+都与	dou yu	1
+对于	dui yu	6
+我对于	wo dui yu	1
+俄语	e yu	8
+发育	fa yu	5
+法语	fa yu	1
+要发育	yao fa yu	1
+防御	fang yu	1
+赋予	fu yu	1
+浮于	fu yu	1
+公寓	gong yu	4
+古玉	gu yu	1
+关于	guan yu	3
+光玉	guang yu	1
+国誉	guo yu	3
+外国语	wai guo yu	1
+现代汉语	xian dai han yu	2
+话语	hua yu	2
+华语	hua yu	1
+基于	ji yu	1
+都给予	dou ji yu	1
+李嘉玉	li jia yu	1
+将于	jiang yu	1
+教育	jiao yu	4
+介于	jie yu	1
+口语	kou yu	3
+快宇	kuai yu	1
+狼与	lang yu	6
+领域	ling yu	1
+落语	luo yu	1
+梅雨	mei yu	2
+少女与	shao nv yu	1
+鸦片鱼	ya pian yu	1
+且听琴语	qie ting qin yu	1
+日语	ri yu	73
+恶魔日语	e mo ri yu	2
+学日语	xue ri yu	2
+荣誉	rong yu	10
+鳝鱼	shan yu	1
+齐齐鳝鱼	qi qi shan yu	1
+神域	shen yu	28
+刀剑神域	dao jian shen yu	7
+剩余	sheng yu	3
+生育	sheng yu	3
+时雨	shi yu	1
+属于	shu yu	1
+双语	shuang yu	16
+死于	si yu	1
+不遂与	bu sui yu	1
+体育	ti yu	13
+算体育	suan ti yu	1
+外语	wai yu	3
+婉语	wan yu	1
+三文鱼	san wen yu	1
+物语	wu yu	7
+化物语	hua wu yu	3
+下雨	xia yu	2
+倾向于	qing xiang yu	1
+小于	xiao yu	1
+远小于	yuan xiao yu	1
+抑郁	yi yu	1
+音域	yin yu	2
+英语	ying yu	9
+绰绰有余	chuo chuo you yu	1
+煜煜煜	yu yu yu	1
+炸鱼	zha yu	5
+章鱼	zhang yu	1
+治愈	zhi yu	9
+至于	zhi yu	3
+致郁	zhi yu	1
+钱知昱	qian zhi yu	2
+终于	zhong yu	8
+元	yuan	6
+院	yuan	4
+缘	yuan	3
+员	yuan	3
+原	yuan	2
+园	yuan	1
+愿	yuan	1
+圆	yuan	1
+远	yuan	1
+抱怨	bao yuan	3
+成员	cheng yuan	1
+川原	chuan yuan	3
+次元	ci yuan	1
+版次元	ban ci yuan	1
+二次元	er ci yuan	2
+单元	dan yuan	2
+电源	dian yuan	1
+运动员	yun dong yuan	1
+多元	duo yuan	1
+二元	er yuan	1
+幼儿园	you er yuan	1
+根源	gen yuan	1
+更远	geng yuan	1
+宫园	gong yuan	1
+领航员	ling hang yuan	1
+花园	hua yuan	1
+还原	huan yuan	1
+会员	hui yuan	6
+大纪元	da ji yuan	3
+乐园	le yuan	1
+恐龙园	kong long yuan	1
+美元	mei yuan	9
+宁愿	ning yuan	2
+我宁愿	wo ning yuan	1
+欧元	ou yuan	2
+情缘	qing yuan	2
+人员	ren yuan	1
+日元	ri yuan	10
+社员	she yuan	1
+疏远	shu yuan	2
+寺院	si yuan	1
+夙愿	su yuan	1
+挺远	ting yuan	1
+还挺远	hai ting yuan	1
+去挺远	qu ting yuan	1
+我院	wo yuan	4
+公务员	gong wu yuan	1
+小圆	xiao yuan	16
+校园	xiao yuan	2
+小缘	xiao yuan	2
+许愿	xu yuan	1
+程序员	cheng xu yuan	4
+学院	xue yuan	1
+学员	xue yuan	1
+文理学院	wen li xue yuan	1
+商学院	shang xue yuan	2
+医学院	yi xue yuan	1
+医院	yi yuan	5
+儿童医院	er tong yi yuan	1
+电影院	dian ying yuan	3
+御苑	yu yuan	1
+支援	zhi yuan	3
+资源	zi yuan	4
+打字员	da zi yuan	1
+月	yue	78
+越	yue	6
+白月	bai yue	1
+包月	bao yue	1
+手机包月	shou ji bao yue	1
+古典乐	gu dian yue	1
+订阅	ding yue	1
+绯月	fei yue	2
+个月	ge yue	2
+半个月	ban ge yue	1
+上个月	shang ge yue	1
+四个月	si ge yue	1
+一个月	yi ge yue	9
+用一个月	yong yi ge yue	1
+我这个月	wo zhe ge yue	1
+龟月	gui yue	1
+红月	hong yue	1
+寂月	ji yue	16
+打击乐	da ji yue	1
+简月	jian yue	1
+越看越	yue kan yue	1
+越来越	yue lai yue	1
+捞月	lao yue	1
+里约	li yue	1
+美月	mei yue	1
+明月	ming yue	1
+秦时明月	qin shi ming yue	1
+纽约	niu yue	5
+配乐	pei yue	9
+选配乐	xuan pei yue	1
+七月	qi yue	2
+器乐	qi yue	1
+秋月	qiu yue	6
+如月	ru yue	4
+三月	san yue	3
+神月	shen yue	2
+十月	shi yue	3
+四月	si yue	43
+五月	wu yue	1
+十一月	shi yi yue	1
+音乐	yin yue	10
+纯音乐	chun yin yue	1
+云音乐	yun yin yue	5
+网易云音乐	wang yi yun yin yue	4
+云影月	yun ying yue	1
+预约	yu yue	2
+云	yun	5
+运	yun	1
+彩云	cai yun	1
+德云	de yun	1
+百度云	bai du yun	1
+欧陆纷纭	ou lu fen yun	1
+风云	feng yun	2
+祝好运	zhu hao yun	1
+阿里云	a li yun	2
+命运	ming yun	22
+瑞云	rui yun	5
+托运	tuo yun	1
+网易云	wang yi yun	1
+杂	za	1
+打打杂	da da za	1
+复杂	fu za	1
+很复杂	hen fu za	1
+闲杂	xian za	1
+在	zai	189
+再	zai	41
+载	zai	1
+报在	bao zai	1
+比在	bi zai	1
+并在	bing zai	1
+不再	bu zai	2
+不在	bu zai	1
+都不在	dou bu zai	2
+又不在	you bu zai	1
+你存在	ni cun zai	2
+呆在	dai zai	6
+垫在	dian zai	1
+丢在	diu zai	1
+都在	dou zai	9
+大家都在	da jia dou zai	1
+对在	dui zai	1
+放在	fang zai	5
+不放在	bu fang zai	1
+分在	fen zai	1
+打工仔	da gong zai	1
+还在	hai zai	4
+我还在	wo hai zai	4
+好在	hao zai	1
+很在	hen zai	2
+花在	hua zai	2
+加载	jia zai	2
+加在	jia zai	1
+就在	jiu zai	4
+开在	kai zai	1
+连在	lian zai	1
+留在	liu zai	14
+都留在	dou liu zai	1
+会留在	hui liu zai	1
+还停留在	hai ting liu zai	1
+你在	ni zai	2
+牛仔	niu zai	1
+星际牛仔	xing ji niu zai	1
+人在	ren zai	1
+生在	sheng zai	1
+都发生在	dou fa sheng zai	1
+实在	shi zai	17
+算在	suan zai	3
+不算在	bu suan zai	1
+我也算在	wo ye suan zai	1
+躺在	tang zai	2
+还停在	hai ting zai	1
+我在	wo zai	25
+我再	wo zai	2
+下载	xia zai	12
+现在	xian zai	129
+比现在	bi xian zai	1
+到现在	dao xian zai	5
+用到现在	yong dao xian zai	1
+你现在	ni xian zai	2
+他现在	ta xian zai	3
+我现在	wo xian zai	57
+以我现在	yi wo xian zai	1
+用现在	yong xian zai	1
+想在	xiang zai	3
+卸载	xie zai	9
+写在	xie zai	2
+笔写在	bi xie zai	1
+要在	yao zai	6
+也在	ye zai	1
+用在	yong zai	1
+悠哉	you zai	9
+我又在	wo you zai	1
+站在	zhan zai	1
+这在	zhe zai	1
+正在	zheng zai	1
+只在	zhi zai	1
+一直在	yi zhi zai	1
+住在	zhu zai	2
+还能住在	hai neng zhu zai	1
+短暂	duan zan	1
+三藏	san zang	1
+早	zao	4
+造	zao	1
+乱七八糟	luan qi ba zao	1
+创造	chuang zao	1
+一大早	yi da zao	2
+浮躁	fu zao	1
+改造	gai zao	2
+洗了个澡	xi le ge zao	1
+洗个澡	xi ge zao	1
+海藻	hai zao	1
+还早	hai zao	1
+很早	hen zao	2
+还很早	hai hen zao	1
+大型建造	da xing jian zao	2
+白降噪	bai jiang zao	1
+主动降噪	zhu dong jiang zao	1
+比较早	bi jiao zao	1
+枯燥	ku zao	2
+不枯燥	bu ku zao	1
+老早	lao zao	1
+我老早	wo lao zao	1
+捏造	nie zao	1
+比我早	bi wo zao	1
+最早	zui zao	1
+规则	gui ze	2
+细则	xi ze	1
+仙则	xian ze	1
+选择	xuan ze	10
+点选择	dian xuan ze	1
+老贼	lao zei	1
+你怎	ni zen	1
+增	zeng	1
+曾	zeng	1
+与日俱增	yu ri ju zeng	1
+小木曾	xiao mu zeng	1
+渣	zha	2
+爆炸	bao zha	2
+瞬间爆炸	shun jian bao zha	1
+结扎	jie zha	2
+敲诈	qiao zha	1
+人渣	ren zha	6
+学渣	xue zha	4
+渣渣	zha zha	1
+宅	zhai	5
+死肥宅	si fei zhai	1
+很宅	hen zhai	2
+入宅	ru zhai	2
+死宅	si zhai	4
+狭窄	xia zhai	1
+窄窄	zhai zhai	1
+站	zhan	27
+展	zhan	2
+战	zhan	2
+占	zhan	2
+百战	bai zhan	1
+二战	er zhan	1
+发展	fa zhan	3
+航战	hang zhan	2
+会战	hui zhan	1
+漫展	man zhan	1
+萌战	meng zhan	1
+内战	nei zhan	1
+新宿站	xin su zhan	2
+团战	tuan zhan	1
+网站	wang zhan	12
+小站	xiao zhan	1
+学战	xue zhan	5
+血战	xue zhan	1
+学站	xue zhan	1
+夜战	ye zhan	2
+之战	zhi zhan	1
+大作战	da zuo zhan	1
+帐	zhang	2
+长	zhang	1
+张	zhang	1
+章	zhang	1
+班长	ban zhang	1
+保障	bao zhang	1
+船长	chuan zhang	3
+钱还没到帐	qian hai mei dao zhang	1
+大队长	da dui zhang	2
+二章	er zhang	1
+发张	fa zhang	1
+故障	gu zhang	1
+生物股长	sheng wu gu zhang	1
+金馆长	jin guan zhang	1
+慌张	huang zhang	1
+紧张	jin zhang	1
+太紧张	tai jin zhang	1
+挺紧张	ting jin zhang	1
+两张	liang zhang	2
+列张	lie zhang	1
+第六章	di liu zhang	1
+那张	na zhang	1
+膨胀	peng zhang	1
+夏目友人帐	xia mu you ren zhang	1
+第三章	di san zhang	1
+所长	suo zhang	1
+王长	wang zhang	1
+文章	wen zhang	28
+一篇文章	yi pian wen zhang	1
+写文章	xie wen zhang	8
+夕张	xi zhang	2
+学长	xue zhang	5
+一张	yi zhang	5
+增长	zeng zhang	1
+这张	zhe zhang	1
+找	zhao	11
+招	zhao	4
+赵	zhao	2
+照	zhao	2
+昭	zhao	1
+按照	an zhao	4
+会按照	hui an zhao	1
+够不着	gou bu zhao	1
+睡不着	shui bu zhao	5
+越睡不着	yue shui bu zhao	1
+那也用不着	na ye yong bu zhao	1
+大招	da zhao	1
+对照	dui zhao	1
+好找	hao zhao	1
+护照	hu zhao	4
+拍照	pai zhao	1
+去找	qu zhao	1
+能睡着	neng shui zhao	1
+想找	xiang zhao	1
+眼罩	yan zhao	2
+再找	zai zhao	1
+张昭	zhang zhao	1
+签证照	qian zheng zhao	1
+这	zhe	20
+着	zhe	4
+者	zhe	2
+折	zhe	2
+明摆着	ming bai zhe	1
+抱着	bao zhe	3
+变哲	bian zhe	1
+穿着	chuan zhe	2
+存着	cun zhe	1
+幸存者	xing cun zhe	1
+挫折	cuo zhe	2
+打折	da zhe	3
+带着	dai zhe	2
+呆着	dai zhe	1
+盯着	ding zhe	1
+堆着	dui zhe	3
+泛着	fan zhe	3
+先放着	xian fang zhe	1
+盖着	gai zhe	1
+骨折	gu zhe	1
+过着	guo zhe	1
+裹着	guo zhe	1
+或者	huo zhe	42
+活着	huo zhe	1
+而活着	er huo zhe	1
+急着	ji zhe	2
+记者	ji zhe	1
+接着	jie zhe	1
+连着	lian zhe	3
+偷猎者	tou lie zhe	1
+披着	pi zhe	1
+我省着	wo sheng zhe	1
+是这	shi zhe	1
+试着	shi zhe	1
+我试着	wo shi zhe	1
+陶哲	tao zhe	1
+出题者	chu ti zhe	1
+贴着	tie zhe	1
+王者	wang zhe	1
+想着	xiang zhe	4
+无出右者	wu chu you zhe	1
+契约者	qi yue zhe	3
+黑之契约者	hei zhi qi yue zhe	1
+张喆	zhang zhe	2
+照着	zhao zhe	2
+真	zhen	7
+針	zhen	1
+枕	zhen	1
+针	zhen	1
+帧	zhen	1
+骑岸镇	qi an zhen	1
+抱枕	bao zhen	4
+地震	di zhen	1
+反震	fan zhen	16
+我反震	wo fan zhen	1
+货真	huo zhen	1
+关键帧	guan jian zhen	1
+认真	ren zhen	7
+上阵	shang zhen	1
+好跳帧	hao tiao zhen	1
+写真	xie zhen	1
+袖珍	xiu zhen	1
+拖延真	tuo yan zhen	1
+战阵	zhan zhen	1
+正真	zheng zhen	3
+正	zheng	11
+整	zheng	1
+证	zheng	1
+争	zheng	1
+症	zheng	1
+保证	bao zheng	2
+党争	dang zheng	3
+一直订正	yi zhi ding zheng	1
+发证	fa zheng	1
+反正	fan zheng	51
+他反正	ta fan zheng	1
+我反正	wo fan zheng	2
+方正	fang zheng	1
+身份证	shen fen zheng	5
+竞争	jing zheng	3
+准考证	zhun kao zheng	6
+签证	qian zheng	17
+清蒸	qing zheng	1
+好认证	hao ren zheng	2
+上证	shang zheng	3
+调整	tiao zheng	3
+完整	wan zheng	2
+不完整	bu wan zheng	1
+邪正	xie zheng	1
+修正	xiu zheng	1
+验证	yan zheng	1
+拖延症	tuo yan zheng	2
+邮政	you zheng	1
+远征	yuan zheng	5
+战争	zhan zheng	2
+货币战争	huo bi zhan zheng	1
+宗教战争	zong jiao zhan zheng	1
+甲午战争	jia wu zhan zheng	1
+真正	zhen zheng	3
+我真正	wo zhen zheng	1
+正正	zheng zheng	2
+之	zhi	17
+只	zhi	4
+支	zhi	3
+至	zhi	2
+制	zhi	2
+智	zhi	2
+肢	zhi	1
+致	zhi	1
+置	zhi	1
+纸	zhi	1
+本质	ben zhi	1
+壁纸	bi zhi	4
+贬值	bian zhi	1
+标志	biao zhi	1
+不知	bu zhi	2
+不止	bu zhi	1
+长直	chang zhi	3
+黑长直	hei chang zhi	1
+橙汁	cheng zhi	1
+充值	chong zhi	2
+辞职	ci zhi	1
+大致	da zhi	1
+呆滞	dai zhi	1
+得知	de zhi	1
+地址	di zhi	7
+定制	ding zhi	2
+绝对值	jue dui zhi	1
+第二只	di er zhi	1
+防止	fang zhi	1
+纺织	fang zhi	1
+财富值	cai fu zhi	2
+钢之	gang zhi	2
+三国志	san guo zhi	1
+有过之	you guo zhi	1
+黑之	hei zhi	2
+几只	ji zhi	1
+拆几只	chai ji zhi	1
+价值	jia zhi	1
+参考价值	can kao jia zhi	1
+简直	jian zhi	14
+考试简直	kao shi jian zhi	1
+教职	jiao zhi	1
+截止	jie zhi	4
+餐巾纸	can jin zhi	1
+静止	jing zhi	1
+妆很精致	zhuang hen jing zhi	1
+就职	jiu zhi	3
+卷纸	juan zhi	1
+控制	kong zhi	5
+理智	li zhi	1
+两只	liang zhi	1
+每支	mei zhi	1
+蜜汁	mi zhi	1
+那只	na zhi	1
+哪只	na zhi	1
+配置	pei zhi	1
+气质	qi zhi	1
+全职	quan zhi	1
+同人志	tong ren zhi	1
+纱织	sha zhi	1
+设置	she zhi	2
+扬声器设置	yang sheng qi she zhi	1
+系统设置	xi tong she zhi	1
+甚至	shen zhi	2
+一伸直	yi shen zhi	1
+食指	shi zhi	1
+体制	ti zhi	2
+体质	ti zhi	1
+贴纸	tie zhi	3
+同志	tong zhi	2
+通知	tong zhi	1
+通志	tong zhi	1
+停课通知	ting ke tong zhi	1
+田玉梅通知	tian yu mei tong zhi	1
+图纸	tu zhi	1
+网址	wang zhi	3
+位置	wei zhi	4
+为止	wei zhi	2
+下位置	xia wei zhi	1
+物质	wu zhi	1
+无知	wu zhi	1
+限制	xian zhi	3
+小智	xiao zhi	2
+性质	xing zhi	3
+压制	ya zhi	2
+养殖	yang zhi	4
+两页纸	liang ye zhi	1
+一直	yi zhi	32
+一支	yi zhi	2
+一只	yi zhi	1
+我一直	wo yi zhi	4
+有一只	you yi zhi	1
+音质	yin zhi	1
+打印纸	da yin zhi	1
+在职	zai zhi	5
+太宰治	tai zai zhi	4
+政治	zheng zhi	4
+住址	zhu zhi	1
+总之	zong zhi	10
+组织	zu zhi	1
+名作之	ming zuo zhi	1
+中	zhong	85
+种	zhong	4
+重	zhong	2
+钟	zhong	2
+忠	zhong	1
+从文本中	cong wen ben zhong	1
+双币种	shuang bi zhong	1
+伸长中	shen chang zhong	1
+省常中	sheng chang zhong	4
+大众	da zhong	11
+点钟	dian zhong	1
+很多种	hen duo zhong	1
+分钟	fen zhong	9
+几分钟	ji fen zhong	1
+高中	gao zhong	6
+从高中	cong gao zhong	1
+各种	ge zhong	9
+施工中	shi gong zhong	1
+贵重	gui zhong	1
+很重	hen zhong	1
+怀中	huai zhong	1
+几种	ji zhong	2
+集中	ji zhong	1
+好几种	hao ji zhong	1
+是集中	shi ji zhong	1
+看重	kan zhong	1
+都不看重	dou bu kan zhong	1
+我最不看重	wo zui bu kan zhong	1
+我看中	wo kan zhong	1
+抗中	kang zhong	1
+两种	liang zhong	1
+评论中	ping lun zhong	1
+看这么重	kan zhe me zhong	1
+命中	ming zhong	1
+莫衷	mo zhong	1
+某种	mou zhong	1
+项目中	xiang mu zhong	1
+那种	na zhong	8
+你那种	ni na zhong	1
+向他那种	xiang ta na zhong	1
+闹钟	nao zhong	4
+其中	qi zhong	6
+期中	qi zhong	1
+谁去中	shei qu zhong	1
+上中	shang zhong	1
+现实中	xian shi zhong	1
+小时中	xiao shi zhong	1
+手中	shou zhong	2
+我中	wo zhong	3
+努力学习中	nu li xue xi zhong	2
+选中	xuan zhong	1
+严重	yan zhong	1
+一种	yi zhong	14
+有一种	you yi zhong	2
+有种	you zhong	1
+小语种	xiao yu zhong	1
+这种	zhe zhong	43
+看这种	kan zhe zhong	1
+你这种	ni zhe zhong	1
+我这种	wo zhe zhong	4
+像我这种	xiang wo zhe zhong	1
+谢这种	xie zhe zhong	1
+之中	zhi zhong	2
+只注重	zhi zhu zhong	1
+最终	zui zhong	4
+州	zhou	3
+周	zhou	2
+宙	zhou	1
+粥	zhou	1
+编舟	bian zhou	1
+常州	chang zhou	45
+大常州	da chang zhou	1
+到常州	dao chang zhou	1
+生常州	sheng chang zhou	1
+俄亥俄州	e hai e zhou	1
+非洲	fei zhou	4
+加州	jia zhou	3
+卷轴	juan zhou	4
+上古卷轴	shang gu juan zhou	2
+少女卷轴	shao nv juan zhou	1
+雷州	lei zhou	1
+每周	mei zhou	3
+哦周	o zhou	1
+欧洲	ou zhou	4
+全州	quan zhou	1
+苏州	su zhou	3
+下周	xia zhou	1
+亚洲	ya zhou	2
+扬州	yang zhou	2
+一周	yi zhou	2
+纽约州	niu yue zhou	1
+这周	zhe zhou	3
+郑州	zheng zhou	1
+住	zhu	12
+主	zhu	9
+朱	zhu	2
+注	zhu	1
+驻	zhu	1
+珠	zhu	1
+猪	zhu	1
+柱	zhu	1
+版主	ban zhu	1
+帮助	bang zhu	3
+备注	bei zhu	1
+补助	bu zhu	1
+都不住	dou bu zhu	1
+常驻	chang zhu	1
+放逐	fang zhu	1
+辅助	fu zhu	6
+来辅助	lai fu zhu	1
+我辅助	wo fu zhu	1
+公主	gong zhu	3
+领主	ling zhu	1
+男主	nan zhu	2
+这男主	zhe nan zhu	1
+怒住	nu zhu	1
+女主	nv zhu	10
+驱逐	qu zhu	1
+群主	qun zhu	1
+人住	ren zhu	1
+一人住	yi ren zhu	2
+死猪	si zhu	1
+亭主	ting zhu	1
+为主	wei zhu	3
+握住	wo zhu	1
+我住	wo zhu	1
+恶名昭著	e ming zhao zhu	1
+专注	zhuan zhu	1
+自助	zi zhu	4
+转	zhuan	7
+砖	zhuan	1
+专	zhuan	1
+板砖	ban zhuan	1
+打转	da zhuan	1
+金砖	jin zhuan	1
+双专	shuang zhuan	2
+温柔婉转	wen rou wan zhuan	1
+中专	zhong zhuan	1
+装	zhuang	1
+状	zhuang	1
+庄	zhuang	1
+安装	an zhuang	2
+包装	bao zhuang	3
+重装	chong zhuang	1
+打桩	da zhuang	1
+服装	fu zhuang	1
+加装	jia zhuang	1
+礼装	li zhuang	2
+魔装	mo zhuang	2
+女装	nv zhuang	3
+西装	xi zhuang	2
+穿西装	chuan xi zhuang	1
+现状	xian zhuang	3
+泳装	yong zhuang	2
+原装	yuan zhuang	1
+别追	bie zhui	1
+前缀	qian zhui	1
+標準	biao zhun	2
+錶迍	biao zhun	1
+标准	biao zhun	1
+听不准	ting bu zhun	1
+比较准	bi jiao zhun	1
+批准	pi zhun	1
+音准	yin zhun	2
+应准	ying zhun	1
+灼	zhuo	4
+濁	zhuo	1
+卓	zhuo	1
+着	zhuo	1
+安卓	an zhuo	3
+字	zi	13
+子	zi	6
+自	zi	2
+被子	bei zi	8
+杯子	bei zi	1
+没被子	mei bei zi	1
+一辈子	yi bei zi	4
+这辈子	zhe bei zi	2
+本子	ben zi	8
+叉子	cha zi	1
+虫子	chong zi	1
+小锤子	xiao chui zi	1
+打字	da zi	1
+打打字	da da zi	1
+咕哒子	gu da zi	1
+我打字	wo da zi	1
+袋子	dai zi	1
+电子	dian zi	5
+肚子	du zi	1
+黄段子	huang duan zi	2
+房子	fang zi	12
+的房子	de fang zi	1
+他选房子	ta xuan fang zi	1
+找房子	zhao fang zi	1
+租房子	zu fang zi	4
+爱就一个字	ai jiu yi ge zi	1
+工资	gong zi	2
+手撕鬼子	shou si gui zi	1
+女孩子	nv hai zi	1
+汉字	han zi	2
+汉子	han zi	1
+可惜是汉字	ke xi shi han zi	1
+猴子	hou zi	3
+花子	hua zi	1
+皇子	huang zi	1
+卷子	juan zi	1
+孔子	kong zi	1
+扣子	kou zi	1
+筷子	kuai zi	1
+来自	lai zi	6
+白帝篮子	bai di lan zi	1
+白底蓝字	bai di lan zi	1
+老子	lao zi	12
+找点乐子	zhao dian le zi	1
+例子	li zi	2
+举的例子	ju de li zi	1
+罗马字	luo ma zi	1
+蛮子	man zi	1
+帽子	mao zi	1
+妹子	mei zi	17
+看到妹子	kan dao mei zi	1
+泡妹子	pao mei zi	1
+电梯妹子	dian ti mei zi	1
+苗字	miao zi	1
+名字	ming zi	9
+你的名字	ni de ming zi	1
+男子	nan zi	5
+脑子	nao zi	1
+女子	nv zi	1
+耙子	pa zi	1
+牌子	pai zi	3
+耍嘴皮子	shua zui pi zi	1
+片子	pian zi	1
+棋子	qi zi	1
+小裙子	xiao qun zi	1
+日子	ri zi	1
+璇瑢子	xuan rong zi	1
+瑞兹	rui zi	4
+扇子	shan zi	1
+尚子	shang zi	1
+明太子	ming tai zi	1
+梯子	ti zi	1
+帖子	tie zi	1
+桐子	tong zi	1
+桶子	tong zi	1
+投资	tou zi	2
+兔子	tu zi	4
+来点兔子	lai dian tu zi	1
+屯资	tun zi	1
+袜子	wa zi	1
+王子	wang zi	4
+位子	wei zi	1
+文字	wen zi	2
+瞎子	xia zi	6
+一下子	yi xia zi	1
+箱子	xiang zi	8
+大箱子	da xiang zi	2
+理箱子	li xiang zi	1
+窝里箱子	wo li xiang zi	1
+小箱子	xiao xiang zi	1
+鞋子	xie zi	3
+学子	xue zi	1
+样子	yang zi	18
+的样子	de yang zi	1
+老样子	lao yang zi	1
+那样子	na yang zi	1
+这样子	zhe yang zi	5
+椅子	yi zi	1
+小姨子	xiao yi zi	1
+影子	ying zi	1
+玉子	yu zi	3
+月子	yue zi	5
+简隐月子	jian yin yue zi	1
+筒隐月子	tong yin yue zi	3
+直子	zhi zi	1
+种子	zhong zi	1
+桌子	zhuo zi	1
+总	zong	6
+放纵	fang zong	2
+副总	fu zong	1
+苑总	yuan zong	5
+走	zou	12
+邹	zou	1
+无伴奏	wu ban zou	1
+暴走	bao zou	3
+带不走	dai bu zou	2
+到不走	dao bu zou	1
+才走	cai zou	1
+四重奏	si chong zou	1
+点走	dian zou	1
+共奏	gong zou	1
+场合走	chang he zou	1
+时候走	shi hou zou	1
+自己走	zi ji zou	1
+节奏	jie zou	1
+跳走	tiao zou	1
+演奏	yan zou	1
+租	zu	5
+国足	guo zu	1
+几组	ji zu	1
+满足	man zu	1
+蛮族	man zu	1
+不满足	bu man zu	1
+魅族	mei zu	1
+民族	min zu	1
+字幕组	zi mu zu	1
+最	zui	1
+嘴	zui	1
+闭嘴	bi zui	1
+大嘴	da zui	3
+麻醉	ma zui	1
+负荆请罪	fu jing qing zui	1
+做	zuo	37
+作	zuo	3
+坐	zuo	2
+左	zuo	1
+不做	bu zuo	2
+做不做	zuo bu zuo	2
+操作	cao zuo	1
+定做	ding zuo	1
+多做	duo zuo	1
+工作	gong zuo	40
+确定工作	que ding gong zuo	1
+政府工作	zheng fu gong zuo	1
+好工作	hao gong zuo	2
+连工作	lian gong zuo	1
+我工作	wo gong zuo	1
+性工作	xing gong zuo	1
+找工作	zhao gong zuo	12
+还做	hai zuo	2
+合作	he zuo	3
+会坐	hui zuo	1
+既座	ji zuo	1
+讲座	jiang zuo	2
+来做	lai zuo	1
+名作	ming zuo	2
+能做	neng zuo	1
+去做	qu zuo	1
+神作	shen zuo	1
+是做	shi zuo	1
+下作	xia zuo	2
+想做	xiang zuo	1
+写作	xie zuo	9
+良心作	liang xin zuo	1
+就要做	jiu yao zuo	1
+可以做	ke yi zuo	2
+没有做	mei you zuo	1
+原作	yuan zuo	1
+做做	zuo zuo	2
+做作	zuo zuo	1
+给我做做	gei wo zuo zuo	1

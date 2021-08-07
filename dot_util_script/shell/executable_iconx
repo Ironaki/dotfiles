@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# https://superuser.com/questions/618501/changing-an-applications-icon-from-the-terminal-osx
+# Note: It doesn't work for iTerm, but the new iTerm's icon looks good
+
+apps=(
+  "Emacs"
+  #  "iTerm" #  Don't replace it, since its new icon looks good
+)
+
+for app in "${apps[@]}"; do
+  new_icon="${DROPBOX}/App Icons/${app}.icns"
+  app_dir="/Applications/${app}.app"
+  # Make sure file exist and app installed
+  if [[ -f "${new_icon}" ]] && [[ -d "${app_dir}" ]]; then
+    cp "${new_icon}" "${app_dir}/Contents/Resources/${app}.icns"
+    touch "${app_dir}"
+    echo "Finished changing icon: ${app}"
+  else
+    echo "Icon files does not exist or ${app} is not installed"
+  fi
+done
