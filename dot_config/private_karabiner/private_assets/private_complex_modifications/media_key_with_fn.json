@@ -1,0 +1,29 @@
+{
+    "title": "Media Key with fn",
+    "rules": [
+        {
+            "manipulators": [
+                {
+                    "description": "map fn+8 to play_or_pause",
+                    "type": "basic",
+                    "from": {
+                        "key_code": "8",
+                        "modifiers": {
+                            "mandatory": [
+                                "fn"
+                            ],
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "play_or_pause"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
