@@ -1,0 +1,3 @@
+* Dotfiles, configurations and scripts
++ Managed by [[https://github.com/twpayne/chezmoi][chezmoi]]
++ Migrated from [[https://github.com/Ironaki/dotfiles-old][old dotfiles repo]] managed by [[https://github.com/TheLocehiliosan/yadm][yadm]]
