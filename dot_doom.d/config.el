@@ -60,3 +60,6 @@
       ns-option-modifier        'none
       mac-right-option-modifier 'meta
       ns-right-option-modifier  'meta)
+
+(global-set-key (kbd "C-x k") 'kill-this-buffer)
+;; END OF MY CONFIGURATION
