@@ -24,6 +24,7 @@ alias -g gg="| rg"
 alias copy="pbcopy"
 alias dus="du -sh"
 alias cl="clear"
+alias utcnow="date -u +'%Y-%m-%dT%H:%M:%SZ'"
 
 #3. installed tools alias
 # TODO: Use doom
