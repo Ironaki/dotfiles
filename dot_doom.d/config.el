@@ -62,8 +62,15 @@
       ns-right-option-modifier  'meta)
 
 (setq doom-theme 'solarized-light)
-
 (setq display-line-numbers-type 'relative)
 
 (global-set-key (kbd "C-x k") 'kill-this-buffer)
+
+;; Mode
+;; Ledger
+(defun iro/ledger-hook()
+  (setq ledger-default-date-format ledger-iso-date-format))
+
+(add-hook 'ledger-mode-hook 'iro/ledger-hook)
+
 ;; END OF MY CONFIGURATION

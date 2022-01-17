@@ -51,5 +51,4 @@
 
 ;; BEGINING OF MY CONFIGURATION
 (package! solarized-theme)
-(package! ledger-mode)
 (package! csv-mode)
