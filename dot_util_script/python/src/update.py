@@ -10,11 +10,11 @@ from shutil import copyfile
 from os import chmod
 
 # Change this variable, if you add or delete files
-FILES = ["vocab", "lcinit", "csv2ledger_preprocess"]
+FILES = ["vocab", "lcinit", "csv2ledger_preprocess", "gsummary"]
 
 for file_name in FILES:
-    old_file = file_name+".py"
-    new_file = "../"+file_name
+    old_file = file_name + ".py"
+    new_file = "../" + file_name
     copyfile(old_file, new_file)
     chmod(new_file, 0o755)
     chmod(old_file, 0o644)
