@@ -33,15 +33,17 @@ def summary(records):
             f"{str(hours).rjust(3, ' ')}:{str(minutes).rjust(2, '0')}  {start_date} ~ {end_date-timedelta(days=1)}"
         )
 
-    print("Weekly Progress in the Last Four Weeks:")
-    for i in range(4):
+    count_week = 6
+    print(f"Weekly Progress in the Last {count_week} Weeks:")
+    for i in range(count_week):
         start_date = today - timedelta(weeks=i + 1)
         end_date = today - timedelta(weeks=i)
         summary_once(start_date, end_date)
 
     print()
-    print("Monthly Progress in the Last Four Months:")
-    for i in range(4):
+    count_month = 8
+    print(f"Monthly Progress in the Last {count_month} Months:")
+    for i in range(count_month):
         start_date = today - timedelta(days=30 * (i + 1))
         end_date = today - timedelta(days=30 * i)
         summary_once(start_date, end_date)
