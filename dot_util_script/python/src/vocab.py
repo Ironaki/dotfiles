@@ -6,36 +6,69 @@
 Five levels of vocab in files named
 1.txt -> 5.txt
 (least remembered -> most remembered)
-
-Each file contains following schema:
-    | line number | content              |
-    |-------------+----------------------|
-    | 1           | Timestamp            |
-    | 2 -> n      | [Vocab] ** [Details] |
 """
 
 import random
 import shutil
 from datetime import datetime
+from urllib import parse
+
+
+class Vocab:
+    def __init__(self, vocab_list):
+        self.vocab = vocab_list[0].strip()
+        self.details = vocab_list[1:]
+
+    def print_vocab(self):
+        print(self.vocab)
+
+    def print_details(self):
+        print("\n".join(line.strip() for line in self.details[1:]))
+
+    def print_weblio_url(self):
+        encoded_vocab = parse.quote(self.vocab.encode())
+        print(f"https://www.weblio.jp/content/{encoded_vocab}")
+
+    def set_extra(self, details):
+        self.details = [details]
+
+    def write_to_file(self, f):
+        f.write(self.vocab + "\n")
+        f.writelines(self.details + ["\n"])
+
+    def __repr__(self):
+        return "\n".join([self.vocab] + self.details)
 
 
 def read_file(path):
-    """ Read in a file, return list of vocabs (all lines except the first one)
+    """Read in a file, return list of Vocab
 
     Args:
         path: path of the file
 
     Returns:
-        vocab_list: list of vocabs
+        vocab_list: list of Vocab
     """
     with open(path, "r") as vocab_file:
         lines = vocab_file.readlines()
 
-    return lines[1:]  # The first line is the time stamp
+    lines = lines[1:] + [
+        ""
+    ]  # The first line is the timestamp. Add "" as the delimiter of the last one
+    vocabs = []
+    vocab_lines = []
+    for line in lines:
+        if line.strip() == "":  # delimiter between vocabularies is an empty line
+            if vocab_lines:
+                vocabs.append(Vocab(vocab_lines))
+            vocab_lines = []
+        else:
+            vocab_lines.append(line)
+    return vocabs
 
 
 def split_list(vocab_list, num):
-    """ Randomly split vocabs list into
+    """Randomly split vocabs list into
      vocab list to memorize / not to memorize
     (all words if num is larger than the available words)
 
@@ -49,15 +82,15 @@ def split_list(vocab_list, num):
     """
     line_num = len(vocab_list)
     if line_num < num:  # n of available vocabs < n to work on
-        print("There are only {} words. Select all".format(line_num))
+        print(f"There are only {line_num} words. Select all.")
         num = line_num
 
     random.shuffle(vocab_list)
     return vocab_list[:num], vocab_list[num:]
 
 
-def word_option(word_line):
-    """ Show the word. Show details according to the command.
+def word_option(vocab):
+    """Show the word. Show details according to the command.
 
     Args:
         word_line: a line in the original file (one vocab)
@@ -70,86 +103,62 @@ def word_option(word_line):
 
     Return:
         word_line: word, altered if used alter command
-        bool: whether or not memorized
+        bool: memorized or not
     """
-    alt_command = ["delete", "replace", "a"]
+    alt_command = ["m", "d", "a"]
     y_n = ["y", "n"]
-    print("~~~>")
 
-    if "**" not in word_line:  # When there are no details
-        print(word_line.strip(" \n　"))
+    print("~~~>")
+    vocab.print_vocab()
+    print("")
+    vocab.print_weblio_url()
+    print("")
+    ans = input("y/n or m/d/a (more/delete/add detail) ~~~> ")
+    while ans not in y_n:
+        if ans in alt_command:
+            if ans == "d":
+                return None, True
+            if ans == "m":
+                vocab.print_details()
+            if ans == "a":
+                details = input("Enter new details: ")
+                vocab.set_detail(details)
         ans = input("y/n: ")
 
-        if ans in alt_command:  # accept alternative command
-            if ans == "delete":
-                return "", False
-            if ans == "replace":
-                new_word = input("Replace with: ")
-                word_line = new_word+"\n"
-            if ans == "a":
-                extra = input("Enter new details: ")
-                word_line = word_line.replace("\n", " ** "+extra+"\n")
-
-        while ans not in y_n:
-            ans = input("y/n: ")
-
-        return word_line, True if ans == "y" else word_line, False
-    else:  # When there are details
-        word = word_line.split("**")
-        print(word[0].strip(" 　"))
-        ans = input("y/n/d: ")
-
-        if ans == "d":  # Show details
-            print(word[1].strip(" 　\n"))
-            ans = input("y/n: ")
-
-        if ans in alt_command:
-            if ans == "delete":
-                return "", False
-            if ans == "replace":
-                new_word = input("Replace with: ")
-                word_line = new_word+"\n"
-            if ans == "a":
-                extra = input("Enter new details: ")
-                word_line = word_line.replace("\n", " "+extra+"\n")
-
-        while ans not in y_n:
-            ans = input("y/n: ")
-
-        return word_line, True if ans == "y" else word_line, False
+    return vocab, ans.strip() == "y"
 
 
 def word_run_options(vocab_list):
-    """ run word_option for a vocab list
+    """run word_option for a vocab list
     return stay vocab list/ promotion vocab list
     """
     stay_list = []
     prom_list = []
-    for word_line in vocab_list:
-        word_line, to_prom = word_option(word_line)
-        if word_line:
+    for vocab in vocab_list:
+        vocab, to_prom = word_option(vocab)
+        if vocab:
             if to_prom:
-                prom_list.append(word_line)
+                prom_list.append(vocab)
             else:
-                stay_list.append(word_line)
+                stay_list.append(vocab)
     return stay_list, prom_list
 
 
 def backup_files(valid_level):
-    """ Backup files in "bak" directory
+    """Backup files in "bak" directory
     Record the timestamp in a file
 
     Args:
         valid_level: [str] List of number of levels
     """
     with open("bak/time", "w") as time_file:
-        time_file.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S")+"\n")
+        time_file.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n")
     for level in valid_level:
-        shutil.copy(str(level)+".txt", "bak/")
+        shutil.copy(str(level) + ".txt", "bak/")
 
 
 def choose_level(valid_level, total_level):
-    """ User chooses a level
+    """User chooses a level
     Return level to work on (int)
     """
     level = 0
@@ -159,17 +168,17 @@ def choose_level(valid_level, total_level):
         try:
             level = int(level)
         except ValueError:
-            print("A valid level is between 1 and {}.".format(total_level))
+            print(f"A valid level is between 1 and {total_level}.")
             level = 0
             continue
         # Try to see if level is valid
         if level not in valid_level:
-            print("A valid level is between 1 and {}.".format(total_level))
+            print(f"A valid level is between 1 and {total_level}.")
     return level
 
 
 def choose_number_of_words():
-    """ User chooses number of words to work on
+    """User chooses number of words to work on
     Return number of words (int)
     """
     num = 0
@@ -195,7 +204,7 @@ def choose_number_of_words():
 
 
 def get_stay_prom_level(level, max_level):
-    """ get stay and promotion level of the chosen level
+    """get stay and promotion level of the chosen level
 
     If a word is not memorized (stay),
     it stays in the level (not max_level), or go to level 1 (max_level)
@@ -211,27 +220,13 @@ def get_stay_prom_level(level, max_level):
         stay_level
         prom_level
     """
-    if level == max_level:
-        return level, level+1
+    if level != max_level:
+        return level, level + 1
     return 1, level
 
 
-def print_instruction():
-    """ Print out instruction """
-    instruction = """
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-y/n for memorized or not
-d for details if available
-a to add details to the word
-delete to delete the word
-replace to replace the word
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-"""
-    print(instruction)
-
-
 def write_file(non_mem_list, stay_list, prom_list, stay_level, prom_level):
-    """ Write vocab list to file
+    """Write vocab list to file
     If the vocab is not chosen or not memorized,
     it stays in the stay_level file (file get overwritten)
 
@@ -239,53 +234,52 @@ def write_file(non_mem_list, stay_list, prom_list, stay_level, prom_level):
     it is promoted to prom_level file (appended)
     """
     # Overwrite the original file with new timestamp
-    with open(str(stay_level)+".txt", "w") as stay_file:
-        stay_file.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S")+"\n")
-        for line in non_mem_list:
-            stay_file.write(line)
-        for line in stay_list:
-            stay_file.write(line)
+    with open(str(stay_level) + ".txt", "w") as stay_file:
+        stay_file.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n")
+        for vocab in non_mem_list + stay_list:
+            vocab.write_to_file(stay_file)
 
     # Append memorized word to the higher level file
-    with open(str(prom_level)+".txt", "a") as prom_file:
-        for line in prom_list:
-            prom_file.write(line)
+    with open(str(prom_level) + ".txt", "a") as prom_file:
+        for vocab in prom_list:
+            vocab.write_to_file(prom_file)
+
+
+def main():
+    total_level = 5
+    valid_level = [x for x in range(1, total_level + 1)]
+
+    # Backup file first
+    backup_files(valid_level)
+
+    # User input level information
+    level = choose_level(valid_level, total_level)
+
+    # User input vocab number
+    num = choose_number_of_words()
+
+    # Display level and num of vocabs information
+    print(f"You want to review {num} words at level {level}")
+
+    # now read the file
+    vocab_list = read_file(str(level) + ".txt")
+
+    # split into mem and non_mem list
+    mem_list, non_mem_list = split_list(vocab_list, num)
+
+    # get stay and prom level
+    stay_level, prom_level = get_stay_prom_level(level, total_level)
+
+    # run word option
+    stay_list, prom_list = word_run_options(mem_list)
+
+    write_file(non_mem_list, stay_list, prom_list, stay_level, prom_level)
+
+    # finish up
+    print(
+        f"(^•ω •^) Great, you worked on {len(mem_list)} words, and memorized {len(prom_list)}"
+    )
 
 
 if __name__ == "__main__":
-
-    TOTAL_LEVEL = 5
-    VALID_LEVEL = [x for x in range(1, TOTAL_LEVEL+1)]
-
-    # Backup file first
-    backup_files(VALID_LEVEL)
-
-    # User input level information
-    LEVEL = choose_level(VALID_LEVEL, TOTAL_LEVEL)
-
-    # User input vocab number
-    NUM = choose_number_of_words()
-
-    # Display level and num of vocabs information
-    print("You want to review {} words at level {}".format(NUM, LEVEL))
-
-    # now read the file
-    VOCAB_LIST = read_file(str(LEVEL)+".txt")
-
-    # split into mem and non_mem list
-    MEM_LIST, NON_MEM_LIST = split_list(VOCAB_LIST, NUM)
-
-    # get stay and prom level
-    STAY_LEVEL, PROM_LEVEL = get_stay_prom_level(LEVEL, TOTAL_LEVEL)
-
-    # print out instruction
-    print_instruction()
-
-    # run word option
-    STAY_LIST, PROM_LIST = word_run_options(MEM_LIST)
-
-    write_file(NON_MEM_LIST, STAY_LIST, PROM_LIST, STAY_LEVEL, PROM_LEVEL)
-
-    # finish up
-    print("(^•ω •^) Great, you worked on {} words, and memorized {}"
-          .format(len(MEM_LIST), len(PROM_LIST)))
+    main()
