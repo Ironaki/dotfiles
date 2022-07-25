@@ -30,7 +30,16 @@ class Vocab:
         print(f"https://www.weblio.jp/content/{encoded_vocab}")
 
     def set_details(self, details):
-        self.details = [details]
+        self.details = [f"{details}\n"]
+
+    def has_details(self):
+        return "".join(self.details).strip() != ""
+
+    def get_prompt(self):
+        if self.has_details():
+            return "y/n or m/d/a (more/delete/add detail) ~~~> "
+        else:
+            return "y/n or d/a (delete/add detail) ~~~> "
 
     def write_to_file(self, f):
         f.write(self.vocab + "\n")
@@ -113,7 +122,7 @@ def word_option(vocab: Vocab):
     print("")
     vocab.print_weblio_url()
     print("")
-    ans = input("y/n or m/d/a (more/delete/add detail) ~~~> ")
+    ans = input(vocab.get_prompt())
     while ans not in y_n:
         if ans in alt_command:
             if ans == "d":
@@ -123,7 +132,7 @@ def word_option(vocab: Vocab):
             if ans == "a":
                 details = input("Enter new details: ")
                 vocab.set_details(details)
-        ans = input("y/n or m/d/a ~~~> ")
+        ans = input(vocab.get_prompt())
 
     return vocab, ans.strip() == "y"
 
