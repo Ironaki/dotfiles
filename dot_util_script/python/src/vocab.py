@@ -23,13 +23,13 @@ class Vocab:
         print(self.vocab)
 
     def print_details(self):
-        print("\n".join(line.strip() for line in self.details[1:]))
+        print("\n".join(line.strip() for line in self.details))
 
     def print_weblio_url(self):
         encoded_vocab = parse.quote(self.vocab.encode())
         print(f"https://www.weblio.jp/content/{encoded_vocab}")
 
-    def set_extra(self, details):
+    def set_details(self, details):
         self.details = [details]
 
     def write_to_file(self, f):
@@ -89,7 +89,7 @@ def split_list(vocab_list, num):
     return vocab_list[:num], vocab_list[num:]
 
 
-def word_option(vocab):
+def word_option(vocab: Vocab):
     """Show the word. Show details according to the command.
 
     Args:
@@ -122,8 +122,8 @@ def word_option(vocab):
                 vocab.print_details()
             if ans == "a":
                 details = input("Enter new details: ")
-                vocab.set_detail(details)
-        ans = input("y/n: ")
+                vocab.set_details(details)
+        ans = input("y/n or m/d/a ~~~> ")
 
     return vocab, ans.strip() == "y"
 
