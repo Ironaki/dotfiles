@@ -24,6 +24,7 @@
         pullom = pull origin master
         
         # a = !git add . && git status
+	os = !git add . && git commit -m "[+]" && git push
 	au = !git add -u . && git status
 	aa = !git add . && git add -u . && git status
 	ca = commit --amend # careful
