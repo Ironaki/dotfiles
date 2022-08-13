@@ -94,8 +94,11 @@ def split_list(vocab_list, num):
         print(f"There are only {line_num} words. Select all.")
         num = line_num
 
-    random.shuffle(vocab_list)
-    return vocab_list[:num], vocab_list[num:]
+    mem_ix = sorted(random.sample(range(line_num), k=num), reverse=True)
+    mem_list = []
+    for i in mem_ix:
+        mem_list.append(vocab_list.pop(i))
+    return mem_list, vocab_list
 
 
 def word_option(vocab: Vocab):

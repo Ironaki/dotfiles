@@ -54,7 +54,8 @@
 ;; they are implemented.
 
 ;; BEGINING OF MY CONFIGURATION
-(setq doom-font (font-spec :family "Menlo" :size 18))
+(setq doom-font (font-spec :family "Menlo" :size 18)
+      doom-unicode-font (font-spec :family "Source Han Sans VF" :size 18 :weight 'medium))
 
 (setq mac-option-modifier       'none
       ns-option-modifier        'none
@@ -72,5 +73,7 @@
   (setq ledger-default-date-format ledger-iso-date-format))
 
 (add-hook 'ledger-mode-hook 'iro/ledger-hook)
+
+(auto-save-visited-mode 1)
 
 ;; END OF MY CONFIGURATION
