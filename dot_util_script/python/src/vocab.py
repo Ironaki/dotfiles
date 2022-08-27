@@ -246,13 +246,21 @@ def write_file(non_mem_list, stay_list, prom_list, stay_level, prom_level):
     it is promoted to prom_level file (appended)
     """
     # Overwrite the original file with new timestamp
-    with open(str(stay_level) + ".txt", "w") as stay_file:
+    with open(f"{stay_level}.txt", "w") as stay_file:
         stay_file.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n")
         for vocab in non_mem_list + stay_list:
             vocab.write_to_file(stay_file)
 
+    # If the higher level file doesn't end with a newline, add it.
+    add_newline = False
+    with open(f"{prom_level}.txt", "r") as prom_file:
+        if prom_file.readlines()[-1] != "\n":
+            add_newline = True
+
     # Append memorized word to the higher level file
-    with open(str(prom_level) + ".txt", "a") as prom_file:
+    with open(f"{prom_level}.txt", "a") as prom_file:
+        if add_newline:
+            prom_file.write("\n")
         for vocab in prom_list:
             vocab.write_to_file(prom_file)
 
