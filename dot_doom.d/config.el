@@ -55,7 +55,7 @@
 
 ;; BEGINING OF MY CONFIGURATION
 (setq doom-font (font-spec :family "Menlo" :size 18)
-      doom-unicode-font (font-spec :family "Source Han Sans VF" :size 18 :weight 'medium))
+      doom-unicode-font (font-spec :family "Source Han Sans" :size 18 :weight 'medium))
 
 (setq mac-option-modifier       'none
       ns-option-modifier        'none

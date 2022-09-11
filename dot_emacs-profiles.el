@@ -1,2 +1,2 @@
-(("default" . ((user-emacs-directory . "~/.prelude-emacs")))
- ("doom" . ((user-emacs-directory . "~/.doom-emacs"))))
+(("prelude" . ((user-emacs-directory . "~/.prelude-emacs")))
+ ("default" . ((user-emacs-directory . "~/.doom-emacs"))))
