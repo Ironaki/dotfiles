@@ -52,3 +52,4 @@
 ;; BEGINING OF MY CONFIGURATION
 (package! solarized-theme)
 (package! csv-mode)
+(package! window-numbering)

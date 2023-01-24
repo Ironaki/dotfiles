@@ -62,10 +62,17 @@
       mac-right-option-modifier 'meta
       ns-right-option-modifier  'meta)
 
+;; require solarized-theme package
 (setq doom-theme 'solarized-light)
 (setq display-line-numbers-type 'relative)
 
 (global-set-key (kbd "C-x k") 'kill-this-buffer)
+
+(auto-save-visited-mode 1)
+
+;; Meta-<num> for switch b/t windows
+;; require window-numbering package
+(window-numbering-mode 1)
 
 ;; Mode
 ;; Ledger
@@ -74,6 +81,14 @@
 
 (add-hook 'ledger-mode-hook 'iro/ledger-hook)
 
-(auto-save-visited-mode 1)
+;; Org
+(setq
+    org-superstar-headline-bullets-list '("◉" "○" "✸" "✿")
+)
 
+(define-skeleton org-options-skeleton
+  "Org Export Options" nil
+  "#+options: -:nil
+#+options: ^:nil\n"
+ )
 ;; END OF MY CONFIGURATION
