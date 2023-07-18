@@ -115,3 +115,4 @@ csv2ledger() {
 
 export BAT_THEME="Solarized (light)"
 export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+
