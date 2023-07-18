@@ -1,0 +1,4 @@
+ipython
+pdir2
+pipdeptree
+requests

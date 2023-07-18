@@ -83,8 +83,11 @@
 
 ;; Org
 (setq
-    org-superstar-headline-bullets-list '("◉" "○" "✸" "✿")
+    org-superstar-headline-bullets-list '(?◉ ?○ ?✿ ?✸)
 )
+(setq org-superstar-item-bullet-alist
+    '((?+ . ?➤)
+      (?- . ?•)))
 
 (define-skeleton org-options-skeleton
   "Org Export Options" nil
