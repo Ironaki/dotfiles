@@ -8,10 +8,13 @@ Five levels of vocab in files named
 (least remembered -> most remembered)
 """
 
+import os
 import random
 import shutil
 from datetime import datetime
 from urllib import parse
+
+LANG = os.getcwd().split("/")[-1]
 
 
 class Vocab:
@@ -28,6 +31,9 @@ class Vocab:
     def print_weblio_url(self):
         encoded_vocab = parse.quote(self.vocab.encode())
         print(f"https://www.weblio.jp/content/{encoded_vocab}")
+
+    def print_dict_cc(self):
+        print(f"https://www.dict.cc/?s={self.vocab}")
 
     def set_details(self, details):
         self.details = [f"{details}\n"]
@@ -123,7 +129,10 @@ def word_option(vocab: Vocab):
     print("~~~>")
     vocab.print_vocab()
     print("")
-    vocab.print_weblio_url()
+    if LANG == "Jap":
+        vocab.print_weblio_url()
+    elif LANG == "Deu":
+        vocab.print_dict_cc()
     print("")
     ans = input(vocab.get_prompt())
     while ans not in y_n:
@@ -254,7 +263,8 @@ def write_file(non_mem_list, stay_list, prom_list, stay_level, prom_level):
     # If the higher level file doesn't end with a newline, add it.
     add_newline = False
     with open(f"{prom_level}.txt", "r") as prom_file:
-        if prom_file.readlines()[-1] != "\n":
+        prom_file_lines = prom_file.readlines()
+        if not prom_file_lines or prom_file_lines[-1] != "\n":
             add_newline = True
 
     # Append memorized word to the higher level file
@@ -266,6 +276,7 @@ def write_file(non_mem_list, stay_list, prom_list, stay_level, prom_level):
 
 
 def main():
+
     total_level = 5
     valid_level = [x for x in range(1, total_level + 1)]
 

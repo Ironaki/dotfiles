@@ -4,13 +4,13 @@ import argparse
 import os
 
 try:
-    LC_DIR = os.environ["LEETCODE"]+"/"
+    LC_DIR = os.environ["LEETCODE"] + "/"
 except:
-    LC_DIR = os.environ["DROPBOX"]+"/Programming/LeetCode/"
+    LC_DIR = os.environ["DROPBOX"] + "/Programming/LeetCode/"
 
 
 def alnum(word_list):
-    """ Change the list of words to lower case words that is alphanumeric
+    """Change the list of words to lower case words that is alphanumeric
 
     e.g.
        ['25.', 'Reverse', 'Nodes', 'in', 'k-Group']
@@ -23,7 +23,7 @@ def alnum(word_list):
 
 
 def alnum_python(words):
-    """ Generate python style question name
+    """Generate python style question name
 
     e.g.
         ['25.', 'Reverse', 'Nodes', 'in', 'k-Group']
@@ -33,12 +33,12 @@ def alnum_python(words):
         "0025_reverse_nodes_in_kgroup"
     """
     clean = alnum(words)
-    clean[0] = clean[0].rjust(4, '0')
+    clean[0] = clean[0].rjust(4, "0")
     return "_".join(clean)
 
 
 def alnum_java(words):
-    """ Generate java style question name
+    """Generate java style question name
 
     e.g.
         ['25.', 'Reverse', 'Nodes', 'in', 'k-Group']
@@ -50,36 +50,38 @@ def alnum_java(words):
 
     clean = alnum(words)
     rest = "".join(x.capitalize() for x in clean[2:])
-    head = "Q"+clean[0].rjust(4, '0')+"_"+clean[1]
-    return head+rest
+    head = "Q" + clean[0].rjust(4, "0") + "_" + clean[1]
+    return head + rest
 
 
 def python_output(question_name, stdout):
-    """ print out python file name and template
+    """print out python file name and template
     or create a new python file in python LC_DIR
 
     Args:
         question_name: processed question name
         stdout: Whether to print out
     """
-    init_template = ["from Python.lib import *",
-                     "from typing import *",
-                     "from collections import *",
-                     "from heapq import *",
-                     "from random import *",
-                     "from bisect import *",
-                     "from itertools import *",
-                     "",
-                     "",
-                     "class Solution:",
-                     ""]
+    init_template = [
+        "from Python.lib import *",
+        "from typing import *",
+        "from collections import *",
+        "from heapq import *",
+        "from random import *",
+        "from bisect import *",
+        "from itertools import *",
+        "",
+        "",
+        "class Solution:",
+        "",
+    ]
     init_template = "\n".join(line for line in init_template)
     print(question_name)
     print("====================")
     if stdout:
         print(init_template)
     else:
-        file_name = LC_DIR+"Python/"+question_name+".py"
+        file_name = LC_DIR + "Python/" + question_name + ".py"
         if os.path.isfile(file_name):
             print("File exists!")
         else:
@@ -89,28 +91,30 @@ def python_output(question_name, stdout):
 
 
 def java_output(question_name, stdout):
-    """ print out java file name and template
+    """print out java file name and template
     or create a new java file in java LC_DIR
 
     Args:
         question_name: processed question name
         stdout: Whether to print out
     """
-    init_template = ["import org.junit.jupiter.api.Test;",
-                     "import static org.junit.jupiter.api.Assertions.*;",
-                     "import java.util.*;",
-                     "",
-                     "",
-                     "public class " + question_name + " {",
-                     "}",
-                     ""]
+    init_template = [
+        "import org.junit.jupiter.api.Test;",
+        "import static org.junit.jupiter.api.Assertions.*;",
+        "import java.util.*;",
+        "",
+        "",
+        "public class " + question_name + " {",
+        "}",
+        "",
+    ]
     init_template = "\n".join(line for line in init_template)
     print(question_name)
     print("====================")
     if stdout:
         print(init_template)
     else:
-        file_name = LC_DIR+"Java/"+question_name+".java"
+        file_name = LC_DIR + "Java/" + question_name + ".java"
         if os.path.isfile(file_name):
             print("File exists!")
         else:
@@ -120,33 +124,36 @@ def java_output(question_name, stdout):
 
 
 def arg_parser():
-    """ Parse command line argument"""
-    parser = argparse.ArgumentParser(prog="lcinit",
-                                     description="Initiate LeetCode files")
+    """Parse command line argument"""
+    parser = argparse.ArgumentParser(
+        prog="lcinit", description="Initiate LeetCode files"
+    )
     # Raw string
-    parser.add_argument("raw_string",
-                        nargs="+",
-                        metavar="STRING",
-                        type=str)
+    parser.add_argument("raw_string", nargs="+", metavar="STRING", type=str)
     # # Old Version Control Flow
     # # File extension, required, support [python, java]
     # parser.add_argument("-e", "--extension",
     #                     choices=["py", "java"],
     #                     required=True,
     #                     help="extension of the file to be generated")
-    parser.add_argument("-p", "--python",
-                        action="store_true",
-                        default=False,
-                        help="generate python file")
-    parser.add_argument("-j", "--java",
-                        action="store_true",
-                        default=False,
-                        help="generate java file")
+    parser.add_argument(
+        "-p",
+        "--python",
+        action="store_true",
+        default=False,
+        help="generate python file",
+    )
+    parser.add_argument(
+        "-j", "--java", action="store_true", default=False, help="generate java file"
+    )
     # Flag. Whether print to stdout or write to a file
-    parser.add_argument("-o", "--stdout",
-                        action="store_true",
-                        default=False,
-                        help="print to stdout, default to file")
+    parser.add_argument(
+        "-o",
+        "--stdout",
+        action="store_true",
+        default=False,
+        help="print to stdout, default to file",
+    )
     args = parser.parse_args()
     return args
 
@@ -165,9 +172,7 @@ def main_run():
 
     # Flag for each language. Can generate files for multiple language
     def print_sep_line():
-        sep_str_ls = ["",
-                      "~~~~~~~~~~",
-                      ""]
+        sep_str_ls = ["", "~~~~~~~~~~", ""]
         print("\n".join(sep_str_ls))
 
     if args.python:

@@ -6,11 +6,11 @@ Chmod the new file to 755
 Change the FILES variable, if you add or delete files
 """
 
-from shutil import copyfile
 from os import chmod
+from shutil import copyfile
 
 # Change this variable, if you add or delete files
-FILES = ["vocab", "lcinit", "csv2ledger_preprocess", "gsummary"]
+FILES = ["vocab", "lcinit", "csv2ledger_preprocess", "gsummary", "ass_to_txt"]
 
 for file_name in FILES:
     old_file = file_name + ".py"

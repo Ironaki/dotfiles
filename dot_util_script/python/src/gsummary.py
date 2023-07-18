@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os
-from datetime import date, time, timedelta
 from bisect import bisect_left
+from datetime import date, time, timedelta
 
 
 def parse_row(row):
